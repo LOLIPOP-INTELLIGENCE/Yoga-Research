@@ -1,0 +1,3880 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9 no-js"> <![endif]-->
+
+<!-- replace lang attribute with your language code(ISO Language Codes) -->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+  
+  
+
+<link rel="preconnect" href="https://alpha.uscreencdn.com">
+  <link rel="preconnect" href="https://assets-gke.uscreencdn.com">
+<link rel="preconnect" href="">
+
+  <link rel="stylesheet" href="https://assets-gke.uscreencdn.com/packs/css/storefront-styles-6a82d6685be9cb197941.css" media="all" />
+  <script src="https://assets-gke.uscreencdn.com/packs/js/storefront_hotwire-d9686a07dbaa89d778fa.js" data-turbo-track="reload" defer="defer"></script>
+<script src="https://assets-gke.uscreencdn.com/packs/js/storefront_analytics-0c8973d5e85a5f3a5835.js" data-turbo-track="reload" defer="defer"></script>
+
+<script>
+//<![CDATA[
+window.gon={};gon.global={"uppy_companion_url":"https://uppy.uscreen.io/","assets_cdn_url":"https://alpha.uscreencdn.com","mixpanel_token":"44e8d04b49529b306bd4a1c79afcc56e"};gon.feature_flags=["login_limit","show_captcha","zapier_and_webhooks","mobile_calendar","new_content_flow","tailwind_latest","hotwire_catalog","new_user_dashboard","community_notifications_v1","hotwire_gift_cards","community_channels","apps_update_requests","channel_access_levels","community_engagement_setting","new_subscription_flow","confirm_email_on_gift_card_sign_up","subscriber_analytics_report","community_posts_without_title","new_people_flow","new_people_index_page","automate_billing_for_ott_svod","on_hold_hotwire","allow_website_code_customization","community_feed","pg_video_analytics","client_emails_footer"];gon.settings={"primary_color":"#6699ffff","commenting":true,"my_library":true,"stats_id":"c43v645rpolt89529v2pesifn","analytics_env_id":"production","chapter_style":"thumbnails","store_title":"YogaToday","continue_watching":true,"mark_as_watched":true,"live_event_feed_link":null,"locale":"en","autoplay":true,"uplayer":true,"apps":{"show_popup":false,"icon_url":"https://alpha.uscreencdn.com/hybrid_apps/6787/assets/icon.png","ios":{"url":"https://apps.apple.com/us/app/yogatoday-app/id1478885670?uo=4","name":"YogaToday"},"android":{"url":"https://play.google.com/store/apps/details?id=tv.uscreen.yogatoday","name":"YogaToday"}},"show_notifications_center":false,"time_format":null,"local_timezone":null};gon.currency="USD";gon.locale="en";gon.country="SG";gon.stripe="pk_live_DImPqz7QOOyx70XCA9DSifxb";gon.recaptcha_v3_pub_key="6LenX-EZAAAAAAITxgGIXKB3S2OVKsM5r5tg0wKL";gon.store_id=6787;gon.pixel_user=null;gon.pixel_store=6787;gon.pixel_session="747f6a69-5b58-4607-823a-18c8a2733f5d";gon.impersonated=null;gon.request_referer=null;gon.ga_id=null;gon.pixel_email=null;gon.environment="production";gon.analytics={"user_id":null,"store_id":6787,"pixel_session":"747f6a69-5b58-4607-823a-18c8a2733f5d","impersonated":null,"request_referer":null,"ga_id":null,"email":null,"environment":"production"};
+//]]>
+</script>
+<script>
+  var sentryDsn = 'https://a7a5d334e15546e5908bf92cc68c8833@o282387.ingest.sentry.io/5277605'
+  var sentryStorefrontActive = true
+  var sentryStorefrontSampleRate = 1.0
+  var railsEnv = 'production'
+  var analyticsHost = 'https://stats.uscreen.io'
+  var analyticsConfig = null
+  var storeId = 6787
+  var themeTitle = 'Lyra'
+</script>
+
+<!-- Pinterest Tag -->
+<script>
+!function(e){if(!window.pintrk){window.pintrk = function () {
+window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var
+  n=window.pintrk;n.queue=[],n.version="3.0";var
+  t=document.createElement("script");t.async=!0,t.src=e;var
+  r=document.getElementsByTagName("script")[0];
+  r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+pintrk('load', '2614401755216', {em: '<user_email_address>'});
+pintrk('page');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt=""
+  src="https://ct.pinterest.com/v3/?event=init&tid=2614401755216&pd[em]=<hashed_email_address>&noscript=1" />
+</noscript>
+<!-- end Pinterest Tag -->
+<!-- Additional DataLayer Tag -->
+<!-- <script>
+//   window.dataLayer = window.dataLayer || [];
+//   window.dataLayer.push({
+//     'event': {{event}}
+//     'promoCode': document.querySelector("body > div.relative.z-100 > div.layout > div.left-side > div > div > div.summary.mobile > div:nth-child(2) > div.amount").innerText,
+//     'promoName': document.querySelector("body > div.relative.z-100 > div.layout > div.left-side > div > div > div.summary.mobile > div:nth-child(2) > div.desc > span").innerText
+//   })
+// </script>-->
+<!-- end Additional DataLayer Tag -->
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/assets/footer_styles.css" />
+
+
+<!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-45553311-1', 'auto');
+    ga('send', 'pageview');
+    ga('clientTracker.send', 'pageview');
+  </script>
+
+<!-- End Google Analytics -->
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5DMMQ4R');
+  </script>
+<!-- End Google Tag Manager -->
+
+<link rel="stylesheet" href="https://assets-gke.uscreencdn.com/packs/css/tailwind-styles-92e8608622bfbeeb11e8.css" media="all" />
+<link rel="stylesheet" href="https://assets-gke.uscreencdn.com/packs/css/storefront-styles-6a82d6685be9cb197941.css" media="all" />
+  <link rel="shortcut icon" href="https://www.yogatoday.com/images/favicontypes/6972/data_2fimages_2fjauhxkvjtj6lbmzy5wpl_2020_workingman.png">
+      <script type="text/javascript">
+      (function(e,a,d,c,h){function f(k){if("undefined"!==typeof d&&d.sendBeacon){var b=a.gon;b={gid:e.cookie.split("; ").find(function(l){return l.startsWith("_gid=")}),current_pathname:a.location.pathname,current_query:a.location.search,current_host:a.location.host,window_height:a.innerHeight,window_width:a.innerWidth,real_referrer:e.referrer,current_store:b&&b.pixel_store,current_user:b&&b.pixel_user,current_email:b&&b.pixel_email,session:b&&b.pixel_session};d.sendBeacon(h,JSON.stringify(Object.assign({},b,k)))}}var g=a[c]=a[c]||
+        [];a[c].push=f;for(c=0;c<g.length;c++)f(g[c])})(document,window,navigator,"pix","https://pxl.uscreencdn.com/view");
+    </script>
+
+  <style>
+    @media (min-width: 1024px) {
+      .lg\:hidden {
+        display: none !important;
+      }
+
+      .lg\:h-auto {
+        height: auto !important;
+      }
+    }    
+  </style>
+<style>
+  :root {
+    --primary: #6699ffff;
+    --primary-rgb: 102, 153, 255;
+    --contrast-text-color: #FFFFFF;
+  }
+
+  header .w-full {
+    width: auto !important;
+  }
+  header .absolute {
+    position: inherit !important;
+  }
+  .main-menu .absolute {
+    position: absolute !important;
+  }
+  header svg {
+    display: initial !important;
+  }
+  .header svg {
+    display: initial !important;
+  }
+  /* fix Safari buttons issue for Alo theme */
+  body[class^="tmp-"] [type=button],
+  body[class^="tmp-"] [type=reset],
+  body[class^="tmp-"] [type=submit],
+  body[class^="tmp-"] button {
+      -webkit-appearance: initial;
+  }
+  /* for old themes  */
+  .display-none-important {
+      display: none !important;
+  }
+
+  .gallery-other {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
+  .gallery-grid-1 {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .gallery-grid-2 {
+    grid-template-columns: 1fr 30%;
+  }
+
+  .gallery-grid-3 {
+    grid-template-columns: 1fr 23%;
+  }
+
+  .gallery-cover-image {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .gallery-wrap {
+    height: 14.55rem;
+  }
+
+  @media screen and (min-width: 650px) {
+    .gallery-wrap {
+      height: 19.75rem;
+    }
+  }
+</style>
+
+
+<script
+  type="module"
+  crossorigin
+  src="https://cdn.jsdelivr.net/npm/uscreen-video-player@0.1.115/dist/index.js"
+></script>
+
+<script src="https://assets-gke.uscreencdn.com/packs/js/web-components-16e0b72b7e003a396913.js"></script>
+
+
+
+
+  
+  
+
+
+
+    
+      
+      
+      
+
+      <title>YogaToday</title>
+      <meta name="description" content="">
+      <!-- Twitter Card data -->
+      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:title" content="YogaToday" />
+      <meta name="twitter:description" content="" />
+      <meta name="twitter:image" content="https://alpha.uscreencdn.com/198xnull/images/logotypes/6972/465f6053-1579-439c-af31-5e1ddf32d101.1664863082.png?auto=webp" />
+      <!-- Open Graph data -->
+      <meta property="og:title" content="YogaToday" >
+      <meta property="og:type" content="website" />
+      <meta property="og:url" content="https://www.yogatoday.com" >
+      <meta property="og:image" content="https://alpha.uscreencdn.com/1110xnull/images/logotypes/6972/465f6053-1579-439c-af31-5e1ddf32d101.1664863082.png?auto=webp" >
+      <meta property="og:image:width" content="740" >
+      <meta property="og:image:height" content="420" >
+      <meta property="og:description" content="" >
+      <meta property="og:site_name" content="YogaToday" />
+      <link rel="canonical" href="https://www.yogatoday.com" />
+      <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": "YogaToday",
+      "description": "",
+      "provider": {
+        "@type": "Organization",
+        "name": "YogaToday",
+        "sameAs": "https://www.yogatoday.com"
+      }
+    }
+    </script>
+        <script type = 'application/ld+json' >
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "url": "https://www.yogatoday.com",
+        "@id": "https://www.yogatoday.com/#organization",
+        "name": "YogaToday",
+        "logo": "https://alpha.uscreencdn.com/198xnull/images/logotypes/6972/465f6053-1579-439c-af31-5e1ddf32d101.1664863082.png?auto=webp"
+      }
+    </script>
+    
+
+
+  
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    media="print"
+    onload="this.media='all'"
+    href="https://fonts.googleapis.com/css2?family=Rubik:ital@0;1&family=Rubik:ital@0;1&family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+>
+
+<style type="text/css">
+:root{
+  --base-font: Rubik, sans-serif;
+  --heading-font: Rubik, sans-serif;
+  --primary-color: #6699ffff;
+  --contrast-to-primary-color: #fff;
+}
+</style>
+
+  <link href="https://assets-gke.uscreencdn.com/theme_assets/6787/theme.css?v=1684442559" rel="stylesheet" type="text/css">
+  
+  <style>
+    .slide-background-gradient {
+      opacity: .5 !important;
+    }
+  </style>
+  
+  <!--<script type="module">-->
+  <!--import hotwiredTurbo from 'https://cdn.skypack.dev/@hotwired/turbo';-->
+  <!--</script>-->
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <!--<script src="/assets/create_templates_2.js"></script>-->
+  <script src="/assets/render_author_name.js"></script>
+  
+  <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+  <script src="https://assets-gke.uscreencdn.com/theme_assets/6787/theme.js?v=1684442559" async></script>
+</head>
+
+<body
+  dir="ltr"
+  data-theme="light"
+  data-template="index"
+  class="light"
+>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5DMMQ4R"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header data-header-theme="dark"
+  class="theme:header header transparent-header">
+  <div class="header-wrapper py-6" >
+    <div class="theme:container flex items-center justify-between">
+      <a href="/" class="header-logo">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image header-logo-image" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/99xnull/images/logotypes/6972/465f6053-1579-439c-af31-5e1ddf32d101.1664863082.png?auto=webp 66w,
+    
+      https://alpha.uscreencdn.com/198xnull/images/logotypes/6972/465f6053-1579-439c-af31-5e1ddf32d101.1664863082.png?auto=webp  132w,
+    
+      https://alpha.uscreencdn.com/396xnull/images/logotypes/6972/465f6053-1579-439c-af31-5e1ddf32d101.1664863082.png?auto=webp  264w,
+    
+  
+"
+        src="https://alpha.uscreencdn.com/images/logotypes/6972/465f6053-1579-439c-af31-5e1ddf32d101.1664863082.png"
+        
+        
+          style="
+  height: 40px
+"
+        
+        
+        
+        
+          alt="YogaToday"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+        
+      </a>
+      <nav role="navigation" class="header--menu">
+        <div class="lg:hidden">
+          <button class="header--menu-hamburger" aria-label="menu-hamburger">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" class="inline-flex"><path d="M21 7H3V5h18v2ZM21 13H3v-2h18v2ZM3 19h18v-2H3v2Z" fill="currentColor"/></svg>
+          </button>
+          <button class="header--menu-close" aria-label="menu-close">
+            <svg class="inline-flex" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="m12 10.586 6.293-6.293 1.414 1.414L13.414 12l6.293 6.293-1.414 1.414L12 13.414l-6.293 6.293-1.414-1.414L10.586 12 4.293 5.707l1.414-1.414L12 10.586Z" fill="currentColor"/></svg>
+          </button>
+        </div>
+        
+
+<div class="theme:navigation header-navigation">
+  <div class="navigation-wrapper">
+    <ul class="navigation-list">
+      
+    
+      
+      
+        
+        
+        
+        
+        
+          
+            
+              <li class="navigation-item">
+                <a class="navigation-item-link" href="/catalog">All Classes</a>
+              </li>
+            
+          
+      
+    
+      
+      
+        
+        
+        
+        
+        
+          
+            
+              <li class="navigation-item">
+                <a class="navigation-item-link" href="/categories/series">Series</a>
+              </li>
+            
+          
+      
+    
+      
+      
+        
+        
+        
+        
+        
+          
+            
+              <li class="navigation-item">
+                <a class="navigation-item-link" href="/categories/pose">Poses</a>
+              </li>
+            
+          
+      
+    
+      
+      
+    
+      
+      
+        
+        
+        
+        
+        
+          
+            
+              <li class="navigation-item">
+                <a class="navigation-item-link" href="/gift_card_redemptions/new">Gift Cards</a>
+              </li>
+            
+          
+      
+    
+      
+      
+        
+        
+        
+        
+        
+          
+            
+              <li class="navigation-item">
+                <a class="navigation-item-link" href="https://blog.yogatoday.com/">Blog</a>
+              </li>
+            
+          
+      
+    
+      
+      
+    
+      
+      
+    
+    </ul>
+  </div>
+  
+    
+    
+
+
+
+<div class="sign-in-list">
+  
+    <div class="sign-in-item">
+      <a href="/sign_in" class="header-outlined-link">Sign In</a>
+    </div>
+  
+  
+  
+</div>
+
+    
+
+</div>
+
+      </nav>
+      <div class="header-addon">
+        
+          
+
+
+
+<div class="sign-in-list">
+  
+    <div class="sign-in-item">
+      <a href="/sign_in" class="header-outlined-link">Sign In</a>
+    </div>
+  
+  
+  
+</div>
+
+        
+      </div>
+    </div>
+  </div>
+</header>
+
+<main id="page">
+  <div class="page">
+    
+      <div class="catalog-hidden-content" style="display: none;">
+        <turbo-frame id="call_to_action_1" src="https://www.yogatoday.com/pages/main-page"></turbo-frame>
+        <turbo-frame id="cta_banner" src="https://www.yogatoday.com/pages/main-page"></turbo-frame>
+        <turbo-frame id="prices_block" src="https://www.yogatoday.com/pages/main-page"></turbo-frame>
+        <turbo-frame id="custom_platforms" src="https://www.yogatoday.com/pages/main-page"></turbo-frame>
+        <turbo-frame id="call_to_action_2" src="https://www.yogatoday.com/pages/main-page"></turbo-frame>
+        <turbo-frame id="call_to_action_3" src="https://www.yogatoday.com/pages/main-page"></turbo-frame>
+      </div>
+    
+    
+      <div class="program-hidden-content" style="display: none;">
+        <turbo-frame id="program_call_to_action_1" src="https://www.yogatoday.com/pages/collection-page"></turbo-frame>
+        <turbo-frame id="program_cta_banner" src="https://www.yogatoday.com/pages/collection-page"></turbo-frame>
+        <turbo-frame id="program_prices_block" src="https://www.yogatoday.com/pages/collection-page"></turbo-frame>
+        <turbo-frame id="program_call_to_action_2" src="https://www.yogatoday.com/pages/collection-page"></turbo-frame>
+      </div>
+    
+    
+      <div class="category-hidden-content" style="display: none;">
+        <turbo-frame id="category_call_to_action_1" src="https://www.yogatoday.com/pages/category-page"></turbo-frame>
+        <turbo-frame id="category_cta_banner" src="https://www.yogatoday.com/pages/category-page"></turbo-frame>
+        <turbo-frame id="category_prices_block" src="https://www.yogatoday.com/pages/category-page"></turbo-frame>
+        <turbo-frame id="category_custom_platforms" src="https://www.yogatoday.com/pages/category-page"></turbo-frame>
+        <turbo-frame id="category_call_to_action_2" src="https://www.yogatoday.com/pages/category-page"></turbo-frame>
+        <turbo-frame id="category_call_to_action_3" src="https://www.yogatoday.com/pages/category-page"></turbo-frame>
+      </div>
+    
+    
+  
+    
+
+  
+    <div data-block-type="hero_banner" data-block-id="el-hero_banner-lyra">
+      
+
+
+
+
+
+<section class="theme:section hero-banner" data-hero-theme="dark">
+  <div class="theme:container hero-banner-container">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image hero-banner--background-image hero-banner--desktop-image" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/247xnull/assets%2Fpage-editor%2FMona_TFT_OneleggedDownDog_DunesLake_3F7A9849_HomePage02.1664898810.jpg?auto=webp 165w,
+    
+      https://alpha.uscreencdn.com/540xnull/assets%2Fpage-editor%2FMona_TFT_OneleggedDownDog_DunesLake_3F7A9849_HomePage02.1664898810.jpg?auto=webp  360w,
+    
+      https://alpha.uscreencdn.com/802xnull/assets%2Fpage-editor%2FMona_TFT_OneleggedDownDog_DunesLake_3F7A9849_HomePage02.1664898810.jpg?auto=webp  535w,
+    
+      https://alpha.uscreencdn.com/1125xnull/assets%2Fpage-editor%2FMona_TFT_OneleggedDownDog_DunesLake_3F7A9849_HomePage02.1664898810.jpg?auto=webp  750w,
+    
+      https://alpha.uscreencdn.com/1605xnull/assets%2Fpage-editor%2FMona_TFT_OneleggedDownDog_DunesLake_3F7A9849_HomePage02.1664898810.jpg?auto=webp  1070w,
+    
+      https://alpha.uscreencdn.com/2160xnull/assets%2Fpage-editor%2FMona_TFT_OneleggedDownDog_DunesLake_3F7A9849_HomePage02.1664898810.jpg?auto=webp  1440w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2FMona_TFT_OneleggedDownDog_DunesLake_3F7A9849_HomePage02.1664898810.jpg"
+        
+          loading="eager"
+        
+        
+        
+          width="1440"
+        
+        
+          height="724"
+        
+        
+          alt="discover your bliss"
+        
+      />
+    
+    
+      
+      <div
+        class="theme:image-overlay"
+        style="background-color: #000; opacity: 0.4;"
+      ></div>
+  
+  </figure>
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image theme:background-image hero-banner--mobile-image" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/600xnull/assets%2Fpage-editor%2FMona_TFT_OneleggedDownDog_DunesLake_3F7A9849_HomePage_Mobile.1663718876.jpg?auto=webp 400w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2FMona_TFT_OneleggedDownDog_DunesLake_3F7A9849_HomePage_Mobile.1663718876.jpg"
+        
+        
+        
+        
+        
+          alt="discover your bliss"
+        
+      />
+    
+    
+      
+      <div
+        class="theme:image-overlay"
+        style="background-color: #000; opacity: 0.4;"
+      ></div>
+  
+  </figure>
+</div>
+
+    <div class="hero-banner--content">
+      
+        <h1 class="hero-banner-title">
+          <span>discover your bliss</span>
+        </h1>
+      
+      
+        <div class="hero-banner-text">
+          <div class="editor-content"><p>Premium online yoga classes for inner calm &amp; outer radiance. Vinyasa, Pilates, Meditation, Kundalini, Yin and more filmed in National Parks and public lands. Practice anytime, anywhere for $15/month or $119/year. No ads, no pop-ups, no distractions.</p></div>
+        </div>
+      
+      
+    </div>
+  </div>
+</section>
+
+    </div>
+  
+
+  
+    <div data-block-type="content" data-block-id="el-content-lyra">
+      <section class="theme:section content-section text-white">
+  <div class="theme:container">
+    
+      <h3 class="theme:section-title uppercase section-title-left-lg">
+        <span>New and Popular Classes</span>
+      </h3>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="slider--container slider-with-navigation ">
+  <div class="slider-image--container relative">
+    <div id="el-content-lyra-slider-image" class="swiper">
+      <div class="swiper-wrapper">
+        
+
+          
+          
+          
+
+          <a 
+              href="https://www.yogatoday.com/programs/water-element-flow"
+             class="swiper-slide slider-image--slide mb-2 rounded-lg overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image swiper-lazy" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/465xnull/assets%2Fpage-editor%2Fbig_AA201_Adi_HipStretch_ENVT_5R0A7495_ThumbC.1656374709.1664881880.jpg?auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/930xnull/assets%2Fpage-editor%2Fbig_AA201_Adi_HipStretch_ENVT_5R0A7495_ThumbC.1656374709.1664881880.jpg?auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/1395xnull/assets%2Fpage-editor%2Fbig_AA201_Adi_HipStretch_ENVT_5R0A7495_ThumbC.1656374709.1664881880.jpg?auto=webp  930w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2Fbig_AA201_Adi_HipStretch_ENVT_5R0A7495_ThumbC.1656374709.1664881880.jpg"
+        loading="lazy"
+        
+        
+          width="243"
+        
+        
+          height="137"
+        
+        
+          alt="Water Element Flow"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+              <span class="slider-image--duration">43:38</span>
+            
+          </a>
+        
+
+          
+          
+          
+
+          <a 
+              href="https://www.yogatoday.com/programs/energizing-restorative"
+             class="swiper-slide slider-image--slide mb-2 rounded-lg overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image swiper-lazy" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/465xnull/assets%2Fpage-editor%2Fbig_DB253_Devin_Supported_Supine_Hugger_Cream_5R0A0417_ThumbC.1658113145.1664881937.jpg?auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/930xnull/assets%2Fpage-editor%2Fbig_DB253_Devin_Supported_Supine_Hugger_Cream_5R0A0417_ThumbC.1658113145.1664881937.jpg?auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/1395xnull/assets%2Fpage-editor%2Fbig_DB253_Devin_Supported_Supine_Hugger_Cream_5R0A0417_ThumbC.1658113145.1664881937.jpg?auto=webp  930w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2Fbig_DB253_Devin_Supported_Supine_Hugger_Cream_5R0A0417_ThumbC.1658113145.1664881937.jpg"
+        loading="lazy"
+        
+        
+          width="243"
+        
+        
+          height="137"
+        
+        
+          alt="Energizing Restorative"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+              <span class="slider-image--duration">18:51</span>
+            
+          </a>
+        
+
+          
+          
+          
+
+          <a 
+              href="https://www.yogatoday.com/programs/mellow-self-care"
+             class="swiper-slide slider-image--slide mb-2 rounded-lg overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image swiper-lazy" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/465xnull/assets%2Fpage-editor%2Fbig_NZ200_Neesha_Chair_Sidebend_ENVT_Vaya_6O8A4020_ThumbC.1663285778.1664881991.jpg?auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/930xnull/assets%2Fpage-editor%2Fbig_NZ200_Neesha_Chair_Sidebend_ENVT_Vaya_6O8A4020_ThumbC.1663285778.1664881991.jpg?auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/1395xnull/assets%2Fpage-editor%2Fbig_NZ200_Neesha_Chair_Sidebend_ENVT_Vaya_6O8A4020_ThumbC.1663285778.1664881991.jpg?auto=webp  930w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2Fbig_NZ200_Neesha_Chair_Sidebend_ENVT_Vaya_6O8A4020_ThumbC.1663285778.1664881991.jpg"
+        loading="lazy"
+        
+        
+          width="243"
+        
+        
+          height="137"
+        
+        
+          alt="Mellow Self-Care"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+              <span class="slider-image--duration">33:18</span>
+            
+          </a>
+        
+
+          
+          
+          
+
+          <a 
+              href="https://www.yogatoday.com/programs/pilates-beginner-core"
+             class="swiper-slide slider-image--slide mb-2 rounded-lg overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image swiper-lazy" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/465xnull/assets%2Fpage-editor%2Fbig_CB031_Camai_Boat_Core_Pilates_Yoo_0P8A1667_ThumbC.1661791786.1664882067.jpg?auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/930xnull/assets%2Fpage-editor%2Fbig_CB031_Camai_Boat_Core_Pilates_Yoo_0P8A1667_ThumbC.1661791786.1664882067.jpg?auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/1395xnull/assets%2Fpage-editor%2Fbig_CB031_Camai_Boat_Core_Pilates_Yoo_0P8A1667_ThumbC.1661791786.1664882067.jpg?auto=webp  930w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2Fbig_CB031_Camai_Boat_Core_Pilates_Yoo_0P8A1667_ThumbC.1661791786.1664882067.jpg"
+        loading="lazy"
+        
+        
+          width="243"
+        
+        
+          height="137"
+        
+        
+          alt="Pilates Beginner Core"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+              <span class="slider-image--duration">14:59</span>
+            
+          </a>
+        
+
+          
+          
+          
+
+          <a 
+              href="https://www.yogatoday.com/programs/abundance-meditation"
+             class="swiper-slide slider-image--slide mb-2 rounded-lg overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image swiper-lazy" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/465xnull/assets%2Fpage-editor%2Fbig_LC207_Liza_Meditation_Prayer_Cream_0P8A1188_Thumb.1658688684.1664882115.jpg?auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/930xnull/assets%2Fpage-editor%2Fbig_LC207_Liza_Meditation_Prayer_Cream_0P8A1188_Thumb.1658688684.1664882115.jpg?auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/1395xnull/assets%2Fpage-editor%2Fbig_LC207_Liza_Meditation_Prayer_Cream_0P8A1188_Thumb.1658688684.1664882115.jpg?auto=webp  930w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2Fbig_LC207_Liza_Meditation_Prayer_Cream_0P8A1188_Thumb.1658688684.1664882115.jpg"
+        loading="lazy"
+        
+        
+          width="243"
+        
+        
+          height="137"
+        
+        
+          alt="Meditation for Choosing Abundance"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+              <span class="slider-image--duration">14:00</span>
+            
+          </a>
+        
+
+          
+          
+          
+
+          <a 
+              href="https://www.yogatoday.com/programs/choose-abundance"
+             class="swiper-slide slider-image--slide mb-2 rounded-lg overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image swiper-lazy" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/465xnull/assets%2Fpage-editor%2Fbig_LC202_Sarah_ENVT_KneeToNose_0P8A9569_ThumbC.1659889387.1664882190.jpg?auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/930xnull/assets%2Fpage-editor%2Fbig_LC202_Sarah_ENVT_KneeToNose_0P8A9569_ThumbC.1659889387.1664882190.jpg?auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/1395xnull/assets%2Fpage-editor%2Fbig_LC202_Sarah_ENVT_KneeToNose_0P8A9569_ThumbC.1659889387.1664882190.jpg?auto=webp  930w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2Fbig_LC202_Sarah_ENVT_KneeToNose_0P8A9569_ThumbC.1659889387.1664882190.jpg"
+        loading="lazy"
+        
+        
+          width="243"
+        
+        
+          height="137"
+        
+        
+          alt="Choose Abundance"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+              <span class="slider-image--duration">29:56</span>
+            
+          </a>
+        
+
+          
+          
+          
+
+          <a 
+              href="https://www.yogatoday.com/programs/air-element-flow"
+             class="swiper-slide slider-image--slide mb-2 rounded-lg overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image swiper-lazy" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/465xnull/assets%2Fpage-editor%2Fbig_AA203_Meaghan_Kneeling_Strap_Hugger_AA203_Adi_ENVT_5R0A7956_ThumbC.1657298735.1664882244.jpg?auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/930xnull/assets%2Fpage-editor%2Fbig_AA203_Meaghan_Kneeling_Strap_Hugger_AA203_Adi_ENVT_5R0A7956_ThumbC.1657298735.1664882244.jpg?auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/1395xnull/assets%2Fpage-editor%2Fbig_AA203_Meaghan_Kneeling_Strap_Hugger_AA203_Adi_ENVT_5R0A7956_ThumbC.1657298735.1664882244.jpg?auto=webp  930w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2Fbig_AA203_Meaghan_Kneeling_Strap_Hugger_AA203_Adi_ENVT_5R0A7956_ThumbC.1657298735.1664882244.jpg"
+        loading="lazy"
+        
+        
+          width="243"
+        
+        
+          height="137"
+        
+        
+          alt="Air Element Flow"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+              <span class="slider-image--duration">40:46</span>
+            
+          </a>
+        
+
+          
+          
+          
+
+          <a 
+              href="https://www.yogatoday.com/programs/quick-heart-opening-yin"
+             class="swiper-slide slider-image--slide mb-2 rounded-lg overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image swiper-lazy" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/465xnull/assets%2Fpage-editor%2Fbig_DB251_Devin_Supine_Supported_Hugger_Bolster_Cream_5R0A0295_ThumbC.1656714341.1664882302.jpg?auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/930xnull/assets%2Fpage-editor%2Fbig_DB251_Devin_Supine_Supported_Hugger_Bolster_Cream_5R0A0295_ThumbC.1656714341.1664882302.jpg?auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/1395xnull/assets%2Fpage-editor%2Fbig_DB251_Devin_Supine_Supported_Hugger_Bolster_Cream_5R0A0295_ThumbC.1656714341.1664882302.jpg?auto=webp  930w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2Fbig_DB251_Devin_Supine_Supported_Hugger_Bolster_Cream_5R0A0295_ThumbC.1656714341.1664882302.jpg"
+        loading="lazy"
+        
+        
+          width="243"
+        
+        
+          height="137"
+        
+        
+          alt="Quick Heart Opening Yin"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+              <span class="slider-image--duration">17:02</span>
+            
+          </a>
+        
+
+          
+          
+          
+
+          <a 
+              href="/join"
+             class="swiper-slide slider-image--slide mb-2 rounded-lg overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image swiper-lazy" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/465xnull/themes/lyra-theme/content_1.jpg?auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/930xnull/themes/lyra-theme/content_1.jpg?auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/1395xnull/themes/lyra-theme/content_1.jpg?auto=webp  930w,
+    
+  
+"
+        src="https://alpha.uscreencdn.com/themes/lyra-theme/content_1.jpg"
+        loading="lazy"
+        
+        
+          width="243"
+        
+        
+          height="137"
+        
+        
+          alt="Chest & Shoulder Stretch"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+              <span class="slider-image--duration">10:47</span>
+            
+          </a>
+        
+
+          
+          
+          
+
+          <a 
+              href="/join"
+             class="swiper-slide slider-image--slide mb-2 rounded-lg overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image swiper-lazy" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/465xnull/themes/lyra-theme/content_1.jpg?auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/930xnull/themes/lyra-theme/content_1.jpg?auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/1395xnull/themes/lyra-theme/content_1.jpg?auto=webp  930w,
+    
+  
+"
+        src="https://alpha.uscreencdn.com/themes/lyra-theme/content_1.jpg"
+        loading="lazy"
+        
+        
+          width="243"
+        
+        
+          height="137"
+        
+        
+          alt="Chest & Shoulder Stretch"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+              <span class="slider-image--duration">10:47</span>
+            
+          </a>
+        
+
+          
+          
+          
+
+          <a 
+              href="/join"
+             class="swiper-slide slider-image--slide mb-2 rounded-lg overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image swiper-lazy" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/465xnull/themes/lyra-theme/content_1.jpg?auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/930xnull/themes/lyra-theme/content_1.jpg?auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/1395xnull/themes/lyra-theme/content_1.jpg?auto=webp  930w,
+    
+  
+"
+        src="https://alpha.uscreencdn.com/themes/lyra-theme/content_1.jpg"
+        loading="lazy"
+        
+        
+          width="243"
+        
+        
+          height="137"
+        
+        
+          alt="Chest & Shoulder Stretch"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+              <span class="slider-image--duration">10:47</span>
+            
+          </a>
+        
+
+          
+          
+          
+
+          <a 
+              href="/join"
+             class="swiper-slide slider-image--slide mb-2 rounded-lg overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image swiper-lazy" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/465xnull/themes/lyra-theme/content_1.jpg?auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/930xnull/themes/lyra-theme/content_1.jpg?auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/1395xnull/themes/lyra-theme/content_1.jpg?auto=webp  930w,
+    
+  
+"
+        src="https://alpha.uscreencdn.com/themes/lyra-theme/content_1.jpg"
+        loading="lazy"
+        
+        
+          width="243"
+        
+        
+          height="137"
+        
+        
+          alt="Chest & Shoulder Stretch"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+              <span class="slider-image--duration">10:47</span>
+            
+          </a>
+        
+
+          
+          
+          
+
+          <a 
+              href="/join"
+             class="swiper-slide slider-image--slide mb-2 rounded-lg overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image swiper-lazy" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/465xnull/themes/lyra-theme/content_1.jpg?auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/930xnull/themes/lyra-theme/content_1.jpg?auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/1395xnull/themes/lyra-theme/content_1.jpg?auto=webp  930w,
+    
+  
+"
+        src="https://alpha.uscreencdn.com/themes/lyra-theme/content_1.jpg"
+        loading="lazy"
+        
+        
+          width="243"
+        
+        
+          height="137"
+        
+        
+          alt="Chest & Shoulder Stretch"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+              <span class="slider-image--duration">10:47</span>
+            
+          </a>
+        
+
+          
+          
+          
+
+          <a 
+              href="/join"
+             class="swiper-slide slider-image--slide mb-2 rounded-lg overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image swiper-lazy" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/465xnull/themes/lyra-theme/content_1.jpg?auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/930xnull/themes/lyra-theme/content_1.jpg?auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/1395xnull/themes/lyra-theme/content_1.jpg?auto=webp  930w,
+    
+  
+"
+        src="https://alpha.uscreencdn.com/themes/lyra-theme/content_1.jpg"
+        loading="lazy"
+        
+        
+          width="243"
+        
+        
+          height="137"
+        
+        
+          alt="Chest & Shoulder Stretch"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+              <span class="slider-image--duration">10:47</span>
+            
+          </a>
+        
+
+          
+          
+          
+
+          <a 
+              href="/join"
+             class="swiper-slide slider-image--slide mb-2 rounded-lg overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image swiper-lazy" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/465xnull/themes/lyra-theme/content_1.jpg?auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/930xnull/themes/lyra-theme/content_1.jpg?auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/1395xnull/themes/lyra-theme/content_1.jpg?auto=webp  930w,
+    
+  
+"
+        src="https://alpha.uscreencdn.com/themes/lyra-theme/content_1.jpg"
+        loading="lazy"
+        
+        
+          width="243"
+        
+        
+          height="137"
+        
+        
+          alt="Chest & Shoulder Stretch"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+              <span class="slider-image--duration">10:47</span>
+            
+          </a>
+        
+
+          
+          
+          
+
+          <a 
+              href="/join"
+             class="swiper-slide slider-image--slide mb-2 rounded-lg overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image swiper-lazy" style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/465xnull/themes/lyra-theme/content_1.jpg?auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/930xnull/themes/lyra-theme/content_1.jpg?auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/1395xnull/themes/lyra-theme/content_1.jpg?auto=webp  930w,
+    
+  
+"
+        src="https://alpha.uscreencdn.com/themes/lyra-theme/content_1.jpg"
+        loading="lazy"
+        
+        
+          width="243"
+        
+        
+          height="137"
+        
+        
+          alt="Chest & Shoulder Stretch"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+              <span class="slider-image--duration">10:47</span>
+            
+          </a>
+        
+      </div>
+    </div>
+    <div id="el-content-lyra-prev" class="swiper-button-item swiper-button-prev"></div>
+    <div id="el-content-lyra-next" class="swiper-button-item swiper-button-next"></div>
+  </div>
+  <div id="el-content-lyra-slider-content" class="swiper">
+    <div class="swiper-wrapper">
+      
+
+        
+
+        <a 
+            href="https://www.yogatoday.com/programs/water-element-flow"
+           class="swiper-slide columns--card">
+          
+          
+            <h5 class="slider-title">
+              Water Element Flow
+            </h5>
+          
+          
+            <div class="slider-subtitle">
+              by Adi Amar
+            </div>
+          
+
+        </a>
+      
+
+        
+
+        <a 
+            href="https://www.yogatoday.com/programs/energizing-restorative"
+           class="swiper-slide columns--card">
+          
+          
+            <h5 class="slider-title">
+              Energizing Restorative
+            </h5>
+          
+          
+            <div class="slider-subtitle">
+              by Devin Bailey
+            </div>
+          
+
+        </a>
+      
+
+        
+
+        <a 
+            href="https://www.yogatoday.com/programs/mellow-self-care"
+           class="swiper-slide columns--card">
+          
+          
+            <h5 class="slider-title">
+              Mellow Self-Care
+            </h5>
+          
+          
+            <div class="slider-subtitle">
+              by Neesha Zollinger
+            </div>
+          
+
+        </a>
+      
+
+        
+
+        <a 
+            href="https://www.yogatoday.com/programs/pilates-beginner-core"
+           class="swiper-slide columns--card">
+          
+          
+            <h5 class="slider-title">
+              Pilates Beginner Core
+            </h5>
+          
+          
+            <div class="slider-subtitle">
+              by Camai Brandenberg
+            </div>
+          
+
+        </a>
+      
+
+        
+
+        <a 
+            href="https://www.yogatoday.com/programs/abundance-meditation"
+           class="swiper-slide columns--card">
+          
+          
+            <h5 class="slider-title">
+              Meditation for Choosing Abundance
+            </h5>
+          
+          
+            <div class="slider-subtitle">
+              by Liza Colpa
+            </div>
+          
+
+        </a>
+      
+
+        
+
+        <a 
+            href="https://www.yogatoday.com/programs/choose-abundance"
+           class="swiper-slide columns--card">
+          
+          
+            <h5 class="slider-title">
+              Choose Abundance
+            </h5>
+          
+          
+            <div class="slider-subtitle">
+              by Liza Colpa
+            </div>
+          
+
+        </a>
+      
+
+        
+
+        <a 
+            href="https://www.yogatoday.com/programs/air-element-flow"
+           class="swiper-slide columns--card">
+          
+          
+            <h5 class="slider-title">
+              Air Element Flow
+            </h5>
+          
+          
+            <div class="slider-subtitle">
+              by Adi Amar
+            </div>
+          
+
+        </a>
+      
+
+        
+
+        <a 
+            href="https://www.yogatoday.com/programs/quick-heart-opening-yin"
+           class="swiper-slide columns--card">
+          
+          
+            <h5 class="slider-title">
+              Quick Heart Opening Yin
+            </h5>
+          
+          
+            <div class="slider-subtitle">
+              by Devin Bailey
+            </div>
+          
+
+        </a>
+      
+
+        
+
+        <a 
+            href="/join"
+           class="swiper-slide columns--card">
+          
+          
+            <h5 class="slider-title">
+              Chest & Shoulder Stretch
+            </h5>
+          
+          
+            <div class="slider-subtitle">
+              by Jane Joe
+            </div>
+          
+
+        </a>
+      
+
+        
+
+        <a 
+            href="/join"
+           class="swiper-slide columns--card">
+          
+          
+            <h5 class="slider-title">
+              Chest & Shoulder Stretch
+            </h5>
+          
+          
+            <div class="slider-subtitle">
+              by Jane Joe
+            </div>
+          
+
+        </a>
+      
+
+        
+
+        <a 
+            href="/join"
+           class="swiper-slide columns--card">
+          
+          
+            <h5 class="slider-title">
+              Chest & Shoulder Stretch
+            </h5>
+          
+          
+            <div class="slider-subtitle">
+              by Jane Joe
+            </div>
+          
+
+        </a>
+      
+
+        
+
+        <a 
+            href="/join"
+           class="swiper-slide columns--card">
+          
+          
+            <h5 class="slider-title">
+              Chest & Shoulder Stretch
+            </h5>
+          
+          
+            <div class="slider-subtitle">
+              by Jane Joe
+            </div>
+          
+
+        </a>
+      
+
+        
+
+        <a 
+            href="/join"
+           class="swiper-slide columns--card">
+          
+          
+            <h5 class="slider-title">
+              Chest & Shoulder Stretch
+            </h5>
+          
+          
+            <div class="slider-subtitle">
+              by Jane Joe
+            </div>
+          
+
+        </a>
+      
+
+        
+
+        <a 
+            href="/join"
+           class="swiper-slide columns--card">
+          
+          
+            <h5 class="slider-title">
+              Chest & Shoulder Stretch
+            </h5>
+          
+          
+            <div class="slider-subtitle">
+              by Jane Joe
+            </div>
+          
+
+        </a>
+      
+
+        
+
+        <a 
+            href="/join"
+           class="swiper-slide columns--card">
+          
+          
+            <h5 class="slider-title">
+              Chest & Shoulder Stretch
+            </h5>
+          
+          
+            <div class="slider-subtitle">
+              by Jane Joe
+            </div>
+          
+
+        </a>
+      
+
+        
+
+        <a 
+            href="/join"
+           class="swiper-slide columns--card">
+          
+          
+            <h5 class="slider-title">
+              Chest & Shoulder Stretch
+            </h5>
+          
+          
+            <div class="slider-subtitle">
+              by Jane Joe
+            </div>
+          
+
+        </a>
+      
+    </div>
+  </div>
+  <div id="el-content-lyra-pagination" class="swiper-pagination slider-dots"></div>
+</div>
+
+<script type="text/javascript">
+  (function () {
+    function runSlider(id, slidesPerView) {
+      const shape = 'square'
+      let slidesPerViewBase = 1.15
+      let slidesPerView520 = 2.15
+      let slidesPerView750 = 2.4
+      let spaceBetween = 16
+      if (shape === 'round') {
+        slidesPerViewBase = 1
+        slidesPerView520 = 1
+        slidesPerView750 = 1
+        spaceBetween = 24
+      }
+      var settings = {
+        slidesPerView: slidesPerViewBase,
+        spaceBetween,
+        loop: false, // Not recommended to enable!!!
+        preloadImages: false,
+        // Enable lazy loading
+        lazy: true,
+        breakpoints: {
+          520: {
+            slidesPerView: slidesPerView520,
+          },
+          750: {
+            slidesPerView: slidesPerView750,
+          },
+          1024: {
+            slidesPerView: slidesPerView,
+          }
+        }
+      }
+      var swiper = new Swiper(id + '-slider-image', {
+        navigation: {
+          nextEl: id + '-next',
+          prevEl: id + '-prev',
+        },
+        ...settings
+      });
+      var swiperContent = new Swiper(id + '-slider-content', {
+        pagination: {
+          el: id + '-pagination',
+        },
+        ...settings
+      });
+      swiper.controller.control = swiperContent;
+      swiperContent.controller.control = swiper;
+    }
+    runSlider('#el-content-lyra', 5)
+
+    let hideSwiperNavigations = () => {
+      let sliderContainers = document.querySelectorAll('.slider--container')
+      sliderContainers.forEach(slider => {
+        if (slider.querySelectorAll('.swiper-pagination-bullet').length === 1) {
+          slider.classList.add('hide-navigation')
+        } else {
+          slider.classList.remove('hide-navigation')
+        }
+      })
+    }
+    hideSwiperNavigations()
+    window.addEventListener("resize", hideSwiperNavigations, true);
+  })();
+</script>
+
+  </div>
+</section>
+
+    </div>
+  
+
+  
+
+  
+    <div data-block-type="video_text" data-block-id="el-video_text-lyra">
+      
+
+
+<section class="theme:section video-text">
+  <div class="theme:container">
+    <div class="video-text-list">
+      <div class="video-text-video video-text-video__right">
+        <div class="video-text-video-wrapper">
+          <script type="text/javascript">
+function initVideoPlayer(selector) {
+  var target = document.getElementById(selector + "-video");
+  var isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
+
+  if (Hls.isSupported() && !isSafari) {
+		var hls = new Hls({ maxMaxBufferLength: 30, enableWorker: false });
+    hls.loadSource(target.src);
+    hls.attachMedia(target);
+		if (target.autoplay) {
+			return target.play()
+		}
+  }
+}
+
+function hidePoster(posterSelector) {
+	var poster = document.getElementById(posterSelector);
+	if (poster) poster.style.opacity = 0;
+}
+
+function toggleVideo(selector) {
+  var button = document.getElementById(selector + "-play-button");
+  var target = document.getElementById(selector + "-video");
+	if (target.paused) {
+		target.play()
+		button.style.opacity = 0;
+	} else {
+		target.pause()
+		button.style.opacity = 1;
+	}
+}
+</script>
+
+
+<div class="theme:video ">
+  <video
+		
+		poster="https://alpha.uscreencdn.com/video_thumbnails/p7BvW213XeaF0g.jpg?key1=bD6YPik0X2iKTlwnIMZ0KduTsZmr20JugOeetKep9MmQXWJnpmRqACHoeKIprTR8&key2=06b7c19952356dd2253cdf4479ceb774"
+		id="el-video_text-lyra-video"
+		src="https://stream.mux.com/xVVghZGb75LC92A89ig8UDVXmWqEaavH.m3u8"
+		onplay="hidePoster('el-video_text-lyra-poster')"
+		
+	>
+	</video>
+	
+		<div class="theme:video--play-button" id="el-video_text-lyra-play-button" onclick="toggleVideo('el-video_text-lyra')">
+  <button type="button" aria-label="Play Video">
+    <svg xmlns="http://www.w3.org/2000/svg" width="78" height="78" fill="none"><g filter="url(#filter0_dd_2430_4150)"><rect x="3" y="2" width="72" height="72" rx="36" fill="currentColor"/><path d="M33.757 29.177c-.759-.471-1.757.055-1.757.926v15.794c0 .871.998 1.398 1.757.926l12.72-7.896a1.081 1.081 0 0 0 0-1.854l-12.72-7.896Z" fill="#fff"/></g><defs><filter id="filter0_dd_2430_4150" x="0" y="0" width="78" height="78" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/><feOffset dy="1"/><feGaussianBlur stdDeviation="1.5"/><feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_2430_4150"/><feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/><feOffset dy="1"/><feGaussianBlur stdDeviation="1"/><feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.06 0"/><feBlend in2="effect1_dropShadow_2430_4150" result="effect2_dropShadow_2430_4150"/><feBlend in="SourceGraphic" in2="effect2_dropShadow_2430_4150" result="shape"/></filter></defs></svg>
+  </button>
+</div>
+
+
+	
+	
+		<figure id="el-video_text-lyra-poster" class="theme:video-poster">
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image " style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/video_thumbnails/p7BvW213XeaF0g.jpg?key1=bD6YPik0X2iKTlwnIMZ0KduTsZmr20JugOeetKep9MmQXWJnpmRqACHoeKIprTR8&key2=06b7c19952356dd2253cdf4479ceb774&auto=webp 310w,
+    
+      https://alpha.uscreencdn.com/video_thumbnails/p7BvW213XeaF0g.jpg?key1=bD6YPik0X2iKTlwnIMZ0KduTsZmr20JugOeetKep9MmQXWJnpmRqACHoeKIprTR8&key2=06b7c19952356dd2253cdf4479ceb774&auto=webp  620w,
+    
+      https://alpha.uscreencdn.com/video_thumbnails/p7BvW213XeaF0g.jpg?key1=bD6YPik0X2iKTlwnIMZ0KduTsZmr20JugOeetKep9MmQXWJnpmRqACHoeKIprTR8&key2=06b7c19952356dd2253cdf4479ceb774&auto=webp  930w,
+    
+  
+"
+        src="https://alpha.uscreencdn.com/video_thumbnails/p7BvW213XeaF0g.jpg?key1=bD6YPik0X2iKTlwnIMZ0KduTsZmr20JugOeetKep9MmQXWJnpmRqACHoeKIprTR8&key2=06b7c19952356dd2253cdf4479ceb774"
+        loading="lazy"
+        
+        
+          width="384"
+        
+        
+          height="216"
+        
+        
+          alt="poster"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+			
+			
+		</figure>
+	
+  
+</div>
+
+<script 
+	src="https://cdn.jsdelivr.net/npm/hls.js@1.0.11/dist/hls.min.js" 
+	integrity="sha256-FSa/gzzd96DdATWeeFcZlFcXJU9cQ5Yt3wGe15tmI7Q=" 
+	crossorigin="anonymous"
+	onload="initVideoPlayer('el-video_text-lyra')"
+>
+</script>
+
+        </div>
+      </div>
+      <div class="video-text-content">
+        
+          <h3 class="theme:title">
+            <span>SET YOUR PRACTICE FREE</span>
+          </h3>
+        
+        
+          <div class="theme:subtitle">
+            <div class="editor-content"><p>We are a boutique online yoga subscription service based in Jackson Hole, Wyoming. Our yoga classes are filmed outdoors in stunning National Parks, public lands, and other serene natural locations. The YogaToday instructors hail from all over the world– New York City, Los Angeles, Jackson Hole, London, and Lisbon to name a few– and were hand selected because they are the best at what they do. We want your online yoga experience to be calming, beautiful, and transportive, which is why we stay ad and pop-up free.</p></div>
+          </div>
+        
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+    </div>
+  
+
+  
+    <div data-block-type="tiled_gallery" data-block-id="el-tiled-gallery-lyra">
+      <section class="theme:section tiled-gallery-section text-white">
+  <div class="theme:container">
+    
+      <h3 class="theme:section-title section-title-left">
+        <span>Curated playlists and challenges designed to fit your mood, your needs, your life.</span>
+      </h3>
+    
+    <div id="el-tiled-gallery-lyra-tiled-gallery-slider" class="swiper swiper-carousel">
+      <div class="swiper-wrapper tiled-gallery-list">
+        
+        
+          <div class="swiper-slide tiled-gallery-item">
+            
+            
+            
+            <a 
+          href="/categories/beginners-yoga"
+         class="tiled-gallery-item-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image " style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/624xnull/assets%2Fpage-editor%2Fe1f033ea-5619-40a9-ada9-b51bd4b45d1b.1664880616.jpg?auto=webp 416w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2Fe1f033ea-5619-40a9-ada9-b51bd4b45d1b.1664880616.jpg"
+        loading="lazy"
+        
+        
+          width="416"
+        
+        
+          height="234"
+        
+        
+          alt="NEWBIES"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+            
+              <div class="tiled-gallery-item-overlay"></div>
+              <h4 class="tiled-gallery-item-title">NEWBIES</h4>
+            
+            </a>
+          </div>
+        
+        
+          <div class="swiper-slide tiled-gallery-item">
+            
+            
+            
+            <a 
+          href="/categories/meditation"
+         class="tiled-gallery-item-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image " style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/624xnull/assets%2Fpage-editor%2F597cb33c-746b-4d8d-b376-482664d8ecc6.1664880658.jpg?auto=webp 416w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2F597cb33c-746b-4d8d-b376-482664d8ecc6.1664880658.jpg"
+        loading="lazy"
+        
+        
+          width="416"
+        
+        
+          height="234"
+        
+        
+          alt="CHILL OUT"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+            
+              <div class="tiled-gallery-item-overlay"></div>
+              <h4 class="tiled-gallery-item-title">CHILL OUT</h4>
+            
+            </a>
+          </div>
+        
+        
+          <div class="swiper-slide tiled-gallery-item">
+            
+            
+            
+            <a 
+          href="/categories/pilates"
+         class="tiled-gallery-item-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image " style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/624xnull/assets%2Fpage-editor%2F0b7c2b5a-bdc1-481c-abe2-41fb08f8611c.1664880842.jpg?auto=webp 416w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2F0b7c2b5a-bdc1-481c-abe2-41fb08f8611c.1664880842.jpg"
+        loading="lazy"
+        
+        
+          width="416"
+        
+        
+          height="234"
+        
+        
+          alt="PILATES"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+            
+              <div class="tiled-gallery-item-overlay"></div>
+              <h4 class="tiled-gallery-item-title">PILATES</h4>
+            
+            </a>
+          </div>
+        
+        
+          <div class="swiper-slide tiled-gallery-item">
+            
+            
+            
+            <a 
+          href="/categories/advanced-yoga"
+         class="tiled-gallery-item-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image " style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/624xnull/assets%2Fpage-editor%2Fadebfedb-4cac-48fc-a708-1f2712904005.1664880868.jpg?auto=webp 416w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2Fadebfedb-4cac-48fc-a708-1f2712904005.1664880868.jpg"
+        loading="lazy"
+        
+        
+          width="416"
+        
+        
+          height="234"
+        
+        
+          alt="NINJAS"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+            
+              <div class="tiled-gallery-item-overlay"></div>
+              <h4 class="tiled-gallery-item-title">NINJAS</h4>
+            
+            </a>
+          </div>
+        
+        
+          <div class="swiper-slide tiled-gallery-item">
+            
+            
+            
+            <a 
+          href="/categories/athlete-training"
+         class="tiled-gallery-item-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image " style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/624xnull/assets%2Fpage-editor%2F8d5bdbe8-0fc8-4919-a324-eb0287435caa.1664880927.jpg?auto=webp 416w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2F8d5bdbe8-0fc8-4919-a324-eb0287435caa.1664880927.jpg"
+        loading="lazy"
+        
+        
+          width="416"
+        
+        
+          height="234"
+        
+        
+          alt="CROSS-TRAINING"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+            
+              <div class="tiled-gallery-item-overlay"></div>
+              <h4 class="tiled-gallery-item-title">CROSS-TRAINING</h4>
+            
+            </a>
+          </div>
+        
+        
+          <div class="swiper-slide tiled-gallery-item">
+            
+            
+            
+            <a 
+          href="/categories/restorative"
+         class="tiled-gallery-item-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image " style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/624xnull/assets%2Fpage-editor%2F7f0182b7-435d-4398-9bb2-e5319af6a1e4.1664881011.jpg?auto=webp 416w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2F7f0182b7-435d-4398-9bb2-e5319af6a1e4.1664881011.jpg"
+        loading="lazy"
+        
+        
+          width="416"
+        
+        
+          height="234"
+        
+        
+          alt="RESTORE"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+            
+              <div class="tiled-gallery-item-overlay"></div>
+              <h4 class="tiled-gallery-item-title">RESTORE</h4>
+            
+            </a>
+          </div>
+        
+        
+          <div class="swiper-slide tiled-gallery-item">
+            
+            
+            
+            <a 
+          href="/categories/wellness"
+         class="tiled-gallery-item-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image " style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/624xnull/assets%2Fpage-editor%2Fcb18bb8f-115a-45ce-b68f-ef60f9cfe15d.1664881385.jpg?auto=webp 416w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2Fcb18bb8f-115a-45ce-b68f-ef60f9cfe15d.1664881385.jpg"
+        loading="lazy"
+        
+        
+          width="416"
+        
+        
+          height="234"
+        
+        
+          alt="MENTAL HEALTH"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+            
+              <div class="tiled-gallery-item-overlay"></div>
+              <h4 class="tiled-gallery-item-title">MENTAL HEALTH</h4>
+            
+            </a>
+          </div>
+        
+        
+          <div class="swiper-slide tiled-gallery-item">
+            
+            
+            
+            <a 
+          href="/categories/self-massage"
+         class="tiled-gallery-item-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image " style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/624xnull/assets%2Fpage-editor%2Fe979f651-d2aa-4f74-9092-df018ec362f2.1664881432.jpg?auto=webp 416w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2Fe979f651-d2aa-4f74-9092-df018ec362f2.1664881432.jpg"
+        loading="lazy"
+        
+        
+          width="416"
+        
+        
+          height="234"
+        
+        
+          alt="PAIN RELIEF"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+            
+              <div class="tiled-gallery-item-overlay"></div>
+              <h4 class="tiled-gallery-item-title">PAIN RELIEF</h4>
+            
+            </a>
+          </div>
+        
+        
+          <div class="swiper-slide tiled-gallery-item">
+            
+            
+            
+            <a 
+          href="/categories/prenatal"
+         class="tiled-gallery-item-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image " style="">
+  <figure class="
+      theme:image-container
+      
+      
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/624xnull/assets%2Fpage-editor%2F44aca50f-297f-442a-80d1-3a0abfbcb9ea.1664881495.jpg?auto=webp 416w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2F44aca50f-297f-442a-80d1-3a0abfbcb9ea.1664881495.jpg"
+        loading="lazy"
+        
+        
+          width="416"
+        
+        
+          height="234"
+        
+        
+          alt="MOMMAS"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+            
+            
+              <div class="tiled-gallery-item-overlay"></div>
+              <h4 class="tiled-gallery-item-title">MOMMAS</h4>
+            
+            </a>
+          </div>
+        
+      </div>
+      <div id="el-tiled-gallery-lyra-pagination" class="swiper-pagination slider-dots"></div>
+    </div>
+  </div>
+</section>
+
+<script type="text/javascript">
+  (function () {
+    let swiper = undefined
+    const runSlider = (id) => {
+      const settings = {
+        slidesPerView: 1.15,
+        spaceBetween: 16,
+        loop: false, // Not recommended to enable!!!
+        preloadImages: false,
+        navigation: false,
+        // Enable lazy loading
+        lazy: true,
+        pagination: {
+          el: id + '-pagination',
+        },
+        breakpoints: {
+          550: {
+            slidesPerView: 2,
+          }
+        }
+      }
+      swiper = new Swiper(id + '-tiled-gallery-slider', {
+        ...settings
+      });
+    }
+    const switchSwiper = (id) => {
+      if (window.innerWidth < 1024) {
+        if (swiper === undefined) {
+          runSlider(id)
+        }
+      } else {
+        if (swiper !== undefined) {
+          swiper.destroy(true, true)
+          swiper = undefined
+        }
+      }
+    }
+    switchSwiper('#el-tiled-gallery-lyra')
+    window.addEventListener("resize", () => switchSwiper('#el-tiled-gallery-lyra'));
+  })();
+</script>
+
+    </div>
+  
+
+  
+    <div data-block-type="platforms" data-block-id="el-platforms-lyra">
+      <section class="theme:section mobile-apps">
+  <div class="theme:container">
+    <div class="platforms--content">
+      
+        <h3 class="theme:title">
+          <span>Anytime, Anywhere</span>
+        </h3>
+      
+      
+        <div class="theme:subtitle">
+          <div class="editor-content"><p>Our seamless apps for iPhone, Android, Roku, Apple TV, and Fire TV are designed to enhance user experience and highlight the superior quality of our videos. With apps for iPhone and Android, you can download classes directly to your phone or tablet and take them with you wherever you go, even if you're going off the grid.</p></div>
+        </div>
+      
+    </div>
+    
+
+<svg width="1158" height="608" viewBox="0 0 1158 608" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="platforms-svg">
+  <g filter="url(#a)"><path d="M221.727 541h729.185L1122 572H36l185.727-31Z" fill="#505050" fill-opacity=".3"/></g>
+  <g filter="url(#b)"><path d="m170.917 541 834.513 2c.05 0 .09.006.14.019.55.159.44.981-.14.981H126l44.917-3Z" fill="url(#c)" fill-opacity=".24"/></g>
+  
+    <image x="134" y="8" width="868" height="483" xlink:href="https://alpha.uscreencdn.com/1302xnull/assets%2Fpage-editor%2F6e20e371-1f8a-43ac-81eb-2424e42217e8.1664876478.jpg?auto=webp" preserveAspectRatio="xMinYMin slice" />
+  
+
+  <path fill="url(#d)" d="M134 8h868v483H134z"/>
+  <path fill="url(#e)" d="M530.2 498.872h75.6v35.042h-75.6z"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M771.397 540.203s.007.814 0 .995c-.016.413-1.527.802-3.749.802H369.27c-2.031 0-3.484-.328-3.716-.703-.122-.198 0-1.094 0-1.094h405.843Z" fill="#060709" fill-opacity=".8"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M774.097 533.913s.007 3.258 0 3.98c-.016 1.651-1.548 3.208-3.799 3.208H366.62c-2.058 0-3.846-1.067-3.82-2.8v-4.387l411.297-.001Z" fill="url(#f)"/>
+  <path d="M362.8 533.913h411.3v.899H362.8v-.899Z" fill="url(#g)"/>
+  <g opacity=".05" filter="url(#h)">
+    <path d="M548.617 505.508c-5.121-5.087-1.519-13.824 5.699-13.824h26.202c7.374 0 10.9 9.062 5.466 14.046a8.088 8.088 0 0 1-5.466 2.127h-26.202a8.089 8.089 0 0 1-5.699-2.349Z" fill="#26E108"/>
+  </g>
+  <g opacity=".5" filter="url(#i)">
+    <rect x="563.5" y="497.075" width="9" height="3.594" rx="1.797" fill="#26E108"/>
+  </g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M1010 0H126v499h884V0Zm-8 8H134v483h868V8Z" fill="#484E5D"/>
+  <g filter="url(#j)"><path d="M81.373 566h390.852L497 568H41l40.373-2Z" fill="url(#k)"/></g>
+  <path fill="url(#l)" d="M89 313h360v231H89z"/>
+  
+    <image x="89" y="313" width="360" height="231" xlink:href="https://alpha.uscreencdn.com/540xnull/assets%2Fpage-editor%2F6e20e371-1f8a-43ac-81eb-2424e42217e8.1664876492.jpg?auto=webp" preserveAspectRatio="xMinYMin slice" />
+  
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M94 309a9 9 0 0 0-9 9v234h-2V318c0-6.075 4.925-11 11-11h350c6.075 0 11 4.925 11 11v234h-2V318a9 9 0 0 0-9-9H94Z" fill="url(#m)"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M94 313a5 5 0 0 0-5 5v234h-4V318a9 9 0 0 1 9-9h350a9 9 0 0 1 9 9v234h-4V318a5 5 0 0 0-5-5H94Z" fill="#232323"/>
+  <path d="M40 552h458v8H40v-8Z" fill="url(#n)"/>
+  <path d="M40 552h458v8H40v-8Z" fill="#303B51" fill-opacity=".64"/>
+  <path d="M498 552H40v1h458v-1Z" fill="url(#o)"/>
+  <path d="M498 552H40v1h458v-1Z" fill="#303B51" fill-opacity=".64"/>
+  <path d="M236 552h66c0 3.314-2.429 6-5.425 6h-55.15c-2.996 0-5.425-2.686-5.425-6Z" fill="#757C8A"/>
+  <path d="M237 552h64c0 2.761-2.018 5-4.507 5h-54.986c-2.489 0-4.507-2.239-4.507-5Z" fill="url(#p)"/>
+  <path d="M40 560c16.132 4.667 32.883 7 49.748 7h358.504c16.864 0 33.616-2.398 49.748-7H40Z" fill="url(#q)"/>
+  <path d="M89 544h360v7h6v1H83v-1h6v-7Z" fill="#000"/>
+  <g filter="url(#r)"><path d="M967.5 565h82l11.5 4H957l10.5-4Z" fill="url(#s)" fill-opacity=".53"/></g>
+  
+    <image x="961" y="355" width="96" height="208" xlink:href="https://alpha.uscreencdn.com/144xnull/assets%2Fpage-editor%2F6e20e371-1f8a-43ac-81eb-2424e42217e8.1664876517.jpg?auto=webp" preserveAspectRatio="xMinYMin slice" />
+  
+  <path d="M961 366.655c0-6.437 5.174-11.655 11.556-11.655h72.884c6.39 0 11.56 5.218 11.56 11.655v184.69c0 6.437-5.17 11.655-11.56 11.655h-72.884c-6.382 0-11.556-5.218-11.556-11.655v-184.69Z" fill="url(#t)"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M958.563 358.863C957 361.943 957 365.975 957 374.04v169.92c0 8.065 0 12.097 1.563 15.177a14.372 14.372 0 0 0 6.269 6.293c3.069 1.57 7.086 1.57 15.119 1.57h58.099c8.03 0 12.05 0 15.12-1.57a14.39 14.39 0 0 0 6.27-6.293c1.56-3.08 1.56-7.112 1.56-15.177V374.04c0-8.065 0-12.097-1.56-15.177a14.39 14.39 0 0 0-6.27-6.293c-3.07-1.57-7.09-1.57-15.12-1.57h-58.098c-8.034 0-12.051 0-15.12 1.57a14.372 14.372 0 0 0-6.269 6.293Zm3.745 2.689C961 364.119 961 367.479 961 374.2v169.6c0 6.721 0 10.081 1.308 12.648a11.994 11.994 0 0 0 5.244 5.244C970.119 563 973.479 563 980.2 563h57.6c6.72 0 10.08 0 12.65-1.308a11.974 11.974 0 0 0 5.24-5.244c1.31-2.567 1.31-5.927 1.31-12.648V374.2c0-6.721 0-10.081-1.31-12.648a11.974 11.974 0 0 0-5.24-5.244c-2.57-1.308-5.93-1.308-12.65-1.308h-57.6c-6.721 0-10.081 0-12.648 1.308a11.994 11.994 0 0 0-5.244 5.244Z" fill="url(#u)"/><path fill-rule="evenodd" clip-rule="evenodd" d="M960.456 360.35C959 363.229 959 366.999 959 374.537v168.926c0 7.538 0 11.308 1.456 14.187a13.422 13.422 0 0 0 5.84 5.883C969.155 565 972.897 565 980.381 565h57.239c7.48 0 11.23 0 14.08-1.467a13.38 13.38 0 0 0 5.84-5.883c1.46-2.879 1.46-6.649 1.46-14.187V374.537c0-7.538 0-11.308-1.46-14.187a13.38 13.38 0 0 0-5.84-5.883c-2.85-1.467-6.6-1.467-14.08-1.467h-57.239c-7.484 0-11.226 0-14.085 1.467a13.422 13.422 0 0 0-5.84 5.883Zm1.852 1.202C961 364.119 961 367.479 961 374.2v169.6c0 6.721 0 10.081 1.308 12.648a11.994 11.994 0 0 0 5.244 5.244C970.119 563 973.479 563 980.2 563h57.6c6.72 0 10.08 0 12.65-1.308a11.974 11.974 0 0 0 5.24-5.244c1.31-2.567 1.31-5.927 1.31-12.648V374.2c0-6.721 0-10.081-1.31-12.648a11.974 11.974 0 0 0-5.24-5.244c-2.57-1.308-5.93-1.308-12.65-1.308h-57.6c-6.721 0-10.081 0-12.648 1.308a11.994 11.994 0 0 0-5.244 5.244Z" fill="#000"/><path fill="#4C515E" d="M1039 351h1v2h-1z"/><path fill="#474C58" d="M1061 372v1h-2v-1z"/>
+  <path fill="#4C525E" d="M957 373v-1h2v1z"/>
+  <path fill="#32353C" d="M1061 544v1h-2v-1zM957 545v-1h2v1z"/>
+  <path fill="#282B30" d="M979 567h-1v-2h1z"/>
+  <path d="M983.233 356.212C983.233 355 982 355 982 355h54s-1.32 0-1.32 1.212c0 4.017-3.32 6.788-7.4 6.788h-36.494c-4.085 0-7.553-2.771-7.553-6.788Z" fill="#000"/>
+  <rect x="1003.75" y="358.75" width="10.5" height="1.5" rx=".75" fill="#151515" stroke="url(#v)" stroke-width=".5"/>
+  <circle cx="1020" cy="359" r="2" fill="#151515"/>
+  <g filter="url(#w)"><circle transform="matrix(1 0 -.00127 1 1020 359)" fill="url(#x)" r="1"/></g>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M957 385h-1v7h1v-7Zm0 15h-1v16h1v-16Zm-1 20h1v16h-1v-16Zm105 10h1v-25h-1v25Z" fill="#303B51"/>
+  <defs>
+    <linearGradient id="c" x1="567.5" y1="541" x2="567.5" y2="544" gradientUnits="userSpaceOnUse"><stop/>
+      <stop offset="1" stop-opacity=".29"/></linearGradient>
+    <linearGradient id="e" x1="605.8" y1="533.913" x2="605.8" y2="498.872" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3C434E"/><stop offset="1" stop-color="#17181E"/></linearGradient>
+    <linearGradient id="f" x1="360.354" y1="533.913" x2="360.281" y2="541.101" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#555D6D"/><stop offset="1" stop-color="#303642"/></linearGradient>
+    <linearGradient id="g" x1="774.1" y1="534.812" x2="774.1" y2="533.913" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5E6877"/><stop offset="1" stop-color="#747996"/></linearGradient><linearGradient id="k" x1="269" y1="567.333" x2="269" y2="568" gradientUnits="userSpaceOnUse"><stop/>
+      <stop offset=".151"/><stop offset="1" stop-opacity=".26"/></linearGradient><linearGradient id="m" x1="268.982" y1="319.469" x2="268.982" y2="307" gradientUnits="userSpaceOnUse"><stop stop-color="#3E4757"/><stop offset="1" stop-color="#5E6879"/></linearGradient><linearGradient id="n" x1="267.67" y1="556.005" x2="498.029" y2="556.005" gradientUnits="userSpaceOnUse"><stop stop-color="#CFCFCF"/><stop offset=".909" stop-color="#AFAFAF"/><stop offset=".928" stop-color="#A4A4A4"/><stop offset=".951" stop-color="#9C9C9C"/><stop offset=".973" stop-color="#B2B2B2"/><stop offset=".986" stop-color="#C1C1C1"/><stop offset="1" stop-color="#929292"/></linearGradient><linearGradient id="o" x1="40" y1="552.512" x2="497.973" y2="552.512" gradientUnits="userSpaceOnUse"><stop offset=".005" stop-color="#F8F8F8"/><stop offset=".064" stop-color="#D0D0D0"/><stop offset=".502" stop-color="#F8F8F8"/><stop offset=".866" stop-color="#D0D0D0"/><stop offset=".875" stop-color="#D3D3D3"/><stop offset=".951" stop-color="#E9E9E9"/><stop offset="1" stop-color="#F1F1F1"/></linearGradient><linearGradient id="p" x1="269" y1="552" x2="269" y2="557" gradientUnits="userSpaceOnUse"><stop stop-color="#666D79"/><stop offset="1" stop-color="#494F5A"/></linearGradient><linearGradient id="q" x1="269" y1="560" x2="269" y2="567" gradientUnits="userSpaceOnUse"><stop stop-color="#5B6373"/><stop offset="1" stop-color="#2D3138"/></linearGradient><linearGradient id="s" x1="1009" y1="567.667" x2="1009" y2="569" gradientUnits="userSpaceOnUse"><stop/><stop offset=".151"/><stop offset="1" stop-opacity=".26"/></linearGradient><linearGradient id="u" x1="1014.79" y1="351" x2="1116.44" y2="486.237" gradientUnits="userSpaceOnUse"><stop stop-color="#404654"/><stop offset="1" stop-color="#17191C"/></linearGradient><linearGradient id="v" x1="1009" y1="359" x2="1009" y2="360" gradientUnits="userSpaceOnUse"><stop/><stop offset=".516" stop-color="#4D4D4D"/><stop offset="1"/></linearGradient><linearGradient id="x" x1=".838" y1="-.213" x2="1" y2="2" gradientUnits="userSpaceOnUse"><stop stop-color="#2E436C"/><stop offset=".341" stop-color="#2D2D2D" stop-opacity="0"/><stop offset=".849" stop-color="#3559A0"/><stop offset="1" stop-color="#4C8DD9"/></linearGradient><filter id="a" x="0" y="505" width="1158" height="103" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur stdDeviation="18" result="effect1_foregroundBlur_1009_5619"/></filter><filter id="b" x="122" y="537" width="887.93" height="11" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_1009_5619"/></filter><filter id="h" x="542.213" y="487.684" width="50.408" height="24.173" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_1009_5619"/></filter><filter id="i" x="559.5" y="493.075" width="17" height="11.594" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_1009_5619"/></filter><filter id="j" x="38" y="563" width="462" height="8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur stdDeviation="1.5" result="effect1_foregroundBlur_1009_5619"/></filter><filter id="r" x="954" y="562" width="110" height="10" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur stdDeviation="1.5" result="effect1_foregroundBlur_1009_5619"/></filter><filter id="w" x="1019" y="358" width="2" height="2" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/><feOffset/><feGaussianBlur stdDeviation=".5"/><feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/><feColorMatrix values="0 0 0 0 0.7 0 0 0 0 0.928 0 0 0 0 1 0 0 0 0.3 0"/><feBlend in2="shape" result="effect1_innerShadow_1009_5619"/></filter><pattern id="d" patternContentUnits="objectBoundingBox" width="1" height="1"><use xlink:href="#y" transform="matrix(.00033 0 0 .0006 0 -.2)"/></pattern><pattern id="l" patternContentUnits="objectBoundingBox" width="1" height="1"><use xlink:href="#y" transform="matrix(.00033 0 0 .00052 0 -.108)"/></pattern><pattern id="t" patternContentUnits="objectBoundingBox" width="1" height="1"><use xlink:href="#y" transform="matrix(.00092 0 0 .00043 -.889 0)"/></pattern>
+  </defs>
+</svg>
+
+  </div>
+</section>
+
+    </div>
+  
+
+  
+    <div data-block-type="social_feed" data-block-id="el-social-feed-lyra">
+      <section class="theme:section social-feed-section text-white">
+  <div class="theme:container social-feed-container">
+    
+      <h3 class="social-feed-tag">
+        Follow Us
+      </h3>
+    
+    
+      <h3 class="theme:section-title"><a href="https://www.instagram.com/yogatoday/" target="_blank"><span>@yogatoday</span></a></h3>
+    
+    
+    <div id="el-social-feed-lyra-social-feed-slider" class="swiper swiper-carousel">
+      <div class="swiper-wrapper social-feed-list">
+        
+        
+        <div class="swiper-slide social-feed-item">
+          
+          
+          
+          <a 
+          href="https://www.instagram.com/yogatoday/"
+         class="social-feed-item-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image " style="">
+  <figure class="
+      theme:image-container
+      
+      square
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/366xnull/assets%2Fpage-editor%2F307808141_1690730541309211_9193985658739750831_n.1664881638.jpg?auto=webp 244w,
+    
+      https://alpha.uscreencdn.com/732xnull/assets%2Fpage-editor%2F307808141_1690730541309211_9193985658739750831_n.1664881638.jpg?auto=webp  488w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2F307808141_1690730541309211_9193985658739750831_n.1664881638.jpg"
+        loading="lazy"
+        
+        
+          width="244"
+        
+        
+          height="244"
+        
+        
+          alt="@yogatoday"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+          </a>
+        </div>
+        
+        
+        <div class="swiper-slide social-feed-item">
+          
+          
+          
+          <a 
+          href="https://www.instagram.com/yogatoday/"
+         class="social-feed-item-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image " style="">
+  <figure class="
+      theme:image-container
+      
+      square
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/366xnull/assets%2Fpage-editor%2F307224115_761433454954172_6287745659427175843_n.1664881682.jpg?auto=webp 244w,
+    
+      https://alpha.uscreencdn.com/732xnull/assets%2Fpage-editor%2F307224115_761433454954172_6287745659427175843_n.1664881682.jpg?auto=webp  488w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2F307224115_761433454954172_6287745659427175843_n.1664881682.jpg"
+        loading="lazy"
+        
+        
+          width="244"
+        
+        
+          height="244"
+        
+        
+          alt="@yogatoday"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+          </a>
+        </div>
+        
+        
+        <div class="swiper-slide social-feed-item">
+          
+          
+          
+          <a 
+          href="https://www.instagram.com/yogatoday/"
+         class="social-feed-item-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image " style="">
+  <figure class="
+      theme:image-container
+      
+      square
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/366xnull/assets%2Fpage-editor%2F302169885_846339332940289_3654194253189915259_n.1664881718.jpg?auto=webp 244w,
+    
+      https://alpha.uscreencdn.com/732xnull/assets%2Fpage-editor%2F302169885_846339332940289_3654194253189915259_n.1664881718.jpg?auto=webp  488w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2F302169885_846339332940289_3654194253189915259_n.1664881718.jpg"
+        loading="lazy"
+        
+        
+          width="244"
+        
+        
+          height="244"
+        
+        
+          alt="@yogatoday"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+          </a>
+        </div>
+        
+        
+        <div class="swiper-slide social-feed-item">
+          
+          
+          
+          <a 
+          href="https://www.instagram.com/yogatoday/"
+         class="social-feed-item-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image " style="">
+  <figure class="
+      theme:image-container
+      
+      square
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/366xnull/assets%2Fpage-editor%2F301673658_1120751898815238_1718812969548593456_n.1664881760.jpg?auto=webp 244w,
+    
+      https://alpha.uscreencdn.com/732xnull/assets%2Fpage-editor%2F301673658_1120751898815238_1718812969548593456_n.1664881760.jpg?auto=webp  488w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2F301673658_1120751898815238_1718812969548593456_n.1664881760.jpg"
+        loading="lazy"
+        
+        
+          width="244"
+        
+        
+          height="244"
+        
+        
+          alt="@yogatoday"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+          </a>
+        </div>
+        
+        
+        <div class="swiper-slide social-feed-item">
+          
+          
+          
+          <a 
+          href="https://www.instagram.com/yogatoday/"
+         class="social-feed-item-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="theme:image " style="">
+  <figure class="
+      theme:image-container
+      
+      square
+      image-placeholder
+      
+    ">
+    
+      <img
+        class="theme:image-source "
+        srcset="
+  
+    
+      https://alpha.uscreencdn.com/366xnull/assets%2Fpage-editor%2F298950424_168188012400451_3682340912444569152_n.1664881809.jpg?auto=webp 244w,
+    
+      https://alpha.uscreencdn.com/732xnull/assets%2Fpage-editor%2F298950424_168188012400451_3682340912444569152_n.1664881809.jpg?auto=webp  488w,
+    
+  
+"
+        src="https://s3.us-east-1.amazonaws.com/unode1/assets%2Fpage-editor%2F298950424_168188012400451_3682340912444569152_n.1664881809.jpg"
+        loading="lazy"
+        
+        
+          width="244"
+        
+        
+          height="244"
+        
+        
+          alt="@yogatoday"
+        
+      />
+    
+    
+  </figure>
+</div>
+
+          </a>
+        </div>
+        
+      </div>
+      <div id="el-social-feed-lyra-pagination" class="swiper-pagination slider-dots"></div>
+    </div>
+  </div>
+</section>
+
+<script type="text/javascript">
+  (function () {
+    let swiper = undefined
+    const runSlider = (id) => {
+      const settings = {
+        slidesPerView: 1.15,
+        spaceBetween: 16,
+        loop: false, // Not recommended to enable!!!
+        preloadImages: false,
+        navigation: false,
+        // Enable lazy loading
+        lazy: true,
+        pagination: {
+          el: id + '-pagination',
+        },
+        breakpoints: {
+          520: {
+            slidesPerView: 2.15,
+          },
+          750: {
+            slidesPerView: 3,
+          }
+        }
+      }
+      swiper = new Swiper(id + '-social-feed-slider', {
+        ...settings
+      });
+    }
+    const switchSwiper = (id) => {
+      if (window.innerWidth < 1024) {
+        if (swiper === undefined) {
+          runSlider(id)
+        }
+      } else {
+        if (swiper !== undefined) {
+          swiper.destroy(true, true)
+          swiper = undefined
+        }
+      }
+    }
+    switchSwiper('#el-social-feed-lyra')
+    window.addEventListener("resize", () => switchSwiper('#el-social-feed-lyra'));
+  })();
+</script>
+
+    </div>
+  
+
+  
+    <div data-block-type="pricing" data-block-id="el-pricing-lyra">
+      <section class="theme:section pricing">
+  <div class="theme:container pricing-container">
+      
+        <h3 class="theme:section-title">
+          <span>START YOUR 14-DAY FREE TRIAL</span>
+        </h3>
+      
+      <div class="pricing-list">
+        
+          
+          
+          
+          
+          
+          <div class="pricing-card  ">
+            <div class="pricing-info">
+              <h4 class="pricing-title">Monthly Plan (14-days free)</h4>
+              <div class="theme:paragraph"><div class="editor-content"><p>Start your 14-day free trial with unlimited access to hundreds of full-length classes. You will not be billed until the end of your trial period. Cancel anytime.</p></div></div>
+            </div>
+            
+            <div class="pricing-button">
+              
+
+
+
+
+
+
+
+
+  <a 
+  class="theme:button 
+    button--secondary
+   pricing-button-white"
+
+    href="https://www.yogatoday.com/orders/customer_info?o=22598"
+  >
+    <span class="button-bg"></span>
+    <span class="button-content">
+      Only $15.00/month
+    </span>
+  </a>
+
+
+            </div>
+            
+          </div>
+        
+          
+          
+          
+          
+          
+          <div class="pricing-card featured pricing-dark">
+            <div class="pricing-info">
+              <h4 class="pricing-title">Yearly Prepaid - BEST VALUE (14-days free)</h4>
+              <div class="theme:paragraph"><div class="editor-content"><p>Prepay the year and pay only $9.92 per month - a savings of 34%. Start your 14-day free trial with unlimited access to hundreds of full-length classes. You will not be billed until the end of your trial period. Cancel anytime.</p></div></div>
+            </div>
+            
+            <div class="pricing-button">
+              
+
+
+
+
+
+
+
+
+  <a 
+  class="theme:button 
+    button--secondary
+   "
+
+    href="https://www.yogatoday.com/orders/customer_info?o=22600"
+  >
+    <span class="button-bg"></span>
+    <span class="button-content">
+      Only $119.00/year
+    </span>
+  </a>
+
+
+            </div>
+            
+          </div>
+        
+      </div>
+    </div>
+</section>
+
+    </div>
+  
+
+
+  </div>
+</main>
+
+
+<footer class="theme:footer footer mt-10">
+  <div class="theme:container">
+    <div class="footer-wrapper py-10">
+      <div class="footer--copyright flex justify-center lg:justify-start">
+        <a href="/" class="footer--copyright-link">
+          © 2006-2020 YogaToday
+        </a>
+      </div>
+      <div class="footer--services flex justify-center">
+        
+          <a href="https://apps.apple.com/us/app/yogatoday-online-yoga-studio/id1478885670" target="_blank" class="mx-1" aria-label="Appstore">
+            <svg width="153" height="45" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x=".839" width="151.822" height="45" rx="6" fill="#fff"/><path d="M151.694 39.686a4.307 4.307 0 0 1-2.665 3.983 4.31 4.31 0 0 1-1.651.326H6.161a4.317 4.317 0 0 1-4.32-4.31V5.319a4.32 4.32 0 0 1 4.32-4.315h141.216a4.319 4.319 0 0 1 3.987 2.664c.217.524.329 1.085.328 1.651l.002 34.368Z" fill="#fff"/><path d="M151.694 39.686a4.307 4.307 0 0 1-2.665 3.983 4.31 4.31 0 0 1-1.651.326H6.161a4.317 4.317 0 0 1-4.32-4.31V5.319a4.32 4.32 0 0 1 4.32-4.315h141.216a4.319 4.319 0 0 1 3.987 2.664c.217.524.329 1.085.328 1.651l.002 34.368Z" fill="#232323"/><path d="M34.748 22.262c-.032-3.626 2.97-5.39 3.108-5.473-1.701-2.478-4.337-2.817-5.263-2.844-2.214-.233-4.362 1.324-5.49 1.324-1.15 0-2.886-1.302-4.758-1.263-2.409.037-4.662 1.43-5.898 3.596-2.55 4.414-.648 10.9 1.796 14.469 1.222 1.749 2.65 3.699 4.52 3.63 1.828-.074 2.512-1.165 4.719-1.165 2.187 0 2.828 1.165 4.735 1.121 1.963-.03 3.199-1.755 4.378-3.518 1.413-2.002 1.98-3.976 2.002-4.077-.045-.016-3.81-1.454-3.849-5.8Zm-3.601-10.664c.983-1.23 1.656-2.903 1.47-4.601-1.424.063-3.205.984-4.23 2.187-.907 1.06-1.718 2.797-1.509 4.431 1.6.12 3.242-.807 4.268-2.017ZM61.24 35.45h-2.557l-1.4-4.398h-4.867l-1.333 4.399h-2.489l4.823-14.975h2.978l4.844 14.975Zm-4.379-6.243-1.266-3.91c-.134-.4-.386-1.34-.755-2.821h-.045c-.149.637-.386 1.577-.712 2.82l-1.244 3.91h4.022Zm16.757.712c0 1.836-.499 3.288-1.497 4.354-.894.948-2.005 1.422-3.33 1.422-1.43 0-2.459-.51-3.083-1.532v5.666h-2.4V28.202c0-1.153-.03-2.336-.089-3.549h2.11l.135 1.711h.044c.8-1.29 2.015-1.934 3.645-1.934 1.274 0 2.338.503 3.188 1.51.85 1.01 1.277 2.335 1.277 3.979Zm-2.445.088c0-1.051-.236-1.918-.711-2.6-.519-.71-1.216-1.066-2.09-1.066-.591 0-1.13.198-1.61.588a2.73 2.73 0 0 0-.944 1.545 3.133 3.133 0 0 0-.111.73v1.802c0 .784.24 1.447.722 1.99.482.54 1.108.81 1.877.81.904 0 1.608-.35 2.11-1.044.505-.696.757-1.614.757-2.755Zm14.867-.088c0 1.836-.499 3.288-1.497 4.354-.895.948-2.004 1.422-3.33 1.422-1.43 0-2.46-.51-3.084-1.532v5.666h-2.4V28.202c0-1.153-.03-2.336-.089-3.549h2.11l.135 1.711h.045c.799-1.29 2.013-1.934 3.644-1.934 1.273 0 2.337.503 3.19 1.51.848 1.01 1.276 2.335 1.276 3.979Zm-2.446.088c0-1.051-.237-1.918-.712-2.6-.519-.71-1.213-1.066-2.087-1.066-.592 0-1.13.198-1.613.588a2.728 2.728 0 0 0-.943 1.545 3.203 3.203 0 0 0-.112.73v1.802c0 .784.242 1.447.721 1.99.482.538 1.108.81 1.88.81.905 0 1.608-.35 2.11-1.044.504-.696.756-1.614.756-2.755ZM99.93 31.25c0 1.275-.446 2.311-1.332 3.111-.974.873-2.335 1.311-4.08 1.311-1.611 0-2.903-.31-3.878-.933l.555-2a6.676 6.676 0 0 0 3.466.935c.905 0 1.609-.205 2.11-.611.504-.407.758-.952.758-1.632a2.09 2.09 0 0 0-.623-1.533c-.416-.415-1.102-.8-2.067-1.155-2.622-.978-3.934-2.408-3.934-4.29 0-1.228.463-2.234 1.388-3.02.925-.786 2.152-1.178 3.678-1.178 1.364 0 2.5.237 3.4.71l-.601 1.956c-.85-.459-1.807-.688-2.878-.688-.847 0-1.51.208-1.986.622-.4.37-.602.821-.602 1.357 0 .59.23 1.081.69 1.466.398.354 1.126.74 2.177 1.154 1.29.52 2.237 1.126 2.844 1.821.611.696.915 1.563.915 2.597Zm7.954-4.797h-2.645v5.243c0 1.333.466 1.998 1.4 1.998.429 0 .785-.036 1.066-.111l.066 1.821c-.472.177-1.095.266-1.866.266-.947 0-1.688-.29-2.223-.868-.532-.578-.8-1.547-.8-2.91v-5.443h-1.576v-1.8h1.576v-1.977l2.357-.712v2.688h2.645v1.805Zm11.91 3.51c0 1.66-.475 3.022-1.422 4.088-.992 1.097-2.311 1.644-3.956 1.644-1.587 0-2.848-.526-3.789-1.576-.941-1.052-1.412-2.377-1.412-3.976 0-1.673.487-3.044 1.456-4.11.971-1.066 2.279-1.6 3.923-1.6 1.585 0 2.858.527 3.821 1.578.921 1.02 1.379 2.336 1.379 3.952Zm-2.487.055c0-.99-.214-1.838-.643-2.547-.503-.858-1.223-1.287-2.156-1.287-.962 0-1.699.43-2.201 1.287-.43.71-.644 1.573-.644 2.592 0 .99.214 1.84.644 2.549.519.857 1.243 1.286 2.18 1.286.918 0 1.637-.438 2.157-1.308.441-.727.663-1.58.663-2.572Zm10.29-3.255a4.159 4.159 0 0 0-.756-.067c-.844 0-1.497.318-1.956.957-.399.562-.599 1.274-.599 2.132v5.666h-2.399v-7.398a77.058 77.058 0 0 0-.07-3.399h2.09l.088 2.066h.066c.254-.71.653-1.283 1.2-1.711a2.9 2.9 0 0 1 1.734-.579c.222 0 .422.016.6.044l.002 2.289Zm10.732 2.778a5.59 5.59 0 0 1-.088 1.088h-7.198c.027 1.067.375 1.884 1.044 2.446.607.502 1.391.754 2.355.754 1.065 0 2.038-.169 2.912-.51l.376 1.665c-1.022.445-2.228.667-3.62.667-1.675 0-2.99-.493-3.946-1.476-.955-.985-1.433-2.308-1.433-3.966 0-1.627.444-2.983 1.335-4.064.932-1.154 2.191-1.732 3.776-1.732 1.556 0 2.735.578 3.535 1.732.634.915.952 2.049.952 3.396Zm-2.288-.622c.017-.713-.141-1.326-.466-1.845-.415-.668-1.055-1.001-1.911-1.001-.785 0-1.424.325-1.91.978-.4.519-.637 1.142-.71 1.865l4.997.003ZM51.724 15.181A15.31 15.31 0 0 1 50 15.095v-7.24a13.067 13.067 0 0 1 2.031-.153c2.752 0 4.02 1.354 4.02 3.56 0 2.546-1.497 3.92-4.326 3.92Zm.403-6.552c-.371 0-.688.023-.95.077v5.503c.142.023.414.033.797.033 1.803 0 2.83-1.026 2.83-2.948 0-1.714-.929-2.665-2.677-2.665ZM60 15.237c-1.55 0-2.556-1.158-2.556-2.73 0-1.639 1.026-2.806 2.644-2.806 1.528 0 2.556 1.102 2.556 2.72 0 1.658-1.06 2.816-2.644 2.816Zm.045-4.675c-.852 0-1.398.797-1.398 1.911 0 1.093.557 1.89 1.387 1.89s1.386-.852 1.386-1.912c0-1.08-.545-1.889-1.375-1.889Zm11.443-.752-1.66 5.306h-1.082l-.687-2.304a17.463 17.463 0 0 1-.427-1.714h-.022c-.087.579-.251 1.158-.426 1.714l-.731 2.304h-1.093L63.797 9.81h1.212l.6 2.522c.143.601.262 1.168.36 1.704h.023c.087-.447.229-1.005.437-1.692l.754-2.533h.961l.722 2.479c.174.6.316 1.19.426 1.747h.032c.076-.546.197-1.125.36-1.747l.645-2.48h1.158Zm6.112 5.306h-1.18V12.07c0-.938-.36-1.409-1.07-1.409-.7 0-1.18.601-1.18 1.3v3.156h-1.18v-3.79c0-.469-.01-.972-.043-1.517h1.038l.055.819h.032c.318-.567.962-.927 1.683-.927 1.114 0 1.846.851 1.846 2.238l-.001 3.177Zm3.252 0h-1.18V7.375h1.18v7.741Zm4.301.12c-1.55 0-2.556-1.157-2.556-2.73 0-1.638 1.026-2.805 2.643-2.805 1.53 0 2.556 1.102 2.556 2.72 0 1.658-1.06 2.816-2.643 2.816Zm.044-4.674c-.852 0-1.398.797-1.398 1.911 0 1.093.558 1.89 1.386 1.89.83 0 1.386-.852 1.386-1.912.001-1.08-.543-1.889-1.374-1.889Zm7.25 4.554-.086-.61h-.032c-.36.491-.885.73-1.552.73-.95 0-1.626-.666-1.626-1.561 0-1.31 1.135-1.987 3.102-1.987v-.098c0-.699-.37-1.049-1.102-1.049-.523 0-.983.132-1.387.394l-.24-.775c.491-.306 1.104-.46 1.823-.46 1.386 0 2.087.732 2.087 2.196v1.954c0 .536.023.951.076 1.267h-1.064Zm-.163-2.643c-1.31 0-1.967.317-1.967 1.07 0 .557.339.83.81.83.6 0 1.157-.458 1.157-1.08v-.82Zm6.877 2.643-.055-.852h-.033c-.338.644-.908.973-1.704.973-1.28 0-2.227-1.126-2.227-2.709 0-1.66.983-2.829 2.324-2.829.71 0 1.213.24 1.497.722h.024V7.375h1.18v6.311c0 .513.013.994.044 1.43h-1.05Zm-.174-3.122c0-.743-.492-1.376-1.243-1.376-.874 0-1.409.775-1.409 1.866 0 1.07.555 1.803 1.386 1.803.741 0 1.266-.645 1.266-1.409v-.884Zm8.666 3.243c-1.55 0-2.555-1.158-2.555-2.73 0-1.639 1.027-2.806 2.643-2.806 1.53 0 2.556 1.102 2.556 2.72.001 1.658-1.058 2.816-2.644 2.816Zm.044-4.675c-.851 0-1.397.797-1.397 1.911 0 1.093.558 1.89 1.386 1.89.831 0 1.387-.852 1.387-1.912.002-1.08-.544-1.889-1.376-1.889Zm8.943 4.554h-1.18V12.07c0-.938-.36-1.409-1.071-1.409-.698 0-1.178.601-1.178 1.3v3.156h-1.181v-3.79c0-.469-.011-.972-.044-1.517h1.038l.055.819h.033c.316-.567.961-.929 1.682-.929 1.114 0 1.846.852 1.846 2.239v3.178Zm7.937-4.422h-1.298v2.577c0 .656.227.983.686.983.209 0 .383-.022.524-.055l.032.896c-.228.088-.534.131-.915.131-.929 0-1.485-.513-1.485-1.856v-2.676h-.775V9.81h.775v-.972l1.158-.35v1.32h1.298v.886Zm6.244 4.422h-1.179v-3.024c0-.95-.359-1.43-1.07-1.43-.611 0-1.181.415-1.181 1.255v3.2h-1.178V7.374h1.178v3.188h.024c.371-.579.909-.864 1.596-.864 1.123 0 1.81.874 1.81 2.261v3.156Zm6.397-2.37h-3.539c.022 1.005.687 1.572 1.672 1.572.523 0 1.005-.087 1.431-.25l.183.819c-.502.218-1.093.327-1.781.327-1.66 0-2.642-1.049-2.642-2.675 0-1.627 1.006-2.85 2.51-2.85 1.356 0 2.207 1.005 2.207 2.523.007.18-.006.359-.041.534Zm-1.081-.84c0-.82-.413-1.398-1.167-1.398-.678 0-1.214.59-1.29 1.398h2.457Z" fill="#fff"/></svg>
+
+          </a>
+        
+        
+          <a href="https://play.google.com/store/apps/details?id=tv.uscreen.yogatoday" target="_blank" class="mx-1" aria-label="Google Play">
+            <svg xmlns="http://www.w3.org/2000/svg" width="154" height="45" fill="none"><g clip-path="url(#clip0_2424_1092)"><path fill-rule="evenodd" clip-rule="evenodd" d="M147.511 45H6.311C3.197 45 .66 42.464.66 39.375V5.625C.66 2.525 3.197 0 6.31 0h141.2c3.111 0 5.65 2.525 5.65 5.625v33.75c0 3.089-2.539 5.625-5.65 5.625Z" fill="#232323"/><path fill-rule="evenodd" clip-rule="evenodd" d="M147.511.9c2.612 0 4.75 2.124 4.75 4.725v33.75c0 2.6-2.124 4.724-4.75 4.724H6.311c-2.612 0-4.75-2.123-4.75-4.724V5.625c0-2.6 2.124-4.724 4.75-4.724h141.2Zm0-.9H6.311C3.197 0 .66 2.536.66 5.625v33.75C.66 42.475 3.197 45 6.31 45h141.2c3.111 0 5.65-2.525 5.65-5.625V5.625c0-3.089-2.539-5.625-5.65-5.625Z" fill="#fff"/><path d="M80.998 14.886c-1.018 0-1.877-.356-2.555-1.058a3.602 3.602 0 0 1-1.033-2.58c0-1.025.348-1.892 1.033-2.579.676-.701 1.534-1.058 2.553-1.058 1.007 0 1.865.357 2.555 1.058.685.71 1.033 1.577 1.033 2.578-.011 1.027-.36 1.894-1.033 2.579-.676.707-1.534 1.06-2.553 1.06Zm-30.302 0a3.55 3.55 0 0 1-2.567-1.044c-.7-.69-1.057-1.562-1.057-2.592s.356-1.902 1.057-2.592c.693-.693 1.558-1.044 2.567-1.044.494 0 .974.098 1.434.298a2.9 2.9 0 0 1 1.091.78l.068.08-.76.747-.08-.092c-.428-.511-1.003-.76-1.764-.76-.679 0-1.27.24-1.759.718-.49.48-.74 1.108-.74 1.868s.25 1.389.74 1.868c.488.477 1.08.719 1.76.719.723 0 1.332-.242 1.806-.719.28-.28.454-.673.516-1.17H50.57v-1.049h3.485l.014.096c.025.176.05.359.05.527 0 .968-.292 1.75-.87 2.329-.656.684-1.515 1.032-2.553 1.032Zm40.29-.149H89.91l-3.29-5.266.028.949v4.315h-1.075V7.763H86.8l.034.053 3.094 4.96-.028-.945V7.763h1.086v6.974Zm-18.062 0h-1.088V8.812h-1.888V7.763h4.862v1.05H72.92v5.924h.003Zm-3.863 0h-1.086V7.763h1.086v6.974Zm-6.102 0h-1.086V8.812h-1.888V7.763h4.862v1.05H62.96v5.924Zm-3.661-.01h-4.163V7.762h4.163v1.05h-3.075v1.912h2.775v1.039h-2.775v1.913h3.075v1.05Zm19.941-1.62c.486.486 1.075.73 1.76.73.704 0 1.279-.239 1.758-.73.477-.476.719-1.102.719-1.857 0-.755-.242-1.383-.716-1.857a2.407 2.407 0 0 0-1.759-.73c-.704 0-1.28.239-1.756.73-.477.477-.718 1.102-.718 1.857 0 .755.238 1.383.712 1.857Z" fill="#fff"/><path fill-rule="evenodd" clip-rule="evenodd" d="M77.31 24.475c-2.652 0-4.8 2.011-4.8 4.786 0 2.75 2.162 4.786 4.8 4.786 2.65 0 4.8-2.025 4.8-4.786 0-2.774-2.15-4.786-4.8-4.786Zm0 7.676c-1.451 0-2.7-1.2-2.7-2.901 0-1.725 1.252-2.9 2.7-2.9 1.45 0 2.698 1.175 2.698 2.9.003 1.711-1.248 2.9-2.699 2.9Zm-10.474-7.676c-2.65 0-4.8 2.011-4.8 4.786 0 2.75 2.163 4.786 4.8 4.786 2.651 0 4.8-2.025 4.8-4.786 0-2.774-2.151-4.786-4.8-4.786Zm0 7.676c-1.45 0-2.698-1.2-2.698-2.901 0-1.725 1.25-2.9 2.698-2.9 1.45 0 2.7 1.175 2.7 2.9 0 1.711-1.25 2.9-2.7 2.9Zm-12.462-6.214v2.025h4.862c-.148 1.136-.524 1.975-1.1 2.55-.712.713-1.812 1.487-3.75 1.487-2.988 0-5.325-2.412-5.325-5.4 0-2.988 2.337-5.4 5.325-5.4 1.613 0 2.788.636 3.66 1.45l1.437-1.437c-1.212-1.161-2.825-2.05-5.086-2.05-4.099 0-7.538 3.338-7.538 7.425 0 4.1 3.436 7.427 7.538 7.427 2.213 0 3.874-.724 5.187-2.088 1.338-1.338 1.762-3.226 1.762-4.75 0-.473-.036-.9-.112-1.262h-6.862c.002-.003.002.023.002.023Zm50.973 1.576c-.401-1.074-1.613-3.05-4.099-3.05-2.463 0-4.51 1.94-4.51 4.787 0 2.688 2.025 4.786 4.749 4.786 2.188 0 3.462-1.338 3.987-2.124l-1.625-1.088c-.538.8-1.288 1.324-2.351 1.324-1.074 0-1.826-.488-2.326-1.45l6.4-2.652c0 .003-.225-.533-.225-.533Zm-6.525 1.6c-.05-1.85 1.436-2.79 2.499-2.79.839 0 1.538.413 1.776 1.014l-4.275 1.776Zm-5.199 4.637h2.102V19.689h-2.102v14.06Zm-3.45-8.212h-.076c-.474-.564-1.375-1.074-2.525-1.074-2.388 0-4.587 2.101-4.587 4.8 0 2.688 2.188 4.764 4.587 4.764 1.136 0 2.05-.514 2.525-1.089h.075v.688c0 1.826-.976 2.81-2.55 2.81-1.287 0-2.087-.925-2.412-1.7l-1.827.764c.525 1.262 1.925 2.825 4.236 2.825 2.464 0 4.55-1.45 4.55-4.989V24.75h-1.985v.788h-.012Zm-2.413 6.613c-1.45 0-2.663-1.212-2.663-2.887 0-1.689 1.212-2.912 2.663-2.912 1.436 0 2.55 1.237 2.55 2.912.014 1.675-1.111 2.887-2.55 2.887Zm27.426-12.462h-5.024v14.06h2.101v-5.324h2.926c2.326 0 4.612-1.686 4.612-4.362 0-2.677-2.278-4.374-4.615-4.374Zm.062 6.772h-2.988v-4.825h2.988c1.574 0 2.463 1.299 2.463 2.413 0 1.102-.9 2.412-2.463 2.412Zm12.975-2.011c-1.526 0-3.1.676-3.751 2.149l1.863.774c.401-.774 1.136-1.038 1.914-1.038 1.088 0 2.188.65 2.213 1.812v.15c-.376-.214-1.201-.54-2.188-.54-2.012 0-4.051 1.1-4.051 3.162 0 1.888 1.649 3.1 3.487 3.1 1.411 0 2.188-.637 2.674-1.374h.075v1.088h2.026v-5.386c0-2.509-1.863-3.897-4.262-3.897Zm-.263 7.7c-.688 0-1.65-.336-1.65-1.2 0-1.088 1.201-1.5 2.225-1.5.926 0 1.363.198 1.913.473a2.53 2.53 0 0 1-2.488 2.228Zm11.914-7.4-2.412 6.1h-.076l-2.5-6.1h-2.261l3.751 8.526-2.138 4.738h2.189l5.77-13.264h-2.323Zm-18.914 9h2.101V19.689h-2.101v14.06Z" fill="#fff"/><path fill-rule="evenodd" clip-rule="evenodd" d="M12.399 8.475c-.326.35-.514.887-.514 1.588v24.876c0 .702.188 1.237.525 1.574l.087.076L26.435 22.65v-.311L12.485 8.4l-.086.075Z" fill="url(#paint0_linear_2424_1092)"/><path fill-rule="evenodd" clip-rule="evenodd" d="m31.072 27.311-4.649-4.648v-.326l4.649-4.648.101.061 5.499 3.126c1.574.886 1.574 2.35 0 3.248l-5.499 3.126-.101.061Z" fill="url(#paint1_linear_2424_1092)"/><path fill-rule="evenodd" clip-rule="evenodd" d="m31.173 27.25-4.75-4.75L12.4 36.525c.513.55 1.375.611 2.337.075l16.437-9.35Z" fill="url(#paint2_linear_2424_1092)"/><path fill-rule="evenodd" clip-rule="evenodd" d="M31.173 17.75 14.736 8.414c-.962-.55-1.827-.474-2.337.075L26.424 22.5l4.75-4.75Z" fill="url(#paint3_linear_2424_1092)"/><path opacity=".2" fill-rule="evenodd" clip-rule="evenodd" d="m31.072 27.148-16.325 9.275c-.912.525-1.726.489-2.25.012l-.087.087.087.075c.524.474 1.338.514 2.25-.01l16.437-9.338-.112-.1Z" fill="#232323"/><path opacity=".12" fill-rule="evenodd" clip-rule="evenodd" d="m36.672 23.962-5.614 3.187.101.1 5.499-3.125c.788-.448 1.175-1.038 1.175-1.624-.047.539-.449 1.05-1.161 1.462Z" fill="#232323"/><path opacity=".25" fill-rule="evenodd" clip-rule="evenodd" d="m14.736 8.576 21.936 12.462c.712.402 1.114.926 1.175 1.462 0-.586-.387-1.175-1.175-1.624L14.736 8.414c-1.574-.9-2.85-.149-2.85 1.65v.162c0-1.801 1.276-2.539 2.85-1.65Z" fill="#fff"/></g><defs><linearGradient id="paint0_linear_2424_1092" x1="25.184" y1="9.795" x2="2.859" y2="15.743" gradientUnits="userSpaceOnUse"><stop stop-color="#00A0FF"/><stop offset=".007" stop-color="#00A1FF"/><stop offset=".26" stop-color="#00BEFF"/><stop offset=".512" stop-color="#00D2FF"/><stop offset=".76" stop-color="#00DFFF"/><stop offset="1" stop-color="#00E3FF"/></linearGradient><linearGradient id="paint1_linear_2424_1092" x1="38.724" y1="22.5" x2="11.503" y2="22.5" gradientUnits="userSpaceOnUse"><stop stop-color="#FFE000"/><stop offset=".409" stop-color="#FFBD00"/><stop offset=".775" stop-color="orange"/><stop offset="1" stop-color="#FF9C00"/></linearGradient><linearGradient id="paint2_linear_2424_1092" x1="28.59" y1="25.084" x2="10.668" y2="55.25" gradientUnits="userSpaceOnUse"><stop stop-color="#FF3A44"/><stop offset="1" stop-color="#C31162"/></linearGradient><linearGradient id="paint3_linear_2424_1092" x1="8.867" y1=".201" x2="16.863" y2="13.674" gradientUnits="userSpaceOnUse"><stop stop-color="#32A071"/><stop offset=".069" stop-color="#2DA771"/><stop offset=".476" stop-color="#15CF74"/><stop offset=".801" stop-color="#06E775"/><stop offset="1" stop-color="#00F076"/></linearGradient><clipPath id="clip0_2424_1092"><path fill="#fff" transform="translate(.66)" d="M0 0h152.501v45H0z"/></clipPath></defs></svg>
+
+          </a>
+        
+      </div>
+      <div class="footer--social">
+        
+          <a href="https://www.facebook.com/YogaTodayOnline/" target="_blank" class="footer--social-link" aria-label="Facebook">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="footer--social-icon">
+              <path d="M6 0C2.68629 0 0 2.68629 0 6V18C0 21.3137 2.68629 24 6 24H10.2065V15.1805H7.23764V12.0262H10.2065V9.92727C10.2065 6.45218 11.8996 4.92654 14.7878 4.92654C16.1468 4.92654 16.8766 5.02552 17.2303 5.07347L17.2489 5.076V7.82945H15.2787C14.0525 7.82945 13.6244 8.99181 13.6244 10.302V12.0262H17.2178L16.7302 15.1805H13.6244V24H18C21.3137 24 24 21.3137 24 18V6C24 2.68629 21.3137 0 18 0H6Z" fill="currentColor"/>
+            </svg>
+          </a>
+        
+        
+          <a href="https://twitter.com/YogaToday" target="_blank" class="footer--social-link" aria-label="Twitter">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="footer--social-icon">
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M5 0C2.23858 0 0 2.23858 0 5V19C0 21.7614 2.23858 24 5 24H19C21.7614 24 24 21.7614 24 19V4.5L23.975 4.49688C23.7227 1.97171 21.5916 0 19 0H5ZM19.0057 8.4277C18.5027 8.65102 17.9621 8.80142 17.3947 8.86921C17.974 8.52227 18.4189 7.97253 18.628 7.31739C18.0863 7.63869 17.4858 7.87226 16.8466 7.99816C16.3356 7.45298 15.6058 7.1123 14.7992 7.1123C12.9882 7.1123 11.6574 8.80199 12.0664 10.556C9.73583 10.4393 7.66902 9.32268 6.28525 7.62559C5.55036 8.8863 5.90414 10.5355 7.15288 11.3707C6.69372 11.3559 6.26076 11.23 5.88306 11.0198C5.85229 12.3192 6.78373 13.5349 8.13274 13.8055C7.73795 13.9126 7.30556 13.9377 6.86576 13.8534C7.22238 14.9677 8.25807 15.7783 9.48631 15.8011C8.30706 16.7257 6.82133 17.1387 5.33331 16.9633C6.57465 17.7591 8.04956 18.2234 9.63329 18.2234C14.8413 18.2234 17.7837 13.8249 17.606 9.87983C18.154 9.4839 18.6297 8.98998 19.0057 8.4277Z" fill="currentColor"/>
+            </svg>
+          </a>
+        
+        
+          <a href="https://www.instagram.com/yogatoday/" target="_blank" class="footer--social-link" aria-label="Instagram">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="footer--social-icon">
+              <path d="M6.66667 0C2.98533 0 0 2.98533 0 6.66667V17.3333C0 21.0147 2.98533 24 6.66667 24H17.3333C21.0147 24 24 21.0147 24 17.3333V6.66667C24 2.98533 21.0147 0 17.3333 0H6.66667ZM20 2.66667C20.736 2.66667 21.3333 3.264 21.3333 4C21.3333 4.736 20.736 5.33333 20 5.33333C19.264 5.33333 18.6667 4.736 18.6667 4C18.6667 3.264 19.264 2.66667 20 2.66667ZM12 5.33333C15.6813 5.33333 18.6667 8.31867 18.6667 12C18.6667 15.6813 15.6813 18.6667 12 18.6667C8.31867 18.6667 5.33333 15.6813 5.33333 12C5.33333 8.31867 8.31867 5.33333 12 5.33333ZM12 8C10.9391 8 9.92172 8.42143 9.17157 9.17157C8.42143 9.92172 8 10.9391 8 12C8 13.0609 8.42143 14.0783 9.17157 14.8284C9.92172 15.5786 10.9391 16 12 16C13.0609 16 14.0783 15.5786 14.8284 14.8284C15.5786 14.0783 16 13.0609 16 12C16 10.9391 15.5786 9.92172 14.8284 9.17157C14.0783 8.42143 13.0609 8 12 8Z" fill="currentColor"/>
+            </svg>
+          </a>
+        
+        
+          <a href="https://www.youtube.com/user/yogatoday" target="_blank" class="footer--social-link" aria-label="Youtube">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="footer--social-icon">
+              <path d="M10.1821 8.73311L15.5686 11.9998L10.1821 15.2664V8.73311Z" fill="currentColor"/>
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M6 0C2.68629 0 0 2.68629 0 6V18C0 21.3137 2.68629 24 6 24H18C21.3137 24 24 21.3137 24 18V6C24 2.68629 21.3137 0 18 0H6ZM20.596 16.62C20.4165 17.6 19.6534 18.3467 18.7107 18.4867C17.2294 18.72 14.7606 19 11.9776 19C9.2394 19 6.77057 18.72 5.24439 18.4867C4.30175 18.3467 3.53865 17.6 3.3591 16.62C3.17955 15.5467 3 13.96 3 12C3 10.04 3.17955 8.45333 3.3591 7.38C3.53865 6.4 4.30175 5.65333 5.24439 5.51333C6.72569 5.28 9.19451 5 11.9776 5C14.7606 5 17.1845 5.28 18.7107 5.51333C19.6534 5.65333 20.4165 6.4 20.596 7.38C20.7756 8.45333 21 10.04 21 12C20.9551 13.96 20.7756 15.5467 20.596 16.62Z" fill="currentColor"/>
+            </svg>
+          </a>
+        
+        
+        
+      </div>
+      <nav role="navigation" class="footer--menu">
+        
+
+<div class="theme:navigation flex flex-row flex-wrap justify-center lg:justify-start text-center lg:text-left">
+  <div class="navigation-wrapper">
+    <ul class="navigation-list">
+      
+    
+      
+      
+        
+        
+        
+        
+        
+          
+            
+              <li class="navigation-item">
+                <a class="navigation-item-link" href="/pages/terms-conditions">Terms &amp; Conditions</a>
+              </li>
+            
+          
+      
+    
+      
+      
+        
+        
+        
+        
+        
+          
+            
+              <li class="navigation-item">
+                <a class="navigation-item-link" href="/pages/privacy">privacy</a>
+              </li>
+            
+          
+      
+    
+      
+      
+        
+        
+        
+        
+        
+          
+            
+              <li class="navigation-item">
+                <a class="navigation-item-link" href="/pages/cookie-policy">Cookie Policy</a>
+              </li>
+            
+          
+      
+    
+      
+      
+        
+        
+        
+        
+        
+          
+            
+              <li class="navigation-item">
+                <a class="navigation-item-link" href="/gift_cards/new">Gift Card </a>
+              </li>
+            
+          
+      
+    
+      
+      
+        
+        
+        
+        
+        
+          
+            
+              <li class="navigation-item">
+                <a class="navigation-item-link" href="/pages/support-faq">Support &amp; FAQ</a>
+              </li>
+            
+          
+      
+    
+    </ul>
+  </div>
+  
+</div>
+
+      </nav>
+      <p class="theme:paragraph uscreen-block flex justify-center lg:justify-end" style="display: none !important;">
+          <div class="uscreen-block flex justify-center my-4 md:m-0 md:justify-end">
+    <style>
+        .powered-by-uscreen {
+            --branding-text-color: #B0B0B0;
+            --branding-text-hovered-color: #888888;
+        }
+        .dark .powered-by-uscreen {
+            --branding-text-color: #8A8A8A;
+            --branding-text-hovered-color: #adadad;
+        }
+
+        .powered-by-uscreen {
+            color: var(--branding-text-color);
+        }
+
+        .powered-by-uscreen:hover {
+            color: var(--branding-text-hovered-color);
+        }
+
+        .powered-by-uscreen:hover .powered-by-uscreen-play {
+            fill: #006AFF;
+            color: #006AFF;
+        }
+    </style>
+
+    <a class="footer-background-color powered-by-uscreen scale-125 md:transform-none"
+       href="https://www.uscreen.tv?utm_category=product&utm_medium=branding&utm_source=6787&utm_campaign=web&utm_content=powered_by" target="_blank" class="footer-background-color powered-by-uscreen">
+      <svg width="154" height="40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M19.996 30.246c-2.252-.001-4.38-.899-5.99-2.53a8.521 8.521 0 0 1-2.487-6.02v-7.849c0-1.047.853-1.9 1.9-1.9 1.048 0 1.9.853 1.9 1.9v7.86c0 2.597 2.088 4.724 4.654 4.738H20c2.58 0 4.68-2.1 4.68-4.681v-.94c.17-.064.334-.145.49-.242l3.309-2.073v3.256c0 4.677-3.805 8.481-8.481 8.481h-.003Z" fill="currentColor"/><path d="M23.736 18.903a.73.73 0 0 1-.73-.729V11.91c0-.45.379-.729.73-.729.134 0 .267.04.384.112l5.002 3.133a.72.72 0 0 1 .341.616.721.721 0 0 1-.34.616l-5.003 3.134a.717.717 0 0 1-.384.111Z" fill="#006AFF"/><path d="M149.326 19.301v3.835h-1.543v-6.545h1.475v1.112h.077c.15-.366.39-.657.72-.873.332-.216.743-.324 1.231-.324.452 0 .845.096 1.181.29.338.193.599.473.784.839.187.366.28.811.277 1.334v4.167h-1.543v-3.929c0-.437-.113-.78-.341-1.027-.224-.247-.535-.37-.933-.37-.27 0-.51.06-.72.179a1.235 1.235 0 0 0-.49.507c-.117.221-.175.49-.175.805ZM143.818 23.264c-.656 0-1.223-.136-1.7-.409a2.771 2.771 0 0 1-1.096-1.167c-.255-.506-.383-1.101-.383-1.786 0-.673.128-1.264.383-1.773.259-.511.62-.909 1.083-1.193.463-.287 1.007-.43 1.632-.43.403 0 .784.065 1.142.196.361.128.679.326.955.596a2.8 2.8 0 0 1 .656 1.032c.159.414.238.909.238 1.483v.473h-5.365v-1.04h3.887a1.662 1.662 0 0 0-.192-.789 1.397 1.397 0 0 0-.524-.55c-.222-.133-.48-.2-.776-.2-.315 0-.592.077-.831.23-.238.151-.424.35-.558.597a1.715 1.715 0 0 0-.2.806v.907c0 .38.069.708.209.98.139.27.333.478.583.622.25.142.543.214.878.214.225 0 .428-.032.61-.094.181-.066.339-.16.473-.286.133-.125.234-.28.302-.464l1.44.162c-.09.38-.264.713-.519.997-.253.281-.577.5-.972.656-.395.154-.847.23-1.355.23ZM136.955 23.264c-.657 0-1.223-.136-1.701-.409a2.775 2.775 0 0 1-1.095-1.167c-.256-.506-.383-1.101-.383-1.786 0-.673.127-1.264.383-1.773a2.9 2.9 0 0 1 1.083-1.193c.463-.287 1.007-.43 1.632-.43.403 0 .784.065 1.142.196.36.128.679.326.954.596.279.27.497.614.656 1.032.16.414.239.909.239 1.483v.473H134.5v-1.04h3.886a1.65 1.65 0 0 0-.191-.789 1.397 1.397 0 0 0-.524-.55 1.477 1.477 0 0 0-.776-.2c-.315 0-.592.077-.831.23-.239.151-.425.35-.558.597a1.716 1.716 0 0 0-.201.806v.907c0 .38.07.708.209.98.139.27.334.478.584.622.25.142.543.214.878.214.224 0 .427-.032.609-.094.182-.066.34-.16.473-.286.134-.125.235-.28.303-.464l1.44.162c-.091.38-.264.713-.52.997-.253.281-.576.5-.971.656-.395.154-.847.23-1.355.23ZM129.819 23.136v-6.545h1.495v1.09h.069c.119-.377.323-.668.613-.873a1.691 1.691 0 0 1 1.002-.31c.085 0 .18.003.285.012.108.006.198.016.269.03v1.419a1.63 1.63 0 0 0-.312-.06 2.854 2.854 0 0 0-.404-.03c-.282 0-.534.061-.759.184-.221.119-.396.285-.524.498a1.403 1.403 0 0 0-.192.737v3.848h-1.542ZM125.998 23.264c-.653 0-1.215-.143-1.683-.43a2.868 2.868 0 0 1-1.078-1.19c-.25-.508-.375-1.093-.375-1.755 0-.665.127-1.251.383-1.76a2.87 2.87 0 0 1 1.082-1.193c.469-.287 1.023-.43 1.662-.43.532 0 1.002.098 1.411.294.412.193.74.467.984.822.245.352.384.764.418 1.236h-1.475a1.402 1.402 0 0 0-.426-.788c-.221-.213-.518-.32-.89-.32a1.39 1.39 0 0 0-.831.256 1.63 1.63 0 0 0-.558.724c-.131.316-.197.693-.197 1.134 0 .446.066.83.197 1.15.13.318.313.564.549.738.239.17.519.255.84.255a1.4 1.4 0 0 0 .609-.128c.182-.088.334-.214.456-.379s.206-.365.251-.6h1.475a2.569 2.569 0 0 1-.409 1.23 2.425 2.425 0 0 1-.963.836c-.406.199-.884.298-1.432.298ZM121.98 18.321l-1.406.153a1.125 1.125 0 0 0-.209-.4 1.03 1.03 0 0 0-.392-.303 1.427 1.427 0 0 0-.605-.115c-.321 0-.591.07-.81.21-.216.138-.322.319-.319.54a.565.565 0 0 0 .208.465c.145.12.384.217.716.294l1.117.239c.619.133 1.079.345 1.381.634.304.29.457.67.46 1.138a1.785 1.785 0 0 1-.362 1.091c-.236.313-.564.557-.985.733-.42.176-.903.264-1.449.264-.801 0-1.446-.167-1.934-.503a2.021 2.021 0 0 1-.874-1.41l1.504-.145c.069.296.213.518.435.67.222.15.51.225.865.225.367 0 .661-.075.882-.226.225-.15.337-.337.337-.558a.582.582 0 0 0-.218-.465c-.142-.122-.363-.216-.664-.28l-1.117-.235c-.628-.131-1.092-.351-1.393-.66-.301-.313-.451-.708-.448-1.186a1.68 1.68 0 0 1 .328-1.048c.225-.298.536-.528.934-.69.4-.165.862-.247 1.385-.247.767 0 1.37.163 1.811.49.443.327.717.768.822 1.325ZM113.826 14.41h1.581v5.7c0 .626-.148 1.175-.444 1.65a2.99 2.99 0 0 1-1.235 1.112c-.532.264-1.152.396-1.863.396-.713 0-1.335-.132-1.866-.396a3 3 0 0 1-1.236-1.112c-.292-.475-.439-1.024-.439-1.65v-5.7h1.581v5.569c0 .363.08.687.239.971.162.284.389.507.682.67.292.158.639.238 1.039.238.401 0 .748-.08 1.04-.239.296-.162.523-.385.682-.669.159-.284.239-.608.239-.971v-5.57ZM99.824 25.59a3.123 3.123 0 0 1-1.005-.161l.357-1.202c.225.066.425.097.601.094a.74.74 0 0 0 .465-.166c.136-.105.251-.281.345-.529l.132-.353-2.373-6.682h1.636l1.508 4.943h.069l1.512-4.943h1.641l-2.621 7.338a2.929 2.929 0 0 1-.486.89c-.201.25-.448.441-.741.572-.29.133-.636.2-1.04.2ZM91.848 23.136V14.41h1.542v3.264h.064c.08-.159.192-.328.337-.507.145-.182.34-.336.588-.464.247-.13.562-.196.946-.196.506 0 .962.129 1.368.387.409.256.733.635.971 1.138.242.5.363 1.114.363 1.841 0 .719-.118 1.33-.354 1.833-.236.502-.557.886-.963 1.15a2.477 2.477 0 0 1-1.38.396c-.376 0-.687-.062-.934-.187a1.896 1.896 0 0 1-.597-.452 2.918 2.918 0 0 1-.345-.507h-.09v1.031h-1.516Zm1.512-3.272c0 .423.06.794.18 1.112.122.318.296.567.524.746.23.176.508.264.835.264.34 0 .626-.091.856-.273.23-.185.404-.436.52-.754.12-.321.18-.686.18-1.095 0-.407-.059-.767-.175-1.083a1.626 1.626 0 0 0-.52-.741c-.23-.18-.517-.269-.861-.269-.33 0-.61.087-.84.26-.23.174-.404.417-.524.729-.116.313-.175.68-.175 1.104ZM84.173 23.251c-.514 0-.974-.132-1.38-.396-.407-.264-.728-.648-.964-1.15-.235-.503-.353-1.114-.353-1.833 0-.727.12-1.34.358-1.84.241-.504.566-.883.976-1.139.409-.258.865-.387 1.367-.387.384 0 .7.065.947.196.247.128.443.282.588.464.144.18.257.348.336.507h.064V14.41h1.547v8.727h-1.517v-1.03h-.094c-.08.158-.194.327-.345.506-.15.176-.35.327-.597.452s-.558.187-.933.187Zm.43-1.265c.327 0 .606-.088.836-.264.23-.18.405-.428.524-.746.12-.318.179-.689.179-1.112 0-.424-.06-.791-.179-1.104a1.57 1.57 0 0 0-.52-.729c-.227-.173-.507-.26-.84-.26-.343 0-.63.09-.86.269-.23.179-.403.426-.52.741a3.111 3.111 0 0 0-.175 1.083c0 .409.058.774.175 1.095.12.318.294.57.524.754.233.182.519.273.857.273ZM77.779 23.264c-.656 0-1.223-.136-1.7-.409a2.771 2.771 0 0 1-1.096-1.167c-.255-.506-.383-1.101-.383-1.786 0-.673.128-1.264.383-1.773a2.9 2.9 0 0 1 1.083-1.193c.463-.287 1.007-.43 1.632-.43.403 0 .784.065 1.142.196.36.128.679.326.954.596.279.27.498.614.657 1.032.159.414.238.909.238 1.483v.473h-5.365v-1.04h3.887a1.66 1.66 0 0 0-.192-.789 1.394 1.394 0 0 0-.524-.55c-.222-.133-.48-.2-.776-.2-.315 0-.592.077-.83.23-.24.151-.425.35-.559.597-.13.245-.198.513-.2.806v.907c0 .38.07.708.209.98.139.27.333.478.583.622.25.142.543.214.878.214.225 0 .428-.032.61-.094.181-.066.339-.16.472-.286a1.19 1.19 0 0 0 .303-.464l1.44.162c-.09.38-.264.713-.52.997-.252.281-.576.5-.971.656a3.72 3.72 0 0 1-1.355.23ZM70.643 23.136v-6.545h1.496v1.09h.068c.12-.377.324-.668.613-.873a1.689 1.689 0 0 1 1.002-.31c.085 0 .18.003.285.012.108.006.198.016.269.03v1.419a1.624 1.624 0 0 0-.311-.06 2.86 2.86 0 0 0-.405-.03 1.56 1.56 0 0 0-.759.184 1.34 1.34 0 0 0-.524.498 1.405 1.405 0 0 0-.192.737v3.848h-1.542ZM66.677 23.264c-.656 0-1.223-.136-1.7-.409a2.771 2.771 0 0 1-1.095-1.167c-.256-.506-.384-1.101-.384-1.786 0-.673.128-1.264.384-1.773a2.9 2.9 0 0 1 1.082-1.193c.463-.287 1.007-.43 1.632-.43.404 0 .784.065 1.142.196.361.128.68.326.955.596.278.27.497.614.656 1.032.16.414.239.909.239 1.483v.473h-5.365v-1.04h3.886a1.66 1.66 0 0 0-.192-.789 1.395 1.395 0 0 0-.524-.55c-.221-.133-.48-.2-.775-.2-.316 0-.593.077-.831.23-.239.151-.425.35-.559.597-.13.245-.197.513-.2.806v.907c0 .38.07.708.209.98.14.27.334.478.584.622.25.142.542.214.878.214.224 0 .427-.032.609-.094.182-.066.34-.16.473-.286a1.19 1.19 0 0 0 .302-.464l1.44.162c-.09.38-.263.713-.519.997-.253.281-.577.5-.972.656a3.72 3.72 0 0 1-1.355.23ZM55.525 23.136l-1.85-6.545h1.573l1.15 4.602h.06l1.176-4.602h1.556l1.176 4.577h.064l1.133-4.577h1.577l-1.854 6.545H59.68l-1.227-4.423h-.09l-1.227 4.423h-1.611ZM50.166 23.264c-.64 0-1.193-.14-1.662-.422a2.865 2.865 0 0 1-1.09-1.18c-.257-.506-.385-1.097-.385-1.773 0-.676.128-1.268.384-1.777a2.858 2.858 0 0 1 1.091-1.184c.469-.282 1.023-.422 1.662-.422.64 0 1.193.14 1.662.422a2.83 2.83 0 0 1 1.086 1.184c.259.509.388 1.101.388 1.777 0 .676-.129 1.267-.388 1.773-.255.506-.617.9-1.086 1.18-.469.282-1.023.422-1.662.422Zm.008-1.235c.347 0 .637-.096.87-.286.233-.193.406-.452.52-.776a3.18 3.18 0 0 0 .174-1.082c0-.4-.058-.763-.174-1.087a1.719 1.719 0 0 0-.52-.78c-.233-.193-.523-.29-.87-.29-.355 0-.65.097-.886.29a1.749 1.749 0 0 0-.524.78c-.114.324-.17.686-.17 1.087 0 .398.056.758.17 1.082.116.324.291.583.524.776.236.19.531.286.886.286ZM40 23.136V14.41h3.273c.67 0 1.233.125 1.687.375.458.25.803.594 1.036 1.031.235.435.353.93.353 1.483 0 .56-.117 1.057-.353 1.492a2.527 2.527 0 0 1-1.044 1.027c-.46.247-1.027.37-1.7.37h-2.17v-1.3h1.956c.392 0 .713-.067.963-.204.25-.136.435-.324.554-.562a1.78 1.78 0 0 0 .184-.823c0-.31-.061-.582-.184-.818a1.245 1.245 0 0 0-.558-.55c-.25-.133-.572-.2-.967-.2H41.58v7.406H40Z" fill="currentColor"/></svg>
+    </a>
+  </div>
+
+
+<script src="https://js.stripe.com/v3/" defer></script>
+    <!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','https://connect.facebook.net/en_US/fbevents.js');
+  // Insert Your Facebook Pixel ID below.
+  fbq('init', '511040355755791');
+  fbq('track', 'PageView');
+</script>
+<!-- Insert Your Facebook Pixel ID below. -->
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=511040355755791&amp;ev=PageView&amp;noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
+
+      </p>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

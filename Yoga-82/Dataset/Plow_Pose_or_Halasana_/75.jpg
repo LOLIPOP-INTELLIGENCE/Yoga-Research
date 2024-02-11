@@ -1,0 +1,1244 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimum-scale=1.0">
+  <meta name="description" content="Buy diet plans online for weight loss, weight gain, lifestyle & hormonal diseases for men and women in India. Track your health score, daily intakes, in-depth reports with free nutrition support all day.">
+  <meta name="google-signin-scope" content="profile email">
+  <meta name="google-site-verification" content="vntKuItOuM0jCZqa25Qrqx7vHUdg8tv4Qr0vHo1gam0" />
+  <meta name="google-signin-client_id" content="170220091733-fgttqjl80anr92o46smre74usaleo0vk.apps.googleusercontent.com">
+  <link rel="icon" type="image/png" href="https://res.cloudinary.com/fitindian/image/upload/v1675740110/chat/sir3qhf2zrhsapgc2aw4.png" sizes="16x16">
+  <script src='https://www.google.com/recaptcha/api.js'></script>
+  <title>Custom Diet Plans Online for Weight Loss for Men & Women by The Fit Indian</title>
+  <script src="/bower_components/cryptojslib/rollups/sha3.js"></script>
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,700,900' rel='stylesheet' type='text/css'>
+  <link href="/bower_components/jquery-ui/themes/base/jquery-ui.css" rel="stylesheet">
+  <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/desktop/intlTelInput.css">
+  <link rel="stylesheet" href="css/desktop/hometestimonials.css">
+  <!-- jQuery CDN -->
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!-- slick Carousel CDN -->
+  <script src="/bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="/bower_components/jquery-ui/jquery-ui.js"></script>
+  <script src="js/touch.js"></script>
+  <script>
+    (function(h, e, a, t, m, p) {
+      m = e.createElement(a);
+      m.async = !0;
+      m.src = t;
+      p = e.getElementsByTagName(a)[0];
+      p.parentNode.insertBefore(m, p);
+    })(window, document, 'script', 'https://u.heatmap.it/log.js');
+  </script>
+<script async src=https://www.googletagmanager.com/gtag/js?id=G-C6PK90D78T></script>
+
+
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-111771514-1');
+  </script>
+
+
+<script
+src='//in.fw-cdn.com/30498080/275246.js'
+chat='true'>
+</script>
+ 
+
+  <link rel="stylesheet" href="/bower_components/components-font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="css/desktop/index.css">
+  <style type="text/css">
+    .slick-carousel {
+      margin: 0 auto;
+      width: 1000px;
+    }
+    .slick-slide {
+      width: 350px;
+    }
+    .slick-next::before, .slick-prev::before {
+      color: blue;
+    }
+    .main-title {
+      margin-bottom: 0px
+    }
+    .header-sticky {
+      position: fixed;
+      z-index: 1000;
+      width: 100%; 
+      background: transparent;
+      -webkit-transition: all ease-out .5s;
+      -moz-transition: all ease-out .5s;
+      -o-transition: all ease-out .5s;
+      transition: all ease-out .5s;
+    }
+    .header-sticky-active {
+      background-color: #fff;
+    }
+    .disclaimer {
+      font-size: 10px;
+    }
+
+    @media (min-width: 768px) {
+      .modal-sm {
+        width: 385px;
+      }
+    }
+
+    .intro-item {
+      width: 300px;
+      padding: 0 10px;
+    }
+
+    @media (max-width: 992px) {
+      .intro-item {
+        width: 180px;
+        padding: 0 10px;
+      }
+    }
+
+    .forgot {
+      border: 0 !important;
+    }
+
+    .forgot:hover {
+      background: none !important;
+      color: #14ccad !important;
+    }
+
+    .ui-autocomplete {
+      z-index: 9999999999999999999999;
+    }
+
+    input[type=number]::-webkit-outer-spin-button,
+    input[type=number]::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      appearance: none;
+      margin: 0;
+    }
+
+    input[type=number] {
+      -moz-appearance: textfield;
+    }
+
+    .intl-tel-input {
+      width: 100%;
+      margin-top: 20px;
+      display: block;
+    }
+
+    .ui-autocomplete {
+      background: #fff !important;
+      color: #000;
+      border-right: 0px solid #14ccad !important;
+      border-left: 0px solid #14ccad !important;
+      max-height: 180px;
+      overflow-y: auto;
+    }
+
+    .ui-autocomplete::-webkit-scrollbar {
+      width: 6px !important;
+      margin-top: 10px;
+    }
+
+    /* Track */
+    .ui-autocomplete::-webkit-scrollbar-track {
+      background: #f1f1f1;
+      /*width: 3px;*/
+    }
+
+    /* Handle */
+    .ui-autocomplete::-webkit-scrollbar-thumb {
+      background: #888;
+    }
+
+    /* Handle on hover */
+    .ui-autocomplete::-webkit-scrollbar-thumb:hover {
+      background: #555;
+    }
+
+    .ui-menu .ui-menu-item a:hover {
+      background: #14ccad;
+      color: #fff;
+      border: 1px solid #14ccad;
+    }
+
+    .tooltip-inner {
+      width: 200px;
+    }
+
+    .tooltip.top .tooltip-arrow {
+      left: 70%;
+    }
+
+    .tooltip.top {
+      top: -30px;
+      left: 0;
+    }
+
+    /*input{
+            -webkit-appearance:none;
+            -webkit-border-radius :0px;
+        }*/
+    @media (min-width: 1200px) {
+      .containers {
+        width: 1100px;
+        margin: auto;
+      }
+    }
+
+    @media (min-width: 1024px) {
+      .imgBoard {
+        width: 450px;
+      }
+    }
+
+    @media (max-width: 1023px) {
+      .imgBoard {
+        width: 325px;
+      }
+    }
+
+    .iti-flag {
+      background-image: url("images/flags.png");
+    }
+
+    @media (-webkit-min-device-pixel-ratio: 2),
+    (min-resolution: 192dpi) {
+      .iti-flag {
+        background-image: url("images/flags@2x.png");
+      }
+    }
+
+
+    .span.round-tabs {
+      position: none
+    }
+
+
+
+.heading {
+    text-align: center;
+    color: #454343;
+    font-size: 30px;
+    font-weight: 700;
+    position: relative;
+    margin-bottom: 70px;
+    text-transform: uppercase;
+    z-index: 999;
+}
+.white-heading{
+    color: #ffffff;
+}
+.heading:after {
+    content: ' ';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    height: 40px;
+    width: 180px;
+    border-radius: 4px;
+    transform: translateX(-50%);
+    background: url(img/heading-line.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.white-heading:after {
+    background: url(https://i.ibb.co/d7tSD1R/heading-line-white.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.heading span {
+    font-size: 18px;
+    display: block;
+    font-weight: 500;
+}
+.white-heading span {
+    color: #ffffff;
+}
+.testimonial:after {
+    position: absolute;
+    top: -0 !important;
+    left: 0;
+    content: " ";
+    background: url(img/testimonial.bg-top.png);
+    background-size: 100% 100px;
+    width: 100%;
+    height: 100px;
+    float: left;
+    z-index: 99;
+}
+.testimonial {
+    min-height: 375px;
+    position: relative;
+    background: linear-gradient(to right, #00b09be6, #96c93de8), url(https://i.imgur.com/9G8XWy9.jpeg);
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background-position: center;
+        background-size: cover;
+}
+#testimonial4 .carousel-inner:hover{
+  cursor: -moz-grab;
+  cursor: -webkit-grab;
+}
+#testimonial4 .carousel-inner:active{
+  cursor: -moz-grabbing;
+  cursor: -webkit-grabbing;
+}
+#testimonial4 .carousel-inner .item{
+  overflow: hidden;
+}
+.testimonial4_indicators .carousel-indicators{
+  left: 0;
+  margin: 0;
+  width: 100%;
+  font-size: 0;
+  height: 20px;
+  bottom: 15px;
+  padding: 0 5px;
+  cursor: e-resize;
+  overflow-x: auto;
+  overflow-y: hidden;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+.testimonial4_indicators .carousel-indicators li{
+  padding: 0;
+  width: 14px;
+  height: 14px;
+  border: none;
+  text-indent: 0;
+  margin: 2px 3px;
+  cursor: pointer;
+  display: inline-block;
+  background: #ffffff;
+  -webkit-border-radius: 100%;
+  border-radius: 100%;
+}
+.testimonial4_indicators .carousel-indicators .active{
+  padding: 0;
+  width: 14px;
+  height: 14px;
+  border: none;
+  margin: 2px 3px;
+  background-color: #9dd3af;
+  -webkit-border-radius: 100%;
+  border-radius: 100%;
+}
+.testimonial4_indicators .carousel-indicators::-webkit-scrollbar{
+  height: 3px;
+}
+.testimonial4_indicators .carousel-indicators::-webkit-scrollbar-thumb{
+  background: #eeeeee;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+.testimonial4_control_button .carousel-control{
+  top: 175px;
+  opacity: 1;
+  width: 40px;
+  bottom: auto;
+  height: 40px;
+  font-size: 10px;
+  cursor: pointer;
+  font-weight: 700;
+  overflow: hidden;
+  line-height: 38px;
+  text-shadow: none;
+  text-align: center;
+  position: absolute;
+  background: transparent;
+  border: 2px solid #ffffff;
+  text-transform: uppercase;
+  -webkit-border-radius: 100%;
+  border-radius: 100%;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  -webkit-transition: all 0.6s cubic-bezier(0.3,1,0,1);
+  transition: all 0.6s cubic-bezier(0.3,1,0,1);
+}
+.testimonial4_control_button .carousel-control.left{
+  left: 7%;
+  top: 50%;
+  right: auto;
+}
+.testimonial4_control_button .carousel-control.right{
+  right: 7%;
+  top: 50%;
+  left: auto;
+}
+.testimonial4_control_button .carousel-control.left:hover,
+.testimonial4_control_button .carousel-control.right:hover{
+  color: #000;
+  background: #fff;
+  border: 2px solid #fff;
+}
+.testimonial4_header{
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 550px;
+  display: block;
+  margin: 30px auto;
+  text-align: center;
+  position: relative;
+}
+.testimonial4_header h4{
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 600;
+  position: relative;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.testimonial4_slide{
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+
+  text-align: center;
+}
+.testimonial4_slide img {
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 136px;
+    height: 136px;
+    margin: auto;
+    display: block;
+    color: #f2f2f2;
+    font-size: 18px;
+    line-height: 46px;
+    text-align: center;
+    position: relative;
+    border-radius: 50%;
+    box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
+    -moz-box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
+    -o-box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
+    -webkit-box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
+}
+.testimonial4_slide p {
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 1.4;
+    margin: 40px 0 20px 0;
+}
+.testimonial4_slide h4 {
+  color: #ffffff;
+  font-size: 22px;
+  text-shadow: 1px 1px 2px black, 0 0 2px blue, 0 0 2px darkblue;
+}
+
+.testimonial .carousel {
+	padding-bottom:0px;
+}
+.testimonial .carousel-control-next-icon, .testimonial .carousel-control-prev-icon {
+    width: 35px;
+    height: 35px;
+}
+
+/* ------testimonial  close-------*/
+
+#slider {
+  position: relative;
+  overflow: hidden;
+  margin: 20px auto 20px auto;
+  border-radius: 4px;
+}
+
+#slider ul {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 200px;
+  list-style: none;
+}
+
+#slider ul li {
+  position: relative;
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 0;
+  width: 500px;
+
+  text-align: center;
+  line-height: 300px;
+}
+
+a.control_prev, a.control_next {
+  position: absolute;
+  top: 40%;
+  z-index: 999;
+  display: block;
+  padding: 4% 3%;
+  width: auto;
+  height: auto;
+  background: #2a2a2a;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+a.control_prev:hover, a.control_next:hover {
+  opacity: 1;
+  -webkit-transition: all 0.2s ease;
+}
+
+a.control_prev {
+  border-radius: 0 2px 2px 0;
+}
+
+a.control_next {
+  right: 0;
+  border-radius: 2px 0 0 2px;
+}
+
+.slider_option {
+  position: relative;
+  margin: 10px auto;
+  width: 160px;
+  font-size: 18px;
+}
+  </style>
+  <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '220033386709601');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src=https://www.facebook.com/tr?id=220033386709601&ev=PageView&noscript=1
+/></noscript>
+</head>
+
+<body>
+  <div id="tfiLoading" style="display: block; position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0, 0, 0, 0.72);z-index:9999;transition:all ease 0.35s;">
+    <p class="text-center" style="padding: 5px;width: 100px;margin: auto; background: #fff;border-radius: 5px;margin-top: 45vh"><img src="https://res.cloudinary.com/fitindian/desktop/img/lod2.gif" style="width: 55px" /></p>
+  </div>
+  <div class="banner">
+    <div class="navigation row header-sticky">
+      <div class="col-xs-8 text-left">
+        <p class="main-title"><a href="/"><img src="https://res.cloudinary.com/fitindian/image/upload/v1675740016/chat/qdyygvslkzhfwgxnov6f.png" width="175px;"></a></p>
+      </div>
+      <div class="">
+        <p class="navlinks" style="cursor: pointer;padding: 5px 20px;background: #ebc95e;color: #513f6e;position: absolute;right: 30px;top: 10px;font-weight: bold;border-radius: 3px;" id="loginModal">Login</p>
+        <!-- <p class="navlinks" style="cursor: pointer;padding: 5px 20px;background: #513f6e;color: #fff;position: absolute;right: 10px;top: 10px;font-weight: 100;border-radius: 3px;" id="loginModal">Login</p> -->
+      </div>
+      <div class="">
+        <p class="navlinks" style="cursor: pointer;padding: 5px 20px;background: #ebc95e;color: #513f6e;position: absolute;right: 130px;top: 10px;font-weight: bold;border-radius: 3px;" id="registerModal">Register</p>
+      </div>
+    </div>
+    <form id="metricsForm" method="post">
+      <div class="col-xs-9 widget-div" id="widget">
+        <div class="health-score">Want To Know Your Health Score?
+          <span id="modifyValues" class="no-display"><button type="button" class="btn modifyValues">Modify Values</button></span>
+        </div>
+        <div class="arrow"></div>
+        <div class="widget-outer">
+          <div class="widget">
+            <div id="metrics" class="is-display">
+              <div class="row widget-header">
+
+                <div class="col-xs-9 metrics">
+                  <div class="row">
+                    <div class="col-xs-2">
+                      <p class="title">HEIGHT</p>
+                    </div>
+                    <div class="col-xs-10 slider">
+                      <button type="button">
+                        <div class="box2 inline" id="boxhl"></div>
+                      </button>
+                      <div id="slider-3" class="inline"></div>
+                      <button type="button">
+                        <div class="box inline" id="boxhr"></div>
+                      </button>
+                      <input type="hidden" id="height" name="height">
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-2">
+                      <p class="title">WEIGHT</p>
+                    </div>
+                    <div class="col-xs-10 slider">
+                      <button type="button">
+                        <div class="box2 inline" id="boxwl"></div>
+                      </button>
+                      <div id="slider-2" class="inline"></div>
+                      <button type="button">
+                        <div class="box inline" id="boxwr"></div>
+                      </button>
+                      <input type="hidden" id="weight" name="weight">
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-2">
+                      <p class="title">AGE</p>
+                    </div>
+                    <div class="col-xs-10 slider">
+                      <button type="button">
+                        <div class="box2 inline" id="boxal"></div>
+                      </button>
+                      <div id="slider-1" class="inline" style="top:0"></div>
+                      <button type="button">
+                        <div class="box inline" id="boxar"></div>
+                      </button>
+                      <input type="hidden" id="age" name="age">
+
+                    </div>
+                  </div>
+                  <p class="validation" id="bmiValidation" style="color:red;display: none;font-size: 12px;margin: 0">Please enter valid details</p>
+                </div>
+                <div class="col-xs-3 gender text-center">
+                  <p class="title text-center">GENDER</p>
+                  <div class="gender-icons">
+                    <fieldset>
+                      <label>
+                        <input id="radio-m" type="radio" name="radiogender" value="male" />
+                        <img src="https://res.cloudinary.com/fitindian/desktop/img/checkmale.png">
+                      </label><br>
+                      <label>
+                        <input id="radio-f" type="radio" name="radiogender" value="female" />
+                        <img src="https://res.cloudinary.com/fitindian/desktop/img/checkfemale.png">
+                      </label>
+                      <div class="validation" id="genderValidation" style="display: none;">
+                        <p>* Please select your gender</p>
+                      </div>
+                    </fieldset>
+                  </div>
+                </div>
+              </div>
+              <hr>
+              <div class="lifeStyle">
+                <div class="row">
+                  <div class="col-xs-3">
+                    <p><b>LIFESTYLE</b> <!-- <span style="margin-left: 25px;"><i class="fa fa-info-circle" id="lifeStyleTooltip" aria-hidden="true" ></i></span> -->
+                    </p>
+                  </div>
+                  <div class="col-xs-9 lifeStyle_inputs">
+                    <fieldset>
+                      <div class="row">
+                        <div class="col-xs-6" style="padding:0px">
+                          <div>
+                            <input id="radio-1" class="radio-custom" name="radiolifestyle" value="Sedentary" type="radio">
+                            <label for="radio-1" class="radio-custom-label" data-toggle="tooltip" title="Too much time spent in sitting">Sedentary</label>
+                          </div>
+                          <div>
+                            <input id="radio-2" class="radio-custom" name="radiolifestyle" value="LightlyActive" type="radio">
+                            <label for="radio-2" class="radio-custom-label" data-toggle="tooltip" title="1-2 days/week of physical activity">Lightly Active</label>
+                          </div>
+                          <div>
+                            <input id="radio-3" class="radio-custom" name="radiolifestyle" value="ModeratelyActive" type="radio">
+                            <label for="radio-3" class="radio-custom-label" data-toggle="tooltip" title="3-5 days/week of physical activity">Moderately Active</label>
+                          </div>
+                        </div>
+                        <div class="col-xs-6" style="padding:0px">
+                          <div>
+                            <input id="radio-4" class="radio-custom" name="radiolifestyle" value="VeryActive" type="radio">
+                            <label for="radio-4" class="radio-custom-label" data-toggle="tooltip" title="6-7 days/week of physical activity">Very Active</label>
+                          </div>
+                          <div>
+                            <input id="radio-5" class="radio-custom" name="radiolifestyle" value="ExtremelyActive" type="radio">
+                            <label for="radio-5" class="radio-custom-label" data-toggle="tooltip" title="2X physical activity per day">Athletic</label>
+                          </div>
+                        </div>
+                    </fieldset>
+                  </div>
+                </div>
+                <div class="validation" id="lifestyleValidation" style="color:red;display: none;">
+                  <p>* Please select Your Lifestyle</p>
+                </div>
+              </div>
+              <div class="check text-center">
+                <p class="btn" onclick="calculateBmi()">CHECK MY HEALTH SCORE</p>
+              </div>
+            </div>
+            <div id="bmi" class="no-display">
+              <div class="bmi-header">
+                <h3 style="margin: 0">Your BMI: <span id="bmi-score"></span> - <span id="bmi-tip"></span></h3>
+                <div class="bmi-image">
+                  <div class="bmi-image-scale"></div>
+                  <div id="bmi-pointer">23</div>
+                </div>
+              </div>
+              <hr>
+              <div class="row risk-score">
+                <div class="col-xs-12 col-xs-7 risks" style="padding-right: 10px;">
+                  <h3>Possible Health Risks</h3>
+                  <p id="noHealthRisks"></p>
+                  <ul id="risksRepeat">
+
+                  </ul>
+                  <p class="disclaimer" id="disclaimer"><strong>Disclaimer</strong> : The following predications are based on our scientific research and need not be true.</p>
+                </div>
+                <div class="col-xs-12 col-xs-5 score-div">
+                  <p class="text-center" style="">Your Health Score</p>
+                  <div class="score text-center">
+                    <p id="healthScore"></p>
+                  </div>
+                </div>
+              </div>
+              <div class="check text-center">
+                <a style="cursor: pointer;background-color:#ebc95e; border-radius: 3px; color: #513f6e; width:35%;" class="btn" id="signupModal">Get My Free Diet Plan</a>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+  </form>
+  </div>
+  <div class="intro row text-center">
+      <p class="nutri-title" style="color: #fff; text-shadow: 1px 1px 2px black, 0 0 2px blue, 0 0 2px darkblue;">OUR SERVICES</p>
+    <div class="container" style="display: flex;justify-content: space-around;width: auto;">
+      <div class=" text-center intro-item">
+        <img src="https://res.cloudinary.com/fitindian/desktop/img/healthscoreGif.gif" class=" intro-img" alt="" style="margin-left: 0;">
+        <p class="intro-title" style="color: white; text-shadow: 1px 1px 2px black, 0 0 2px #28b34b, 0 0 5px #28b34b;">Health score</p>
+        <p style="text-align: justify; color: #fff;">A hundred on hundred is always welcome in life, isn’t it? Why leave your health out? Check your health score right away!</p>
+        <a href="#health-score"><span class="learn-more-btn">Learn more.</span></a>
+      </div>
+      <div class="text-center intro-item">
+        <img src="https://res.cloudinary.com/fitindian/desktop/img/dw.gif" class=" intro-img" alt="" style="margin-left: 0;">
+        <p class="intro-title" style="color: white; text-shadow: 1px 1px 2px black, 0 0 2px #28b34b, 0 0 2px #28b34b;">Diet and Workout Plans</p>
+        <p style="text-align: justify; color: #fff;">For every health problem you have, we have a plan. Choose now from our personalized diet and workout plans.</p>
+        <a href="#diet-plans"><span class="learn-more-btn">Learn more.</span></a>
+      </div>
+      <div class="text-center intro-item">
+        <img src="https://res.cloudinary.com/fitindian/desktop/img/ht.gif" class=" intro-img" alt="" style="margin-left: 0;">
+        <p class="intro-title" style="color: white; text-shadow: 1px 1px 2px black, 0 0 2px #28b34b, 0 0 2px #28b34b;">Track Your Health</p>
+        <p style="text-align: justify; color: #fff;">Everything from your sleep hours to water, food, and alcohol consumption can now be tracked. Start tracking!</p>
+        <a href="#track-health"><span class="learn-more-btn">Learn more.</span></a>
+      </div>
+      <div class=" text-center intro-item">
+        <img src="https://res.cloudinary.com/fitindian/desktop/img/nc.gif" class=" intro-img" alt="" style="margin-left: 0;">
+        <p class="intro-title" style="color: white; text-shadow: 1px 1px 2px black, 0 0 2px #28b34b, 0 0 5px #28b34b;">Nutritionists Support</p>
+        <p style="text-align: justify; color: #fff;">Our panel of nutritionists are here to acquaint you with your body’s needs. Ask them for their health and lifestyle-related expert opinion, now!</p>
+        <a href="#nutrition-support"><span class="learn-more-btn">Learn more.</span></a>
+      </div>
+
+
+    </div>
+    <a href="/register" class="btn tfi-btn btn-warning">GET STARTED</a>
+  </div>
+  <div class="nutritionists">
+    <div class="row" style="">
+      <div class="containers" id="health-score">
+        <div class="col-sm-6 col-lg-6 text-center">
+          <p class="nutri-title"></p>
+          <img src="https://res.cloudinary.com/fitindian/desktop/img/healthscoreImg.png" class="img-responsive" alt="nutritionists at work" style="margin-top: 40px;">
+        </div>
+        <div class="col-sm-6 col-lg-6 text-center">
+          <p class="nutri-title" style="color: #fff; text-shadow: 1px 1px 2px black, 0 0 2px blue, 0 0 2px darkblue;">HEALTH SCORE</p>
+          <p style="color: #fff ;padding: 0px 20px;text-align: justify;">The Fit Indian calculates your health score on the basis of your lifestyle activities, starting from the food you eat to the quality of your sleep, and your current health
+            conditions. Utilize it to keep record of every activity that affects your health, and the calculated score will keep you accountable to make the necessary lifestyle changes.</p>
+          <img src="https://res.cloudinary.com/fitindian/desktop/img/healthscoreboard.jpg" class="img-responsive imgBoard" alt="health score" style="margin: 30px auto;">
+          <!-- <a href="#" class="btn tfi-btn btn-warning" style="margin-bottom: 15px;">GET STARTED</a> -->
+        </div>
+      </div>
+    </div>
+    <div class="row" style="background: linear-gradient(to left, #71b280, #134e5e); padding-top: 30px;">
+      <div class="containers" id="diet-plans">
+        <div class="col-sm-6 col-lg-6 text-center">
+          <p class="nutri-title" style="color: #fff; text-shadow: 1px 1px 2px black, 0 0 2px blue, 0 0 2px darkblue;">DIET AND WORKOUT PLANS</p>
+          <p style="color: #fff ;padding: 0px 20px;text-align: justify;">Has your lifestyle gone out of whack? Bring it back on track with The Fit Indian’s tailor-made diet and workout plans. Whether you want to lose, gain, or maintain your
+            weight, we’ve got everything sorted out for you!</p>
+          <img src="https://res.cloudinary.com/fitindian/desktop/img/dietplansboard.jpg" class="img-responsive imgBoard" alt="diet and workout plans" style="margin: 30px auto;">
+          <!-- <a href="#" class="btn tfi-btn btn-warning" style="margin-bottom: 15px;">GET STARTED</a> -->
+        </div>
+        <div class="col-sm-6 col-lg-6 text-center">
+          <p class="nutri-title"></p>
+          <img src="https://res.cloudinary.com/fitindian/desktop/img/dietandworkoutImg.png" class="img-responsive" alt="nutritionists at work" style="margin-top: 40px;">
+        </div>
+      </div>
+    </div>
+    <div class="row" style="padding-top: 30px; background: linear-gradient(to left, #2bc0e4, #eaecc6);">
+      <div class="containers" id="track-health">
+        <div class="col-sm-6 col-lg-6 text-center">
+          <p class="nutri-title"></p>
+          <img src="https://res.cloudinary.com/fitindian/desktop/img/healthTrackImg.png" class="img-responsive" alt="nutritionists at work" style="margin-top: 40px;">
+        </div>
+        <div class="col-sm-6 col-lg-6 text-center">
+          <p class="nutri-title" style="color: #fff; text-shadow: 1px 1px 2px black, 0 0 2px blue, 0 0 2px darkblue;">TRACK YOUR HEALTH</p>
+          <p style="color: #ffffff;padding: 0px 20px;text-align: justify;">How do you know that these diet and workout plans are making the difference? Apart from the fact that you can indeed feel the difference, you can use our unique tracking
+            feature to check your health score and keep track of it throughout your health journey.</p>
+          <img src="https://res.cloudinary.com/fitindian/desktop/img/healthtrackboard.jpg" class="img-responsive imgBoard" alt="track your health" style="margin: 30px auto;">
+          <!-- <a href="#" class="btn tfi-btn btn-warning" style="margin-bottom: 15px;">GET STARTED</a> -->
+        </div>
+      </div>
+    </div>
+    <div class="row" style="background: linear-gradient(to right, #373b44, #4286f4); padding-top:30px;">
+      <div class="containers" id="nutrition-support">
+        <div class="col-sm-6 col-lg-6 text-center">
+          <p class="nutri-title" style="color: #fff; text-shadow: 1px 1px 2px black, 0 0 2px blue, 0 0 2px darkblue;">NUTRITIONISTS AT WORK</p>
+          <p style="color: #fff; padding: 0px 20px;text-align: justify;">When we say ‘sorted out’, we mean that our panel of expert nutritionists are relentlessly working towards helping you achieve your health goals. Customized diet plans
+            approved by skilled nutritionists are here to kick-start your health journey right away!</p>
+          <img src="https://res.cloudinary.com/fitindian/desktop/img/board.jpg" class="img-responsive imgBoard" alt="nutritionists at work" style="margin: 30px auto;">
+          <!-- <a href="#" class="btn tfi-btn btn-warning" style="margin-bottom: 15px;">GET STARTED</a> -->
+        </div>
+        <div class="col-sm-6 col-lg-6 text-center">
+          <p class="nutri-title"></p>
+          <img src="https://res.cloudinary.com/fitindian/desktop/img/nutriFinal.png" class="img-responsive" alt="nutritionists at work" style="margin-top: 40px;">
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- <p class="text-center" style="color: #14ccad;font-size: 16px; margin-top: 20px;font-weight: 700">Plans trending with our subscribers</p>
+    <div class="row plansTrending">
+        <div class="container">
+            <div class="col-sm-3 plan-item">
+                <img src="https://res.cloudinary.com/fitindian/desktop/img/plan-border.png" class="img-responsive plan-img" alt="">
+                <p class="text-left plan-title">Simple Cleanse</p>
+                <p class="text-left plan-type">Low Card Zone Diet</p>
+                <img src="https://res.cloudinary.com/fitindian/desktop/img/rating.png" class="rating-img" alt="">
+                <p class="text-left plan-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum ab quo maiores saepe cum dicta tempora libero possimus </p>
+            </div>
+            <div class="col-sm-3 plan-item">
+                <img src="https://res.cloudinary.com/fitindian/desktop/img/plan-border.png" class="img-responsive plan-img" alt="">
+                <p class="text-left plan-title">Simple Cleanse</p>
+                <p class="text-left plan-type">Low Card Zone Diet</p>
+                <img src="https://res.cloudinary.com/fitindian/desktop/img/rating.png" class="rating-img" alt="">
+                <p class="text-left plan-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum ab quo maiores saepe cum dicta tempora libero possimus </p>
+            </div>
+            <div class="col-sm-3 plan-item">
+                <img src="https://res.cloudinary.com/fitindian/desktop/img/plan-border.png" class="img-responsive plan-img" alt="">
+                <p class="text-left plan-title">Simple Cleanse</p>
+                <p class="text-left plan-type">Low Card Zone Diet</p>
+                <img src="https://res.cloudinary.com/fitindian/desktop/img/rating.png" class="rating-img" alt="">
+                <p class="text-left plan-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum ab quo maiores saepe cum dicta tempora libero possimus </p>
+            </div>
+            <div class="col-sm-3  plan-item">
+                <img src="https://res.cloudinary.com/fitindian/desktop/img/plan-border.png" class="img-responsive plan-img" alt="">
+                <p class="text-left plan-title">Simple Cleanse</p>
+                <p class="text-left plan-type">Low Card Zone Diet</p>
+                <img src="https://res.cloudinary.com/fitindian/desktop/img/rating.png" class="rating-img" alt="">
+                <p class="text-left plan-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum ab quo maiores saepe cum dicta tempora libero possimus </p>
+            </div>
+        </div>
+        <div class="text-center" style="margin: 20px 0px"><a href="#" class="btn tfi-btn btn-warning">View more plans</a></div>
+    </div> -->
+  
+  
+
+
+
+
+
+<section class="testimonial text-center">
+        <div class="container">
+            <div class="heading white-heading">
+                HAPPY USERS
+            </div>
+<div id="slider">
+  <a class="control_next">></a>
+  <a class="control_prev"><</a>
+  <ul>
+    <li>
+    <div class="testimonial4_slide">
+                            <img src="https://res.cloudinary.com/fitindian/desktop/img/profilemale.png" class="img-circle img-responsive" />
+                            <p>&ldquo;I work for 8 hours a day and travel for 4 more hours. With that kind of lifestyle and work schedule, I thought I could never feel healthy again until I found The Fit Indian app. I love the fact that I don’t have to move out of my house to meet an expert who can guide me in regaining my health. &rdquo;</p>
+                            <h4>Shruthi Shah</h4>
+                        </div>
+    </li>
+    <li>
+    <div class="testimonial4_slide">
+                            <img src="https://res.cloudinary.com/fitindian/desktop/img/profilemale.png" class="img-circle img-responsive" /><p>&ldquo;There’s nothing worse than dealing with post-partum weight gain (the hormones and the mess plus, having to look after the little one). It drove me nuts, but thanks to this app, their diet and workout plans have brought me back to normalcy within no time. Such a relief! &rdquo;</p>
+                            <h4>Poonam Jha</h4>
+                        </div>
+    </li>
+    <li>
+    <div class="testimonial4_slide">
+                            <img src="https://res.cloudinary.com/fitindian/desktop/img/profilemale.png" class="img-circle img-responsive" />
+                            <p>&ldquo;I am a health enthusiast and a workout freak. While I was looking for just the right kind of guidance to give a sense of direction to my workout sessions, I landed on The Fit Indian app. I not only found an at-home workout regime that I am absolutely in love  with but also found the exact diet plan for my needs. Looks like six-pack’s on the way! &rdquo;</p>
+                            <h4>Jonathan</h4>
+                        </div>
+    </li>
+  </ul>  
+</div>
+
+
+
+
+            <a href="/register" class="btn tfi-btn btn-warning" style="margin-bottom: 20px; box-shadow: 0px 0px 5px 5px rgb(255 255 255 / 53%);">GET STARTED</a>
+        </div>
+    </section>
+  <footer>
+      <div class="row footerLinks">
+          <div class="col-xs-12 col-sm-6 col-md-3 text-left">
+              <h3>Legal</h3>
+              <h4><a href="/terms-and-conditions" style="color:#fff;">Terms and Conditions</a></h4>
+              <h4><a href="/privacy-policy" style="color:#fff;">Privacy Policy</a></h4>
+              <h4><a href="/refund-policy" style="color:#fff;">Refund Policy</a></h4>
+              <h4><a href="/cancellation-policy" style="color:#fff;">Cancellation policy</a></h4>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-3 text-left">
+              <h3>Links</h3>
+               <h4><a href="https://www.thefitindian.com/conditions/" style="color:#fff;">Conditions</a></h4>
+              <h4><a href="https://www.thefitindian.com/blog/" target="blank" style="color:#fff;">Blog</a></h4>
+              <h4><a href="/about-us" style="color:#fff;">About Us</a></h4>
+              
+              <h4><a href="/careers" style="color:#fff;">Careers</a></h4>
+             
+              
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-3 text-left">
+              <h3>Support</h3>
+              <p style="color: #fff;opacity: 0.8;margin-top: 20px;">Send your queries to</p>
+              <p style="color: #fff;opacity: 0.8"><i class="fa fa-envelope" aria-hidden="true"></i><a style="text-decoration: none;color: #fff" href="mailto:support@pyritefitness.com">support@pyritefitness.com</a></p>
+              
+              <p style="color: #14ccad; display: none;">Coming soon</p>
+             <a href="https://play.google.com/store/apps/details?id=com.fitindian" target="_blank" ><span  style="color:#fff;font-size: 24px;"><i class="fa fa-android" aria-hidden="true"></i></span></a>
+            <a href="https://apps.apple.com/in/app/the-fit-indian/id1569652920" target="_blank" > <span  style="color:#fff;font-size: 24px;"><i  class="fa fa-apple" aria-hidden="true"></i></span></a>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-3 text-left">
+              <h3>The Fit Indian</h3>
+              <p style="color: #fff;opacity: 0.8;margin-top: 20px;">The Fit Indian app is an all-inclusive platform that offers specialized, focused diet and workout plans; daily food and water consumption tracking; sleep cycle tracking and restoration, and an overall Health Score for all the seekers of good health and fitness out there! Avail our online support from a team of certified nutritionists right away!</p>
+          </div>
+      </div>
+  </footer>  <!-- <footer>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-3">
+                <p class="brand">The Fit Indian</p>
+            </div>
+
+        </div>
+        <hr>
+        <div class="row footerLinks">
+            <div class="col-xs-12 col-sm-6 col-md-3 text-left">
+                <h3>ABOUT FITINDIAN</h3>
+                <h4>Our People</h4>
+                <h4>Affliate Programs</h4>
+                <h4>Corporate wellness Programs</h4>
+                <h4>Media kit</h4>
+                <h4>Careers</h4>
+                <h4>contact us</h4>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 text-left">
+                <h3>HEALTH LIBRARY</h3>
+                <h4>Our People</h4>
+                <h4>Affliate Programs</h4>
+                <h4>Corporate wellness Programs</h4>
+                <h4>Media kit</h4>
+                <h4>Careers</h4>
+                <h4>contact us</h4>
+            </div>
+
+        </div>
+
+    </footer> -->
+  <div class="modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-body text-center authModal">
+          <div class="col-sm-6 hidden-xs authBanner">
+            <!-- <img src="images/desktop/fruits.jpg"> -->
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6 authForm" style="position: relative;height: 600px;overflow: hidden;">
+            <div id="tfiAuthForm">
+              <p class="text-left">
+                <span class="authFormRegister" id="showRegister"> Register</span>
+                <span class="authFormLogin" id="showLogin">Log In</span>
+              </p>
+              <div class="authInput is-display" id="register">
+                <form method="post" class="registerForm" id="registerForm">
+                  <p style="color: red;font-size: 12px;margin-bottom: 0;margin-top: 20px" id="registerError"></p>
+                  <input class="textfield" type="text" name="registerName" id="registerName" onblur="verifyName(event)" placeholder="Name">
+                  <p id="registerNameCaution" class="text-left" style="display: none; margin:0; font-size: 10px; color: red">Enter a valid name</p>
+                  <div style="position: relative;">
+                    <input class="textfield" autocomplete="off" type="tel" oninput="checkNumberValidity(event)" onblur="verifyMobile(event)" name="registerMobileDummy" id="registerMobile"></div>
+                  <input type="hidden" name="registerMobile" id="registerMobileOriginal">
+                  <p id="registerMobileCaution" class="text-left" style="display: none; margin:0; font-size: 10px; color: red">Enter a valid mobile number</p>
+                  <input class="textfield" type="text" name="registerCity" id="registerCity" onblur="verifyCity(event)" placeholder="City">
+                  <p id="registerCityCaution" class="text-left" style="display: none; margin:0; font-size: 10px; color: red">Enter a city name</p>
+                  <input class="textfield" type="text" name="registerEmailDummy" id="registerEmailDummy" placeholder="Email Address">
+                  <input type="hidden" name="registerEmail" id="registerEmail">
+
+                  <p id="registerEmailCaution" class="text-left" style="display: none; margin:0; font-size: 10px; color: red">Enter an Email</p>
+                  <div style="position: relative;">
+                    <input class="textfield" type="password" name="passwordDummy" id="password" placeholder="Password"><span class="passwordIcon" id="showPassword" style="color: #14ccad;font-size: 16px;"><i class="fa fa-eye-slash"
+                        aria-hidden="true"></i></span><span class="passwordIcon" id="hidePassword" style="color: #14ccad; font-size: 16px; display: none;"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                  </div>
+                  <input type="hidden" id="pw" name="password">
+                  <p id="registerPasswordCaution" class="text-left" style="display: none; margin:0; font-size: 10px; color: red">Enter a secure password</p>
+
+                  <div style="margin-top: 10px;text-align: left;">
+                    <input type="checkbox" class="checkbox-custom" name="termsAndCond" id="termsAndCond" style="border-radius: 4px;">
+                    <label for="termsAndCond" class="checkbox-custom-label" style="font-size: 12px;">I agree to the <a href="/terms-and-conditions" target="_blank" style="border: 0;color: blue;background: #fff;text-decoration: underline;"> Terms and
+                        Conditions</a> .</label>
+                    <p id="termsAndCondCaution" style="color: red;font-size: 10px;"></p>
+                  </div>
+                  <input type="submit" name="submit" value="Register" id="register-submit" class="btn authSubmit authRegister" style="background: #14ccad;color: #fff;">
+                  <p></p>
+                  <input type="hidden" name="regWURFL" id="regWURFL">
+                  <input type="hidden" name="regDeviceIdentifier" id="regDeviceIdentifier">
+                </form>
+                <!-- <p class="authTerms">By clicking 'Register', you agree to the terms and conditions</p> -->
+                <p class="text-center orWith" style="margin-top: 5px;margin-bottom: 5px;">or with</p>
+                <a href="/google" class="btn"><i class="fa fa-google" aria-hidden="true"></i> Google</a>
+                <a href="/facebook" class="btn"><i class="fa fa-facebook" aria-hidden="true"></i> Facebook</a>
+              </div>
+              <div class="authInput2 no-display" id="login">
+                <form method="post" class="loginForm" id="loginForm">
+                  <p style="color: red;font-size: 12px;margin-bottom: 0;margin-top: 20px" id="loginError"></p>
+                  <input class="textfield" type="text" name="signinEmailDummy" id="signinEmailDummy" placeholder="Email address or mobile number">
+                  <input type="hidden" name="signinEmail" id="signinEmail">
+                  <input type="hidden" name="mobile" id="signinMobile">
+                  <p id="signinEmailCaution" class="text-left" style="display: none; margin:0; font-size: 10px; color: red">Enter a valid email or mobile number</p>
+                  <div style="position: relative;">
+                    <input class="textfield" type="password" name="passwordDummy" id="password3" placeholder="Password"><span class="loginPasswordIcon" id="showLoginPassword" style="color: #14ccad;font-size: 16px;"><i class="fa fa-eye-slash"
+                        aria-hidden="true"></i></span><span class="loginPasswordIcon" id="hideLoginPassword" style="color: #14ccad;font-size: 16px; display: none;"></i><i class="fa fa-eye" aria-hidden="true"></i></span>
+                  </div>
+                  <input type="hidden" id="pw3" name="password">
+                  <input type="hidden" name="WURFL" id="WURFL">
+                  <input type="hidden" name="deviceIdentifier" id="deviceIdentifier">
+                  <p id="signinPasswordCaution" class="text-left" style="display: none; margin:0; font-size: 10px; color: red">Enter your password</p>
+                  <input type="submit" name="submit" value="Log in" class="btn authSubmit authLogin" style="background: #14ccad;color: #fff;">
+                  <p style="margin-top: 20px;"><a href="/forgot" class="forgot">Forgot password?</a></p>
+                </form>
+                <!-- <p class="authTerms">By clicking 'log in', you agree to the terms and conditions</p> -->
+                <p class="text-center orWith2" style="margin-top: 10px; margin-bottom: 0;">or with</p>
+                <a href="/google" class="btn"><i class="fa fa-google" aria-hidden="true"></i> Google</a>
+                <a href="/facebook" class="btn"><i class="fa fa-facebook" aria-hidden="true"></i> Facebook</a>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</body>
+<!-- end f sign in modal -->
+<!-- End of Modals -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> -->
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<!-- Latest compiled and minified JavaScript -->
+<script type="text/javascript">
+
+</script>
+
+<script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="js/bootstraptestimonial.js"></script>
+<script src="//wurfl.io/wurfl.js"></script>
+
+
+<script src="js/intlTelInput.js"></script>
+<script src="js/index.js"></script>
+<script type="text/javascript">
+  var input = document.querySelector("#registerMobile");
+
+  var iti = window.intlTelInput(input, {
+    preferredCountries: [],
+    utilsScript: "js/utils.js?1537727621611" // just for formatting/placeholders etc
+  });
+
+
+
+
+
+  document.getElementById('WURFL').value = navigator.userAgent || navigator.vendor || window.opera;
+
+  // document.getElementById('deviceIdentifier').value = navigator.userAgent;
+
+
+  document.getElementById('deviceIdentifier').value = navigator.userAgent;
+  document.getElementById('regWURFL').value = navigator.userAgent || navigator.vendor || window.opera;
+  document.getElementById('regDeviceIdentifier').value = navigator.userAgent;
+
+  function verifyName(evt) {
+    document.getElementById("registerName").style.borderBottom = "1px solid #AAB7B8";
+
+    document.getElementById('registerNameCaution').innerHTML = "";
+  }
+
+  function verifyCity(evt) {
+    document.getElementById("registerCity").style.borderBottom = "1px solid #AAB7B8";
+
+    document.getElementById('registerCityCaution').innerHTML = "";
+  }
+
+  $("#registerCity").keydown(function(evt) {
+    var e = event || evt; // for trans-browser compatibility
+    var charCode = e.which || e.keyCode;
+    console.log(charCode)
+    if ((charCode > 31 && charCode < 186 && (charCode < 48 || charCode > 57)) || charCode == 8 || charCode == 188 || charCode == 190) {
+      document.getElementById('registerCityCaution').style.display = "none";
+      document.getElementById("registerCity").style.borderBottom = "1px solid #AAB7B8";
+      return true;
+    } else {
+      document.getElementById("registerCity").style.borderBottom = "1px solid red";
+      document.getElementById('registerCityCaution').innerHTML = " Only letters are allowed";
+      document.getElementById('registerCityCaution').style.display = "block";
+      return false;
+    }
+  })
+
+  $("#registerName").keyup(function(evt) {
+    if ($(this).val().match("^[a-zA-Z ]+$")) {
+      document.getElementById('registerNameCaution').innerHTML = "";
+      document.getElementById("registerName").style.borderBottom = "1px solid #AAB7B8";
+    } else {
+      $(this).val("");
+      evt.preventDefault();
+      document.getElementById("registerName").style.borderBottom = "1px solid red";
+
+      document.getElementById('registerNameCaution').innerHTML = " Only alphabets are allowed";
+      document.getElementById('registerNameCaution').style.display = "block";
+
+
+    }
+  })
+
+
+
+  $('#registerMobile').keyup(function() {
+    if ($(this).val().match("^[0-9]+$")) {
+      document.getElementById('registerMobileCaution').style.display = 'none';
+      document.getElementById('registerMobileCaution').innerHTML = '';
+    } else {
+      $(this).val("");
+      document.getElementById("registerMobile").style.borderBottom = " 1px solid red";
+      document.getElementById('registerMobileCaution').style.display = 'block';
+      document.getElementById('registerMobileCaution').innerHTML = 'Numeric input please';
+
+    }
+  })
+
+  function verifyMobile(evt) {
+    document.getElementById('registerMobileCaution').innerHTML = "";
+    document.getElementById("registerMobile").style.borderBottom = " 1px solid #AAB7B8";
+
+  }
+  $(document).ready(function() {
+
+    $("#showPassword").click(function() {
+      var showPassword = $("#password")
+      showPassword.attr('type', 'text');
+      $("#showPassword").css('display', 'none');
+      $("#hidePassword").css('display', 'block');
+    });
+    $("#hidePassword").click(function() {
+      var hidePassword = $('#password');
+      hidePassword.attr('type', 'password');
+      $("#hidePassword").css('display', 'none');
+      $("#showPassword").css('display', 'block')
+    })
+    $("#showLoginPassword").click(function() {
+      var showPassword = $("#password3")
+      showPassword.attr('type', 'text');
+      $("#showLoginPassword").css('display', 'none');
+      $("#hideLoginPassword").css('display', 'block');
+    });
+    $("#hideLoginPassword").click(function() {
+      var hidePassword = $('#password3');
+      hidePassword.attr('type', 'password');
+      $("#hideLoginPassword").css('display', 'none');
+      $("#showLoginPassword").css('display', 'block')
+    })
+  })
+</script>
+
+
+<script type="text/javascript">
+  $("#termsAndCond").click(function() {
+    $("#termsAndCondCaution").html("")
+    $('.passwordIcon').removeClass('passwordAfterMsg');
+
+  })
+  $('[data-toggle="tooltip"]').tooltip({
+    html: true
+  });
+</script>
+
+<script>
+$(function() {
+    $(window).on("scroll", function() {
+        if($(window).scrollTop() > 50) {
+            $(".header-sticky").addClass("header-sticky-active");
+        } else {
+            //remove the background property so it comes transparent again (defined in your css)
+           $(".header-sticky").removeClass("header-sticky-active");
+        }
+    });
+});
+</script>
+
+
+<script>
+jQuery(document).ready(function ($) {
+
+  $('#checkbox').change(function(){
+    setInterval(function () {
+        moveRight();
+    }, 3000);
+  });
+  
+	var slideCount = $('#slider ul li').length;
+	var slideWidth = $('#slider ul li').width();
+	var slideHeight = $('#slider ul li').height();
+	var sliderUlWidth = slideCount * slideWidth;
+	
+	$('#slider').css({ width: slideWidth, height: slideHeight });
+	
+	$('#slider ul').css({ width: sliderUlWidth, marginLeft: - slideWidth });
+	
+    $('#slider ul li:last-child').prependTo('#slider ul');
+
+    function moveLeft() {
+        $('#slider ul').animate({
+            left: + slideWidth
+        }, 200, function () {
+            $('#slider ul li:last-child').prependTo('#slider ul');
+            $('#slider ul').css('left', '');
+        });
+    };
+
+    function moveRight() {
+        $('#slider ul').animate({
+            left: - slideWidth
+        }, 200, function () {
+            $('#slider ul li:first-child').appendTo('#slider ul');
+            $('#slider ul').css('left', '');
+        });
+    };
+
+    $('a.control_prev').click(function () {
+        moveLeft();
+    });
+
+    $('a.control_next').click(function () {
+        moveRight();
+    });
+
+});    
+</script>
+
+</html>

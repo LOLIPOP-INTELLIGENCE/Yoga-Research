@@ -1,0 +1,2720 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<!--=== META TAGS ===-->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" >
+	<meta name="theme-color" content="#000000" />
+
+	<!--=== Scripts ===-->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+	<!--=== TITLE ===-->
+	<title>Allie Van Fossen</title>
+
+									
+	
+	<title>Allie Van Fossen</title>
+
+<!-- The SEO Framework by Sybre Waaijer -->
+<meta name="robots" content="max-snippet:-1,max-image-preview:standard,max-video-preview:-1" />
+<link rel="canonical" href="https://allievanfossen.com/" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="Allie Van Fossen" />
+<meta property="og:title" content="Allie Van Fossen" />
+<meta property="og:url" content="https://allievanfossen.com/" />
+<meta property="og:image" content="https://allievanfossen.com/wp-content/uploads/2021/08/logo-avf.png" />
+<meta property="og:image:width" content="362" />
+<meta property="og:image:height" content="110" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Allie Van Fossen" />
+<meta name="twitter:image" content="https://allievanfossen.com/wp-content/uploads/2021/08/logo-avf.png" />
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://allievanfossen.com/#/schema/WebSite","url":"https://allievanfossen.com/","name":"Allie Van Fossen","inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://allievanfossen.com/search/{search_term_string}/"},"query-input":"required name=search_term_string"},"publisher":{"@id":"https://allievanfossen.com/#/schema/Organization"}},{"@type":"WebPage","@id":"https://allievanfossen.com/","url":"https://allievanfossen.com/","name":"Allie Van Fossen","inLanguage":"en-US","isPartOf":{"@id":"https://allievanfossen.com/#/schema/WebSite"},"breadcrumb":{"@type":"BreadcrumbList","@id":"https://allievanfossen.com/#/schema/BreadcrumbList","itemListElement":{"@type":"ListItem","position":1,"name":"Allie Van Fossen"}},"potentialAction":{"@type":"ReadAction","target":"https://allievanfossen.com/"},"about":{"@id":"https://allievanfossen.com/#/schema/Organization"}},{"@type":"Organization","@id":"https://allievanfossen.com/#/schema/Organization","name":"Allie Van Fossen","url":"https://allievanfossen.com/","logo":{"@type":"ImageObject","url":"https://allievanfossen.com/wp-content/uploads/2021/08/logo-avf.png","contentUrl":"https://allievanfossen.com/wp-content/uploads/2021/08/logo-avf.png","width":362,"height":110}}]}</script>
+<!-- / The SEO Framework by Sybre Waaijer | 13.17ms meta | 3.65ms boot -->
+
+<link rel='dns-prefetch' href='//player.vimeo.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//unpkg.com' />
+<link rel="alternate" type="application/rss+xml" title="Allie Van Fossen &raquo; Feed" href="https://allievanfossen.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Allie Van Fossen &raquo; Comments Feed" href="https://allievanfossen.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/allievanfossen.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='selectize-css-css' href='https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.12.6/css/selectize.min.css?ver=6.4.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='aos-css-css' href='https://unpkg.com/aos@2.3.1/dist/aos.css?ver=6.4.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='slick-css-css' href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css?ver=6.4.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='slick-theme-css-css' href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css?ver=6.4.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='style-css' href='https://allievanfossen.com/wp-content/themes/blank/style.css?ver=6.4.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='custom-css-css' href='https://allievanfossen.com/wp-content/themes/blank/assets/css/custom.css?ver=6.4.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='splide-css-css' href='https://allievanfossen.com/wp-content/themes/blank/assets/splide/css/splide-core.min.css?ver=6.4.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='cookie-notice-front-css' href='https://allievanfossen.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=2.4.13' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-flexible-content-preview-css' href='https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/css/acf-flexible-content-preview.css?ver=1.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css' href='https://allievanfossen.com/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.min.css?ver=4.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-datepicker-css' href='https://allievanfossen.com/wp-content/plugins/advanced-custom-fields-pro/assets/inc/datepicker/jquery-ui.min.css?ver=1.11.4' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-timepicker-css' href='https://allievanfossen.com/wp-content/plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.min.css?ver=1.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-color-picker-css' href='https://allievanfossen.com/wp-admin/css/color-picker.min.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-rgba-color-picker-style-css' href='https://allievanfossen.com/wp-content/plugins/acf-rgba-color-picker//assets/css/acf-rgba-color-picker.css?ver=1.2.0' type='text/css' media='all' />
+  <style id="acf-flexible-content-collapse">.acf-flexible-content .acf-fields { display: none; }</style>
+  <script type="text/javascript">
+  jQuery(function($) {
+    $('.acf-flexible-content .layout').addClass('-collapsed');
+    $('#acf-flexible-content-collapse').detach();
+  });
+  </script> <script type="text/javascript" src="https://allievanfossen.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script async type="text/javascript" id="cookie-notice-front-js-before">
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/allievanfossen.com\/wp-admin\/admin-ajax.php","nonce":"5a6716eb11","hideEffect":"fade","position":"bottom","onScroll":false,"onScrollOffset":100,"onClick":false,"cookieName":"cookie_notice_accepted","cookieTime":2592000,"cookieTimeRejected":2592000,"globalCookie":false,"redirection":false,"cache":false,"revokeCookies":false,"revokeCookiesOpt":"automatic"};
+/* ]]> */
+</script>
+<script async type="text/javascript" src="https://allievanfossen.com/wp-content/plugins/cookie-notice/js/front.min.js?ver=2.4.13" id="cookie-notice-front-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2" id="jquery-ui-sortable-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2" id="jquery-ui-resizable-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-content/plugins/advanced-custom-fields-pro/assets/build/js/acf.min.js?ver=6.2.5" id="acf-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-content/plugins/advanced-custom-fields-pro/assets/build/js/acf-input.min.js?ver=6.2.5" id="acf-input-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-content/plugins/advanced-custom-fields-pro/assets/build/js/pro/acf-pro-input.min.js?ver=6.2.5" id="acf-pro-input-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-content/plugins/advanced-custom-fields-pro/assets/build/js/pro/acf-pro-ui-options-page.min.js?ver=6.2.5" id="acf-pro-ui-options-page-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/js/acf-flexible-content-preview.js?ver=1.0.6" id="acf-flexible-content-preview-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.full.min.js?ver=4.0.13" id="select2-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" id="jquery-ui-datepicker-js"></script>
+<script type="text/javascript" id="jquery-ui-datepicker-js-after">
+/* <![CDATA[ */
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"dS MM yy","firstDay":1,"isRTL":false});});
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-content/plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.min.js?ver=1.6.1" id="acf-timepicker-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2" id="jquery-ui-draggable-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2" id="jquery-ui-slider-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2" id="jquery-touch-punch-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-admin/js/iris.min.js?ver=1.0.7" id="iris-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-admin/js/color-picker.min.js?ver=6.4.2" id="wp-color-picker-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-content/plugins/advanced-custom-fields-pro/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=3.0.0" id="acf-color-picker-alpha-js"></script>
+<link rel="https://api.w.org/" href="https://allievanfossen.com/wp-json/" /><link rel="alternate" type="application/json" href="https://allievanfossen.com/wp-json/wp/v2/pages/184" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://allievanfossen.com/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" href="https://allievanfossen.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fallievanfossen.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://allievanfossen.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fallievanfossen.com%2F&#038;format=xml" />
+<link rel="icon" href="https://allievanfossen.com/wp-content/uploads/2021/08/favicon-32x32-1.png" sizes="32x32" />
+<link rel="icon" href="https://allievanfossen.com/wp-content/uploads/2021/08/favicon-32x32-1.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://allievanfossen.com/wp-content/uploads/2021/08/favicon-32x32-1.png" />
+<meta name="msapplication-TileImage" content="https://allievanfossen.com/wp-content/uploads/2021/08/favicon-32x32-1.png" />
+		<style type="text/css" id="wp-custom-css">
+			.cn-button.bootstrap {
+    background-color: #FDC14E;
+    background-image: none;
+    color: #C63B31;
+}		</style>
+		</head>
+
+<body class="home page-template page-template-templates page-template-t-configurable-layout page-template-templatest-configurable-layout-php page page-id-184 wp-custom-logo wp-embed-responsive cookies-not-set">
+
+	<div id="main-content">
+
+		
+							<div class="top-bar">
+					<div class="top-bar-close">
+						<div class="top-bar-close-wpr">
+							&nbsp;
+						</div>
+					</div>
+					<div class="container-fluid lg">
+						<div class="row">
+							<div class="col-8 col-xl-9">
+								<a href="#yoga-reset" target="">
+																			<h4 class="hide-mobile mb-0">Need a top-to-bottom yoga refresh?</h4>
+									
+									<div class="WYSIWYG-styles">
+										<p class="p1"><span class="s1 sm" style="color: #ffffff;">Get my free 7-step reset that goes beyond the pose &amp; cares for your body, mind and soul!</span></p>
+									</div>
+								</a>
+							</div>
+															<div class="col-4 col-xl-3">
+									<a class="btn top-bar-btn" href="#yoga-reset" target="">
+										SIGN UP!									</a>
+								</div>
+													</div>
+					</div>
+				</div>
+			
+			<header class="main Dark-text">
+				<div class="container-fluid">
+					<div class="branding">
+																									<a href="/">
+								<img class="logo-c" id="logo" src="https://allievanfossen.com/wp-content/uploads/2021/08/logo-avf.png">
+							</a>
+											</div>
+
+					<nav class="main"> <div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-61152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-184 current_page_item menu-item-61152"><a href="https://allievanfossen.com/" aria-current="page">Home</a></li>
+<li id="menu-item-1505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1505"><a href="https://allievanfossen.com/about/">About</a></li>
+<li id="menu-item-1508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1508"><a href="https://allievanfossen.com/video-library/">Video Library</a></li>
+<li id="menu-item-430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="https://allievanfossen.com/our-blog/">Blog</a></li>
+<li id="menu-item-1507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1507"><a href="https://allievanfossen.com/work-with-me/">Work with Me</a></li>
+<li id="menu-item-1506" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1506"><a href="https://allievanfossen.com/success-stories/">Success Stories</a></li>
+<li id="menu-item-1504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1504"><a href="https://allievanfossen.com/contact/">Contact</a></li>
+</ul></div> </nav>
+
+					<div class="toggle-nav">
+						<div class="line"></div>
+					</div>
+				</div>
+			</header>
+		
+
+  
+  <div class="layout_base">
+
+      
+      
+          
+    
+    
+    <div class="hero Large  DS-padding"  section_color="Normal" section_size="Normal" id="">
+
+      <div class="main_image bg_image Center" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/08/banner-home-1600x933.png');">
+        <div class="overlay" style="background-color: ;"></div>
+      </div>
+
+              <div class="image_mobile bg_image Center" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/10/mobile-banner-3.jpg');">
+          <div class="overlay" style="background-color: ;"></div>
+        </div>
+      
+      
+      <div class="container-fluid lg align-items-center ">
+        <div class="wpr  push-up-text text-bg-color-Default Normal ">
+              
+     <div class="text WYSIWYG-styles text_container lg Center mb-0"> <h1 style="text-align: center;">Real yoga. Real people.<br />
+Real transformation.</h1>
+<p class="p-large" style="text-align: center;">We practice holistic yoga for on-and-off-the-mat change here.<br />
+Unroll your mat and stay a while.</p>
+<p style="text-align: center;"><a class="btn-second" href="http://allievanfossen.com/work-with-me/">DIVE RIGHT IN</a></p>
+ </div> 
+          </div>
+      </div>
+
+    </div>
+  
+      
+    
+      
+        
+  
+    <div class="form_component "  section_color="Normal" section_size="Pull Section Upwards" id="">
+              <div class="container-fluid lg">
+              <div class="form-wpr " style="background-color: #f7d7ca">
+          <div class="form-content">
+            <div class="row no-gutters">
+                              <div class="form-image-column col-12 col-xl-3 img-col">
+                  <div class="form-image-column-wpr">
+                    <img class="form-image" src="https://allievanfossen.com/wp-content/uploads/2021/09/awaken-foundations-ipad-2x-1.png" />
+                  </div>
+                </div>
+                             <div class="form-content-column col-12 col-xl-9 align-items-center">
+                 <div class="form-content-wpr ">
+                   <div class="form-intro">
+                     <div class="WYSIWYG-styles">
+                       <p class="block-text" style="text-align: left;">Feeling meh? It’s time for a reset.</p>
+<p>We all get thrown off our healthy path sometimes. My FREE 7-Step Yoga Reset Guide is the perfect way to strengthen your practice and recenter your body, mind and soul. Self-paced, no equipment necessary, and perfect for beginners AND veteran yogis.</p>
+                     </div>
+                   </div>
+                                      <div class="form">
+                       <script async data-uid="9c920cc989" src="https://the-journey-junkie.ck.page/9c920cc989/index.js"></script>                   </div>
+                                    </div>
+               </div>
+            </div>
+          </div>
+        </div>
+              </div>
+          </div>
+  
+      
+    
+      
+          
+    
+                
+                    
+    
+                    
+
+            
+        
+        
+    
+    
+    <div class="simple_text add_text_container_color"  section_color="Normal" section_size="Small" id="">
+
+      
+      <div class="full_width">
+        <div class="row justify-content-center align-items-center no-gutters">
+
+                      <div class="col-lg-6">
+              <div class="img_container text-color">
+
+                                  <div class="image_wpr" data-aos="fade">
+
+                    
+                      <img class="image" src="https://allievanfossen.com/wp-content/uploads/2021/09/lg-Allie-Van-Fossen.Kcc-40-1600x1102.png" alt="">
+
+                    
+                    
+                    
+                  </div>
+                
+              </div>
+            </div>
+          
+
+
+          <div class="col-lg-6">
+            <div class="text_container_color-wrp" style="background-color: #f8f0ed; outline: 2px solid #f8f0ed;" data-aos="fade-up">
+              <div class="text_container has_image md" >
+                 <div class="text WYSIWYG-styles"> <h2 class="script-text lg rotate"><span style="color: #7e171b;">Hey</span><br />
+<span style="color: #7e171b;">beautiful soul!</span></h2>
+<h1 style="padding-left: 40px;">I’m Allie.</h1>
+<p style="padding-left: 40px;">I’m a self-growth student, freedom-seeker, yoga teacher and the founder of a tight-knit online yoga community: the Body Mind Soul Studio. I’m here to teach you how to transform your life on-and-off-the-mat with a holistic yoga practice.</p>
+ </div>               </div>
+            </div>
+          </div>
+
+        </div> <!-- $row -->
+      </div> <!-- $container -->
+
+      
+    </div>
+  
+      
+    
+      
+        
+    
+    
+    <div class="feed_video_library"  section_color="Light Wisteria" section_size="Normal" id="">
+      <div class="full-width">
+        <div class="feed_video_library-wpr">
+
+          <div class="top-text-wpr" data-aos="fade-down">
+                
+     <div class="text WYSIWYG-styles text_container lg Center mb-6 mb-xs-4"> <p class="block-text" style="text-align: center;"><span style="color: #c63a31;">TAKE IT TO THE MAT</span></p>
+<p class="p1 font-semi-bold lg" style="text-align: center;"><span class="s1">My library of free online yoga classes has just the thing to meet you where you’re at.</span></p>
+ </div> 
+            </div>
+
+          <div class="container-fluid sm" data-aos="fade-down">
+            <div class="feed_video_library__select-wpr">
+              <div class="feed_video_library__intro">
+                <p class="feed_video_library__intro-text">Choose the option <br/> that feels best</p>
+                <img class="feed_video_library__intro-detail" src="https://allievanfossen.com/wp-content/themes/blank/images/feed-video-library-detail.png" />
+              </div> <!-- </intro -->
+              <div class="feed_video_library__select">
+                <h2 class="feed_video_library__select-header">
+                  Today I need to:
+                </h2>
+                <div class="interface-wpr">
+
+                  
+                  <select class="feed_video_library__select-select preview" name="video-library-category" >
+                    <option value="" class="feed_video_library__select-placeholder">CHOOSE HERE:</option>
+                    
+                                                                  <option value="#t-839">Balance my Energy</option>
+                    
+                                                                  <option value="#t-844">Begin with Basics</option>
+                    
+                                                                  <option value="#t-842">Break a Sweat</option>
+                    
+                                                                  <option value="#t-840">Cleanse my Chakras</option>
+                    
+                                                                  <option value="#t-841">De-stress before Bed</option>
+                    
+                                                                  <option value="#t-843">Relax and Heal</option>
+                    
+                                                                  <option value="#t-838">Wake up Powerfully</option>
+                    
+                                                                  <option value="#t-845">Work on my Mindset</option>
+                                      </select>
+
+                  <button class="feed_video_library__select-submit" type="submit"><img src="https://allievanfossen.com/wp-content/themes/blank/images/video-library-submit.png" /></button>
+                </div> <!-- </interface-wpr -->
+              </div>
+            </div> <!-- </select-wpr -->
+          </div> <!-- </container -->
+
+          
+          <div class="feed_video_library__splide splide">
+            <div class="feed_video_library__track splide__track">
+              <ul class="feed_video_library__list splide__list">
+
+                
+                <li class="feed_video_library__slide splide__slide">
+                  <a class="feed_video_library__link" href="https://allievanfossen.com/video-libraries/my-fav-yoga-practice-for-the-new-year/">
+                    <div class="feed_video_library__post">
+                      <div class="feed_video_library__post-img" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2024/01/ganesha-blog-1000x750.png)"></div>
+                      <p class="feed_video_library__post-cat">Balance my Energy</p>
+                      <p class="feed_video_library__post-title">my fav yoga practice for the new year</p>
+                    </div>
+                  </a>
+                </li>
+
+                
+                <li class="feed_video_library__slide splide__slide">
+                  <a class="feed_video_library__link" href="https://allievanfossen.com/video-libraries/helping-you-digest-the-day-experience-peace/">
+                    <div class="feed_video_library__post">
+                      <div class="feed_video_library__post-img" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/12/nitish-meena-RbbdzZBKRDY-unsplash-1000x750.png)"></div>
+                      <p class="feed_video_library__post-cat">Balance my Energy</p>
+                      <p class="feed_video_library__post-title">Helping You Digest the Day + Experience Peace</p>
+                    </div>
+                  </a>
+                </li>
+
+                
+                <li class="feed_video_library__slide splide__slide">
+                  <a class="feed_video_library__link" href="https://allievanfossen.com/video-libraries/slow-flow-yoga-honor-your-truth/">
+                    <div class="feed_video_library__post">
+                      <div class="feed_video_library__post-img" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/10/satya-blog-1000x750.png)"></div>
+                      <p class="feed_video_library__post-cat">Balance my Energy</p>
+                      <p class="feed_video_library__post-title">Slow Flow Yoga: Honor Your Truth</p>
+                    </div>
+                  </a>
+                </li>
+
+                
+                <li class="feed_video_library__slide splide__slide">
+                  <a class="feed_video_library__link" href="https://allievanfossen.com/video-libraries/10-min-yoga-stretch-break-feel-revitalized-after-sitting/">
+                    <div class="feed_video_library__post">
+                      <div class="feed_video_library__post-img" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/03/feb20_stretchbreak-1000x563.png)"></div>
+                      <p class="feed_video_library__post-cat">Balance my Energy</p>
+                      <p class="feed_video_library__post-title">10 Min Yoga Stretch Break | Feel Revitalized after Sitting</p>
+                    </div>
+                  </a>
+                </li>
+
+                
+                <li class="feed_video_library__slide splide__slide">
+                  <a class="feed_video_library__link" href="https://allievanfossen.com/video-libraries/full-body-yoga-flow-supercharge-%e2%9a%a1your-energy/">
+                    <div class="feed_video_library__post">
+                      <div class="feed_video_library__post-img" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/02/Feb-22_supercharge.png)"></div>
+                      <p class="feed_video_library__post-cat">Wake up Powerfully</p>
+                      <p class="feed_video_library__post-title">Full-Body Yoga Flow | Supercharge ⚡Your Energy</p>
+                    </div>
+                  </a>
+                </li>
+
+                
+                <li class="feed_video_library__slide splide__slide">
+                  <a class="feed_video_library__link" href="https://allievanfossen.com/video-libraries/breath-of-joy-feel-vibrant-alive-do-this-daily/">
+                    <div class="feed_video_library__post">
+                      <div class="feed_video_library__post-img" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/02/feb13_feelvibrant-1-1000x563.png)"></div>
+                      <p class="feed_video_library__post-cat">Balance my Energy</p>
+                      <p class="feed_video_library__post-title">Breath of Joy | Feel Vibrant &#038; Alive (do this daily!)</p>
+                    </div>
+                  </a>
+                </li>
+
+                
+                <li class="feed_video_library__slide splide__slide">
+                  <a class="feed_video_library__link" href="https://allievanfossen.com/video-libraries/full-body-yoga-stretch-with-a-strap-feel-expansive-open/">
+                    <div class="feed_video_library__post">
+                      <div class="feed_video_library__post-img" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/02/feb8_fullbodystretch-1000x563.png)"></div>
+                      <p class="feed_video_library__post-cat">Begin with Basics</p>
+                      <p class="feed_video_library__post-title">Full-Body Yoga Stretch (with a strap) | Feel Expansive &#038; Open</p>
+                    </div>
+                  </a>
+                </li>
+
+                
+                <li class="feed_video_library__slide splide__slide">
+                  <a class="feed_video_library__link" href="https://allievanfossen.com/video-libraries/15-min-morning-yoga-continuous-flow-feel-calm-centered/">
+                    <div class="feed_video_library__post">
+                      <div class="feed_video_library__post-img" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/02/feb6_morningyoga-1-1000x563.png)"></div>
+                      <p class="feed_video_library__post-cat">Wake up Powerfully</p>
+                      <p class="feed_video_library__post-title">15 Min Morning Yoga Continuous Flow | Feel Calm &#038; Centered</p>
+                    </div>
+                  </a>
+                </li>
+
+                
+                <li class="feed_video_library__slide splide__slide">
+                  <a class="feed_video_library__link" href="https://allievanfossen.com/video-libraries/20-min-morning-yoga-flow-yoga-for-confidence-clarity/">
+                    <div class="feed_video_library__post">
+                      <div class="feed_video_library__post-img" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/feb1_morningyoga-1000x563.png)"></div>
+                      <p class="feed_video_library__post-cat">Wake up Powerfully</p>
+                      <p class="feed_video_library__post-title">20 Min Morning Yoga Flow | Yoga for Confidence &#038; Clarity</p>
+                    </div>
+                  </a>
+                </li>
+
+                
+                <li class="feed_video_library__slide splide__slide">
+                  <a class="feed_video_library__link" href="https://allievanfossen.com/video-libraries/15-min-relaxing-yoga-restorative-yoga-for-reflection/">
+                    <div class="feed_video_library__post">
+                      <div class="feed_video_library__post-img" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/jan30_yogareflection-1000x563.png)"></div>
+                      <p class="feed_video_library__post-cat">Relax and Heal</p>
+                      <p class="feed_video_library__post-title">15 Min Relaxing Yoga | Restorative Yoga for Reflection</p>
+                    </div>
+                  </a>
+                </li>
+
+                
+                <li class="feed_video_library__slide splide__slide">
+                  <a class="feed_video_library__link" href="https://allievanfossen.com/video-libraries/30-min-yoga-for-self-care-stress-relief/">
+                    <div class="feed_video_library__post">
+                      <div class="feed_video_library__post-img" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/jan25_selfcare-1000x563.png)"></div>
+                      <p class="feed_video_library__post-cat">Relax and Heal</p>
+                      <p class="feed_video_library__post-title">30 Min Yoga for Self-Care &#038; Stress Relief</p>
+                    </div>
+                  </a>
+                </li>
+
+                
+                <li class="feed_video_library__slide splide__slide">
+                  <a class="feed_video_library__link" href="https://allievanfossen.com/video-libraries/best-breathwork-for-peaceful-sleep-bhramari-pranayama-%f0%9f%90%9d-bee-breath/">
+                    <div class="feed_video_library__post">
+                      <div class="feed_video_library__post-img" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/jan23_fallasleep-1000x563.png)"></div>
+                      <p class="feed_video_library__post-cat">De-stress before Bed</p>
+                      <p class="feed_video_library__post-title">Best Breathwork for Peaceful Sleep (Bhramari Pranayama 🐝 Bee Breath)</p>
+                    </div>
+                  </a>
+                </li>
+
+                
+                <li class="feed_video_library__slide splide__slide">
+                  <a class="feed_video_library__link" href="https://allievanfossen.com/video-libraries/new-moon-gentle-yoga-ritual-do-this-every-month/">
+                    <div class="feed_video_library__post">
+                      <div class="feed_video_library__post-img" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/jan18_newmoon-1000x563.png)"></div>
+                      <p class="feed_video_library__post-cat">Relax and Heal</p>
+                      <p class="feed_video_library__post-title">New Moon Gentle Yoga Ritual (do this every month)</p>
+                    </div>
+                  </a>
+                </li>
+
+                
+                <li class="feed_video_library__slide splide__slide">
+                  <a class="feed_video_library__link" href="https://allievanfossen.com/video-libraries/best-breathwork-for-balance-%e2%9a%96%ef%b8%8f-learn-3-pranayama-practices/">
+                    <div class="feed_video_library__post">
+                      <div class="feed_video_library__post-img" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/Jan-16_balanceenergy-1000x563.png)"></div>
+                      <p class="feed_video_library__post-cat">Balance my Energy</p>
+                      <p class="feed_video_library__post-title">Best Breathwork for Balance ⚖️ (learn 3 pranayama practices)</p>
+                    </div>
+                  </a>
+                </li>
+
+                
+                <li class="feed_video_library__slide splide__slide">
+                  <a class="feed_video_library__link" href="https://allievanfossen.com/video-libraries/20-min-yoga-stretch-feel-revitalized-refreshed/">
+                    <div class="feed_video_library__post">
+                      <div class="feed_video_library__post-img" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/20minstretchrefresh-1000x563.png)"></div>
+                      <p class="feed_video_library__post-cat">Relax and Heal</p>
+                      <p class="feed_video_library__post-title">20 Min Yoga Stretch | Feel Revitalized &#038; Refreshed</p>
+                    </div>
+                  </a>
+                </li>
+
+                            </ul>
+          </div>
+        </div>
+        
+      
+
+
+      
+        <div class="preview_of_category">
+                      <div class="term" id="t-839" style="display: none;">
+
+              <!-- <div class="text-center mb-4">
+                <h3 class="mb-0">Balance my Energy</h3>
+              </div> -->
+
+              
+              <div class="container-fluid lg">
+                <div class="row">
+                                                                               <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/my-fav-yoga-practice-for-the-new-year/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2024/01/ganesha-blog-1000x750.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Balance my Energy</span>
+              </p>
+      <h4 class="title"><strong>my fav yoga practice for the new year</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/helping-you-digest-the-day-experience-peace/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/12/nitish-meena-RbbdzZBKRDY-unsplash-1000x750.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Balance my Energy</span>
+              </p>
+      <h4 class="title"><strong>Helping You Digest the Day + Experience Peace</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/slow-flow-yoga-honor-your-truth/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/10/satya-blog-1000x750.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Balance my Energy</span>
+              </p>
+      <h4 class="title"><strong>Slow Flow Yoga: Honor Your Truth</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/10-min-yoga-stretch-break-feel-revitalized-after-sitting/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/03/feb20_stretchbreak-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Balance my Energy</span>
+              </p>
+      <h4 class="title"><strong>10 Min Yoga Stretch Break | Feel Revitalized after Sitting</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/breath-of-joy-feel-vibrant-alive-do-this-daily/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/02/feb13_feelvibrant-1-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Balance my Energy</span>
+              </p>
+      <h4 class="title"><strong>Breath of Joy | Feel Vibrant &#038; Alive (do this daily!)</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/best-breathwork-for-balance-%e2%9a%96%ef%b8%8f-learn-3-pranayama-practices/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/Jan-16_balanceenergy-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Balance my Energy</span>
+              </p>
+      <h4 class="title"><strong>Best Breathwork for Balance ⚖️ (learn 3 pranayama practices)</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                                      </div>
+              </div>
+
+            </div>
+                      <div class="term" id="t-844" style="display: none;">
+
+              <!-- <div class="text-center mb-4">
+                <h3 class="mb-0">Begin with Basics</h3>
+              </div> -->
+
+              
+              <div class="container-fluid lg">
+                <div class="row">
+                                                                               <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/full-body-yoga-stretch-with-a-strap-feel-expansive-open/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/02/feb8_fullbodystretch-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Begin with Basics</span>
+              </p>
+      <h4 class="title"><strong>Full-Body Yoga Stretch (with a strap) | Feel Expansive &#038; Open</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/20-min-evening-yoga-stretch-bedtime-yoga-for-beginners/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2021/07/21July_EveningYoga-1000x667.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Begin with Basics</span>
+              </p>
+      <h4 class="title"><strong>20 Min Evening Yoga Stretch | Bedtime Yoga for Beginners</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/beginner-hatha-yoga-class-for-all-yoga-students/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2020/08/hatha-all-levels-1200x800-1-1000x667.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Begin with Basics</span>
+              </p>
+      <h4 class="title"><strong>Beginner Hatha Yoga Class for All Yoga Students</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/20-min-sun-salutation-flow-for-yoga-beginners-to-learn-the-basics/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2020/07/Sun-Salutation-Flow-for-Yoga-Beginners-1200x800-1-1000x667.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Begin with Basics</span>
+              </p>
+      <h4 class="title"><strong>20 Min Sun Salutation Flow for Yoga Beginners to Learn the Basics</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/back-yoga-basics-beginner-strength-flow/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2017/06/Back-to-Yoga-Basics-10-1000x668.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Begin with Basics</span>
+              </p>
+      <h4 class="title"><strong>Back to Yoga Basics: Beginner Strength Flow</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/back-yoga-basics-build-balance-beginner-flow/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2017/06/Back-to-Yoga-Basics-9-1000x668.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Begin with Basics</span>
+              </p>
+      <h4 class="title"><strong>Back to Yoga Basics: How to Build Balance Beginner Flow</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                                      </div>
+              </div>
+
+            </div>
+                      <div class="term" id="t-842" style="display: none;">
+
+              <!-- <div class="text-center mb-4">
+                <h3 class="mb-0">Break a Sweat</h3>
+              </div> -->
+
+              
+              <div class="container-fluid lg">
+                <div class="row">
+                                                                               <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/25-min-fiery-core-yoga-flow-%f0%9f%94%a5-power-yoga-to-ignite-your-core/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2022/09/fiery-core-class-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Break a Sweat</span>
+              </p>
+      <h4 class="title"><strong>25 Min Fiery Core Yoga Flow 🔥 Power Yoga to Ignite Your Core</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/25-min-yoga-flow-to-seize-the-day/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2022/04/seizethedayyoga-1000x667.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Break a Sweat</span>
+              </p>
+      <h4 class="title"><strong>25 Min Yoga Flow to Seize the Day!</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/aries-yoga-flow-ignite-your-inner-fire/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2022/03/aries-fire-flow-1000x730.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Break a Sweat</span>
+              </p>
+      <h4 class="title"><strong>Aries Yoga Flow: Ignite your Inner Fire</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/30-min-warrior-yoga-flow-feel-strong-balanced/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2022/03/Warriror-Flow-1000x667.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Break a Sweat</span>
+              </p>
+      <h4 class="title"><strong>30 Min Warrior Yoga Flow &#8211; Feel STRONG &#038; Balanced</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/first-trimester-yoga-yin-yang-prenatal-flow-to-feel-strong-supported/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2021/10/yinyang_thumbnail-1-1000x723.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Break a Sweat</span>
+              </p>
+      <h4 class="title"><strong>First Trimester Yoga | Yin Yang Prenatal Flow to Feel Strong + Supported</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/challenge-your-mind-20-min-seated-yoga-for-confidence-resiliency/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2021/10/seatedconfidenceclass-thumbnail-1000x745.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Break a Sweat</span>
+              </p>
+      <h4 class="title"><strong>Challenge Your Mind! 20 Min Seated Yoga For Confidence &#038; Resiliency</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                                      </div>
+              </div>
+
+            </div>
+                      <div class="term" id="t-840" style="display: none;">
+
+              <!-- <div class="text-center mb-4">
+                <h3 class="mb-0">Cleanse my Chakras</h3>
+              </div> -->
+
+              
+              <div class="container-fluid lg">
+                <div class="row">
+                                                                               <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/cleanse-your-chakras-30-min-full-body-yoga-flow/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2021/09/toal-body-chakras-1200x800-3-scaled-1-1000x667.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Cleanse my Chakras</span>
+              </p>
+      <h4 class="title"><strong>Cleanse Your Chakras: 25 Min Full Body Yoga Flow</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/20-min-yoga-flow-cleanse-your-crown-chakra/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2020/03/Crown-Chakra-Yoga-Flow-1000x667.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Cleanse my Chakras</span>
+              </p>
+      <h4 class="title"><strong>20 Min Yoga Flow: Cleanse Your Crown Chakra</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/25-min-chakra-yoga-flow-cleanse-your-third-eye-chakra/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2020/03/Third-Eye-Chakra-Yoga-Flow-1000x667.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Cleanse my Chakras</span>
+              </p>
+      <h4 class="title"><strong>25 Min Chakra Yoga Flow: Cleanse Your Third Eye Chakra</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/30-min-chakra-yoga-flow-cleanse-your-throat-chakra/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2020/03/Throat-Chakra-Yoga-Flow-1000x667.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Cleanse my Chakras</span>
+              </p>
+      <h4 class="title"><strong>20 Min Chakra Yoga Flow: Cleanse Your Throat Chakra</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/30-min-chakra-yoga-flow-cleanse-your-heart-chakra/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2020/03/Heart-Chakra-Yoga-Flowjpg-1000x667.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Cleanse my Chakras</span>
+              </p>
+      <h4 class="title"><strong>30 Min Chakra Yoga Flow: Cleanse Your Heart Chakra</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/chakra-yoga-flow-cleanse-your-solar-plexus-chakra/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2020/03/Solar-Plexus-Chakra-Yoga-Flow-1000x667.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Cleanse my Chakras</span>
+              </p>
+      <h4 class="title"><strong>30 Min Chakra Yoga Flow: Cleanse Your Solar Plexus Chakra</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                                      </div>
+              </div>
+
+            </div>
+                      <div class="term" id="t-841" style="display: none;">
+
+              <!-- <div class="text-center mb-4">
+                <h3 class="mb-0">De-stress before Bed</h3>
+              </div> -->
+
+              
+              <div class="container-fluid lg">
+                <div class="row">
+                                                                               <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/best-breathwork-for-peaceful-sleep-bhramari-pranayama-%f0%9f%90%9d-bee-breath/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/jan23_fallasleep-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">De-stress before Bed</span>
+              </p>
+      <h4 class="title"><strong>Best Breathwork for Peaceful Sleep (Bhramari Pranayama 🐝 Bee Breath)</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/winter-solstice-restorative-yoga/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2022/04/wintersol-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">De-stress before Bed</span>
+              </p>
+      <h4 class="title"><strong>Winter Solstice Restorative Yoga</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/candlelight-yoga-for-stress-relief-gentle-slow-flow/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2022/11/Gentle-Yoga-Flow-Candlelight-web-feature-image-1000x563.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">De-stress before Bed</span>
+              </p>
+      <h4 class="title"><strong>Candlelight Yoga for Stress Relief | Gentle Slow Flow</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/30-min-gentle-yoga-stretch-for-deep-relaxation/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2022/09/deep-relaxation-yoga-image-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">De-stress before Bed</span>
+              </p>
+      <h4 class="title"><strong>30 Min Gentle Yoga Stretch for Deep Relaxation</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/gentle-yoga-class-to-recalibrate/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2022/09/gentle-thumbnail-1000x562.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">De-stress before Bed</span>
+              </p>
+      <h4 class="title"><strong>Grab Your Blocks: Gentle Yoga Class to Recalibrate</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/bedtime-yoga-evening-practice-to-sleep-soundly/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2022/04/June-1-SleepSoundly-AVF-1000x667.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">De-stress before Bed</span>
+              </p>
+      <h4 class="title"><strong>Bedtime Yoga | Evening Practice to Sleep Soundly</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                                      </div>
+              </div>
+
+            </div>
+                      <div class="term" id="t-843" style="display: none;">
+
+              <!-- <div class="text-center mb-4">
+                <h3 class="mb-0">Relax and Heal</h3>
+              </div> -->
+
+              
+              <div class="container-fluid lg">
+                <div class="row">
+                                                                               <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/10-min-yoga-stretch-break-feel-revitalized-after-sitting/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/03/feb20_stretchbreak-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Relax and Heal</span>
+              </p>
+      <h4 class="title"><strong>10 Min Yoga Stretch Break | Feel Revitalized after Sitting</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/15-min-relaxing-yoga-restorative-yoga-for-reflection/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/jan30_yogareflection-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Relax and Heal</span>
+              </p>
+      <h4 class="title"><strong>15 Min Relaxing Yoga | Restorative Yoga for Reflection</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/30-min-yoga-for-self-care-stress-relief/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/jan25_selfcare-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Relax and Heal</span>
+              </p>
+      <h4 class="title"><strong>30 Min Yoga for Self-Care &#038; Stress Relief</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/new-moon-gentle-yoga-ritual-do-this-every-month/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/jan18_newmoon-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Relax and Heal</span>
+              </p>
+      <h4 class="title"><strong>New Moon Gentle Yoga Ritual (do this every month)</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/20-min-yoga-stretch-feel-revitalized-refreshed/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/20minstretchrefresh-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Relax and Heal</span>
+              </p>
+      <h4 class="title"><strong>20 Min Yoga Stretch | Feel Revitalized &#038; Refreshed</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/10-min-full-body-yoga-breathing-routine/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/fullbodybreathe-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Relax and Heal</span>
+              </p>
+      <h4 class="title"><strong>10 Min Full-Body Yoga Breathing Routine</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                                      </div>
+              </div>
+
+            </div>
+                      <div class="term" id="t-838" style="display: none;">
+
+              <!-- <div class="text-center mb-4">
+                <h3 class="mb-0">Wake up Powerfully</h3>
+              </div> -->
+
+              
+              <div class="container-fluid lg">
+                <div class="row">
+                                                                               <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/full-body-yoga-flow-supercharge-%e2%9a%a1your-energy/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/02/Feb-22_supercharge.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Wake up Powerfully</span>
+              </p>
+      <h4 class="title"><strong>Full-Body Yoga Flow | Supercharge ⚡Your Energy</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/breath-of-joy-feel-vibrant-alive-do-this-daily/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/02/feb13_feelvibrant-1-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Wake up Powerfully</span>
+              </p>
+      <h4 class="title"><strong>Breath of Joy | Feel Vibrant &#038; Alive (do this daily!)</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/15-min-morning-yoga-continuous-flow-feel-calm-centered/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/02/feb6_morningyoga-1-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Wake up Powerfully</span>
+              </p>
+      <h4 class="title"><strong>15 Min Morning Yoga Continuous Flow | Feel Calm &#038; Centered</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/20-min-morning-yoga-flow-yoga-for-confidence-clarity/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/feb1_morningyoga-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Wake up Powerfully</span>
+              </p>
+      <h4 class="title"><strong>20 Min Morning Yoga Flow | Yoga for Confidence &#038; Clarity</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/10-min-full-body-yoga-breathing-routine/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/fullbodybreathe-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Wake up Powerfully</span>
+              </p>
+      <h4 class="title"><strong>10 Min Full-Body Yoga Breathing Routine</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/gratitude-affirmation-meditation-santosha-teachings/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2022/11/gratitudeaffirmatino-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Wake up Powerfully</span>
+              </p>
+      <h4 class="title"><strong>Gratitude Affirmation Meditation (+ santosha teachings)</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                                      </div>
+              </div>
+
+            </div>
+                      <div class="term" id="t-845" style="display: none;">
+
+              <!-- <div class="text-center mb-4">
+                <h3 class="mb-0">Work on my Mindset</h3>
+              </div> -->
+
+              
+              <div class="container-fluid lg">
+                <div class="row">
+                                                                               <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/slow-flow-yoga-honor-your-truth/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/10/satya-blog-1000x750.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Work on my Mindset</span>
+              </p>
+      <h4 class="title"><strong>Slow Flow Yoga: Honor Your Truth</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/20-min-yoga-stretch-feel-revitalized-refreshed/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/20minstretchrefresh-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Work on my Mindset</span>
+              </p>
+      <h4 class="title"><strong>20 Min Yoga Stretch | Feel Revitalized &#038; Refreshed</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 ">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/chant-ganesha-mantra-108-times/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2023/01/ganeshamantra-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Work on my Mindset</span>
+              </p>
+      <h4 class="title"><strong>Chant Ganesha Mantra 108 Times</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/gratitude-affirmation-meditation-santosha-teachings/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2022/11/gratitudeaffirmatino-1000x563.png);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Work on my Mindset</span>
+              </p>
+      <h4 class="title"><strong>Gratitude Affirmation Meditation (+ santosha teachings)</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/20-minute-yoga-nidra-nervous-system-reset/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2022/10/Allie-Van-Fossen.Kcc-335-1-1000x667.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Work on my Mindset</span>
+              </p>
+      <h4 class="title"><strong>20 Minute Yoga Nidra | Nervous System Reset</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                           <div class="col-md-6 col-lg-4 hide-mobile">
+                                                  <article class="post">
+  <a href="https://allievanfossen.com/video-libraries/daily-wake-up-yoga-routine-powerful-pranayama-practice/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2022/04/Pranayama-Revitalized-AVF-1000x667.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Work on my Mindset</span>
+              </p>
+      <h4 class="title"><strong>Daily Wake Up Yoga Routine | Powerful Pranayama Practice</strong>  </h4>
+    </div>
+  </a>
+</article>
+                       </div>
+                                                      </div>
+              </div>
+
+            </div>
+                  </div>
+
+        
+      
+
+              <div class="bottom-text-wpr mt-3">
+          <div class="bottom-text WYSIWYG-styles"><p style="text-align: center;"><a class="btn" href="http://allievanfossen.com/video-libraries/">VIEW ALL CLASSES</a></p>
+</div>
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+      
+    
+      
+          
+  
+    
+    <div class="tiles_image_and_text_slider DS-padding"  section_color="Normal" section_size="Normal" id="">
+      <div class="row no-gutters ">
+        <div class="col-lg-6">
+                      <div class="slider-wpr">
+              <div class="slick-slider">
+                                                                                                                                              
+                  <div class="slide-item">
+                                          <div class="image bg-image Center" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/09/camel.jpg');">
+
+                      </div>
+                                      </div>
+                                                                                                                                              
+                  <div class="slide-item">
+                                          <div class="image bg-image Center" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/09/allie-slider-001-1407x1600.jpg');">
+
+                      </div>
+                                      </div>
+                                                                                                                                              
+                  <div class="slide-item">
+                                          <div class="image bg-image Top" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/09/allie-slider-002-1407x1600.jpg');">
+
+                      </div>
+                                      </div>
+                                                                                                                                              
+                  <div class="slide-item">
+                                          <div class="image bg-image Center" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/09/allie-slider-003-1407x1600.jpg');">
+
+                      </div>
+                                      </div>
+                                                                                                                                              
+                  <div class="slide-item">
+                                          <div class="image bg-image Center" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/09/allie-slider-004-1407x1600.jpg');">
+
+                      </div>
+                                      </div>
+                                                                                                                                              
+                  <div class="slide-item">
+                                          <div class="image bg-image Center" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/09/allie-slider-005-1407x1600.jpg');">
+
+                      </div>
+                                      </div>
+                                                                                                                                              
+                  <div class="slide-item">
+                                          <div class="image bg-image Top" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/09/allie-slider-006-1407x1600.jpg');">
+
+                      </div>
+                                      </div>
+                              </div>
+            </div>
+                  </div>
+        <div class="col-lg-6 align-self-center">
+                      <div class="text-wpr">
+              <div class="text text_container sm WYSIWYG-styles"><h1>My Journey</h1>
+<p>My entry into the world of yoga was through a discount hot yoga class. I finished it (barely), and over time discovered that this ancient philosophy and psychology has more to offer than strong abs.</p>
+<p class="block-text mb-0 mb-1">This is more than a workout.</p>
+<hr />
+<p>As I dug deeper, I realized that yoga could change my life. I leveraged this practice to ditch the corporate cubicle and share its transformative powers with the world. I’ve found my flow in teaching thousands of women how to use yoga to grow confidence, gain clarity, practice self-care, and pursue a life of purpose.</p>
+<p><a class="btn" href="http://allievanfossen.com/about/">READ MY STORY</a></p>
+</div>
+            </div>
+                  </div>
+      </div>
+    </div>
+  
+      
+    
+      
+          
+  <div class="client_gallery"  section_color="Dark Sienna" section_size="Forced - without space" id="">
+        <div class="gallery client_gallery__left">
+              
+<div class="main-gallery" data-aos="fade-right">
+<div class="top-row gallery__row ">
+        <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/01-776x1000.png" />
+          <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/02.png" />
+    </div>
+  <div class="middle-row gallery__row" data-aos-delay="300">
+          <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/03-804x1000.png" />
+            <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/04-804x1000.png" />
+       </div>
+          <div class="bottom-row gallery__row bottom-heavy" data-aos-delay="600">
+            <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/05.png" />
+              <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/06.png" />
+              <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/07.png" />
+         </div>
+ </div> <!-- </main gallery -->
+
+ <div class="mobile-gallery">
+          <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/01-776x1000.png" />
+          <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/02.png" />
+          <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/03-804x1000.png" />
+          <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/04-804x1000.png" />
+          <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/05.png" />
+          <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/06.png" />
+          <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/07.png" />
+     </div> <!-- </mobile gallery -->
+    </div>
+      <div class="client_gallery__content">
+          
+     <div class="text WYSIWYG-styles text_container md Center "> <p class="block-text" style="text-align: center;"><span style="color: #c63a31;">Purpose over Perfection.</span></p>
+<h2 style="text-align: center;"><span style="color: #f8f0ed;">I’ve witnessed countless people find fulfilment with a holistic yoga practice.</span></h2>
+ </div> 
+        <img class="client_gallery__detail" src="https://allievanfossen.com/wp-content/themes/blank/images/dots-detailing.svg" />
+    </div>
+          <div class="gallery client_gallery__right">
+                
+<div class="main-gallery" data-aos="fade-left">
+<div class="top-row gallery__row top-heavy">
+        <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/08-804x1000.png" />
+          <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/09-804x1000.png" />
+          <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/10.png" />
+    </div>
+  <div class="middle-row gallery__row" data-aos-delay="300">
+          <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/11-804x1000.png" />
+            <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/12-804x1000.png" />
+       </div>
+          <div class="bottom-row gallery__row " data-aos-delay="600">
+            <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/13.png" />
+              <img class="gallery__image"  src="https://allievanfossen.com/wp-content/uploads/2021/09/14-804x1000.png" />
+         </div>
+ </div> <!-- </main gallery -->
+
+      </div>
+      </div>
+
+
+      
+    
+      
+          
+    
+                
+                    
+    
+    
+
+            
+        
+        
+    
+    
+    <div class="simple_text "  section_color="Normal" section_size="Normal" id="">
+
+      
+      <div class="container-fluid lg">
+        <div class="row justify-content-center align-items-center">
+
+          
+
+
+          <div class="col-lg-12">
+            <div class="" style="background-color: ; outline: 2px solid transparent;" >
+              <div class="text_container  md" data-aos="fade-down">
+                 <div class="text WYSIWYG-styles"> <p class="block-text" style="text-align: center;">here’s the good news:</p>
+<p style="text-align: center;">It doesn’t require hours of daily handstands and meditation. All it takes is a commitment to yourself, imperfect action, and the support of a community who gets it.</p>
+<p class="lg" style="text-align: center;"><span style="color: #000000;">We show up: tears and hangups, strengths and wins.</span><br />
+<span style="color: #000000;">We wouldn’t want it any other way.</span></p>
+<p style="text-align: center;"><a class="btn" href="http://allievanfossen.com/work-with-me/">DEEPEN YOUR PRACTICE</a></p>
+ </div>               </div>
+            </div>
+          </div>
+
+        </div> <!-- $row -->
+      </div> <!-- $container -->
+
+      
+    </div>
+  
+      
+    
+      
+        
+  
+  <div class="manual_video_selection"  section_color="Light Wisteria" section_size="Normal" id="">
+    <img class="manual_video_selection__detail" data-aos="aos-spin" src="https://allievanfossen.com/wp-content/themes/blank/images/off-the-mat-icon.svg" />
+    <div class="container-fluid lg">
+      <div class="manual_video_selection__section-text">
+            
+     <div class="text WYSIWYG-styles text_container lg Center mb-6 mb-xs-4"> <h2 class="script-text-xl" style="text-align: center;">Popular Classes</h2>
+ </div> 
+        </div>
+      <div class="manual_video_selection__main-content">
+        <div class="manual_video_selection-wpr">
+                                              
+                              <div class="manual_video_selection__image image-1" id="wpr-1">
+                  <img src="https://allievanfossen.com/wp-content/uploads/2021/09/cleanse-chakra.png" />
+                </div>
+                                        
+                              <div class="manual_video_selection__image image-2" id="wpr-2">
+                  <img src="https://allievanfossen.com/wp-content/uploads/2021/09/vinyasa-blocks.png" />
+                </div>
+                                        
+                              <div class="manual_video_selection__image image-3" id="wpr-3">
+                  <img src="https://allievanfossen.com/wp-content/uploads/2021/09/sacral-chakra.png" />
+                </div>
+                                        
+                              <div class="manual_video_selection__image image-4" id="wpr-4">
+                  <img src="https://allievanfossen.com/wp-content/uploads/2021/09/yoga-body-bootcamp.png" />
+                </div>
+                                              <div class="manual_video_selection__videos">
+                                                    <div class="manual_video_selection__video-wpr" data-wpr="#wpr-1">
+                <div class="manual_video_selection__video-meta-wpr">
+                  <p class="manual_video_selection__video-title">Cleanse Your Chakras | Kundalini Pranayama Practice</p>
+                                                        <p class="manual_video_selection__video-meta">
+                                              <span class="manual_video_selection__video-views">364,000 views</span>
+                      
+                                              <span class="manual_video_selection__video-comments"> &#8226; 880 comments</span>
+                                            </p>
+                                  </div>
+                <div class="manual_video_selection__play-wpr modal-click" data-target="#vm-65b096434bdd6-1" >
+                  <p class="manual_video_selection__play-text">Play</p>
+                  <div class="manual_video_selection__play-icon-wpr">
+                    <img src="https://allievanfossen.com/wp-content/themes/blank/images/yt-play-icon.svg" class="manual_video_selection__play-icon">
+                  </div>
+                </div>
+              </div>
+                                                    <div class="manual_video_selection__video-wpr" data-wpr="#wpr-2">
+                <div class="manual_video_selection__video-meta-wpr">
+                  <p class="manual_video_selection__video-title">Grab Your Yoga Blocks | Vinyasa Yoga Practice for Strength + Support</p>
+                                                        <p class="manual_video_selection__video-meta">
+                                              <span class="manual_video_selection__video-views">107,000 views</span>
+                      
+                                              <span class="manual_video_selection__video-comments"> &#8226; 186 comments</span>
+                                            </p>
+                                  </div>
+                <div class="manual_video_selection__play-wpr modal-click" data-target="#vm-65b096434bdd6-2" >
+                  <p class="manual_video_selection__play-text">Play</p>
+                  <div class="manual_video_selection__play-icon-wpr">
+                    <img src="https://allievanfossen.com/wp-content/themes/blank/images/yt-play-icon.svg" class="manual_video_selection__play-icon">
+                  </div>
+                </div>
+              </div>
+                                                    <div class="manual_video_selection__video-wpr" data-wpr="#wpr-3">
+                <div class="manual_video_selection__video-meta-wpr">
+                  <p class="manual_video_selection__video-title">30 Min Yoga Flow | Cleanse Your Sacral Chakra</p>
+                                                        <p class="manual_video_selection__video-meta">
+                                              <span class="manual_video_selection__video-views">74,000 views</span>
+                      
+                                              <span class="manual_video_selection__video-comments"> &#8226; 760 comments</span>
+                                            </p>
+                                  </div>
+                <div class="manual_video_selection__play-wpr modal-click" data-target="#vm-65b096434bdd6-3" >
+                  <p class="manual_video_selection__play-text">Play</p>
+                  <div class="manual_video_selection__play-icon-wpr">
+                    <img src="https://allievanfossen.com/wp-content/themes/blank/images/yt-play-icon.svg" class="manual_video_selection__play-icon">
+                  </div>
+                </div>
+              </div>
+                                                    <div class="manual_video_selection__video-wpr" data-wpr="#wpr-4">
+                <div class="manual_video_selection__video-meta-wpr">
+                  <p class="manual_video_selection__video-title">Yoga Body Bootcamp Challenge | Cultivate Your Core</p>
+                                                        <p class="manual_video_selection__video-meta">
+                                              <span class="manual_video_selection__video-views">117,300 views</span>
+                      
+                                              <span class="manual_video_selection__video-comments"> &#8226; 390 comments</span>
+                                            </p>
+                                  </div>
+                <div class="manual_video_selection__play-wpr modal-click" data-target="#vm-65b096434bdd6-4" >
+                  <p class="manual_video_selection__play-text">Play</p>
+                  <div class="manual_video_selection__play-icon-wpr">
+                    <img src="https://allievanfossen.com/wp-content/themes/blank/images/yt-play-icon.svg" class="manual_video_selection__play-icon">
+                  </div>
+                </div>
+              </div>
+                                  </div>
+        </div>
+      </div>
+            <div class="manual_video_selection__content-link">
+        <a class="btn" href="https://www.youtube.com/channel/UCahoXO8yh6mqJD9EiARHI7w?sub_confirmation=1" target="http://_blank"><img src="https://allievanfossen.com/wp-content/themes/blank/images/youtube-icon.svg" />&nbsp;&nbsp;subscribe to my channel</a>
+      </div>
+        </div> <!-- </container -->
+
+        
+      <div class="modal-wpr video-modal video-Youtube" id="vm-65b096434bdd6-1">
+        <div class="close"><span>Close</span></div>
+        <div class="modal"><iframe title="Cleanse Your Chakras: Kundalini Pranayama Practice" width="640" height="360" src="https://www.youtube.com/embed/RSqWnNH-ncw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+      </div>
+
+      
+      <div class="modal-wpr video-modal video-Vimeo" id="vm-65b096434bdd6-2">
+        <div class="close"><span>Close</span></div>
+        <div class="modal"><iframe title="Grab Your Yoga Blocks: Vinyasa Yoga Practice with Blocks for Strength + Support" width="640" height="360" src="https://www.youtube.com/embed/Rztgk5vCpxs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+      </div>
+
+      
+      <div class="modal-wpr video-modal video-Youtube" id="vm-65b096434bdd6-3">
+        <div class="close"><span>Close</span></div>
+        <div class="modal"><iframe title="30 Min Yoga Flow: Cleanse Your Sacral Chakra | The Journey Junkie" width="640" height="360" src="https://www.youtube.com/embed/c_IyqUyilPQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+      </div>
+
+      
+      <div class="modal-wpr video-modal video-Youtube" id="vm-65b096434bdd6-4">
+        <div class="close"><span>Close</span></div>
+        <div class="modal"><iframe title="[DAY 1] Yoga Body Bootcamp Challenge: Cultivate Your Core" width="640" height="360" src="https://www.youtube.com/embed/IQUCGx1RD4M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+      </div>
+
+      
+
+</div> <!-- </manual_video_selection -->
+
+
+      
+    
+      
+        
+  <div class="testimonial_slider"  section_color="Dark Sienna" section_size="Normal" id="">
+        <div class="container-fluid lg">
+      <div class="testimonial_slider__section-text">
+            
+    
+        </div>
+            <div class="testimonial_slider-wpr">
+        <div class="testimonial_slider__splide-arrow arrow--prev">
+          <img src="https://allievanfossen.com/wp-content/themes/blank/images/slider-arrow.svg" />
+        </div>
+        <div class="testimonial_slider__splide-wpr">
+          <div class="testimonial_slider__splide splide ">
+            <div class="testimonial_slider__track splide__track">
+              <ul class="testimonial_slider__list splide__list">
+                                <li class="testimonial_slider__slide splide__slide">
+                    <div class="testimonial_slider__slide-wpr">
+                      <div class="testimonial_slider__image-wpr quote">
+                                                                            <img src="https://allievanfossen.com/wp-content/themes/blank/images/speech-icon.png" class="testimonial_slider__image testimonial_slider__image-default" />
+                        
+
+                      </div><!-- </image wpr -->
+                      <div class="testimonial_slider__content-wpr">
+                                                  <div class="WYSIWYG-styles splide-content">
+                            <h3 style="text-align: center;">&#8220;I absolutely loved this yoga flow. I am a beginner and managed to make it all the way through. I look forward to more of these for daily practice.&#8221;</h3>
+                          </div>
+                                                                          <div class="WYSIWYG-styles splide-name">
+                            <p class="block-text mb-0 mb-2" style="text-align: center;">DIANE KING</p>
+<p style="text-align: center;"><a href="https://youtu.be/ZOW6R-NXIKU" target="_blank" rel="noopener">Chakra Goal Setting Power Yoga Flow | 50 Minute Class</a></p>
+                          </div>
+                                              </div>
+                    </div> <!-- </slide-wpr -->
+                  </li> <!-- </slide -->
+                                    <li class="testimonial_slider__slide splide__slide">
+                    <div class="testimonial_slider__slide-wpr">
+                      <div class="testimonial_slider__image-wpr quote">
+                                                                            <img src="https://allievanfossen.com/wp-content/themes/blank/images/speech-icon.png" class="testimonial_slider__image testimonial_slider__image-default" />
+                        
+
+                      </div><!-- </image wpr -->
+                      <div class="testimonial_slider__content-wpr">
+                                                  <div class="WYSIWYG-styles splide-content">
+                            <h3 style="text-align: center;">&#8220;I&#8217;m a seasoned yogi, however I truly enjoyed this beginner Hatha class! I loved how slow and structured it was. My body feels very calm, strong and ready for my day.&#8221;</h3>
+                          </div>
+                                                                          <div class="WYSIWYG-styles splide-name">
+                            <p class="block-text mb-0 mb-2" style="text-align: center;">LINDA LAMACCHIA</p>
+<p style="text-align: center;"><a href="https://youtu.be/9fITwTk3Zq0" target="_blank" rel="noopener">Hatha Yoga Class for ALL LEVELS | Beginner Yoga for Everyone</a></p>
+                          </div>
+                                              </div>
+                    </div> <!-- </slide-wpr -->
+                  </li> <!-- </slide -->
+                                    <li class="testimonial_slider__slide splide__slide">
+                    <div class="testimonial_slider__slide-wpr">
+                      <div class="testimonial_slider__image-wpr quote">
+                                                                            <img src="https://allievanfossen.com/wp-content/themes/blank/images/speech-icon.png" class="testimonial_slider__image testimonial_slider__image-default" />
+                        
+
+                      </div><!-- </image wpr -->
+                      <div class="testimonial_slider__content-wpr">
+                                                  <div class="WYSIWYG-styles splide-content">
+                            <h3 style="text-align: center;">&#8220;Wow that was such an amazing class. I am new to yoga and this was the perfect pace. Thank you for your mantras of encouragement.&#8221;</h3>
+                          </div>
+                                                                          <div class="WYSIWYG-styles splide-name">
+                            <p class="block-text" style="text-align: center;">LIZ WRIGHT</p>
+<p style="text-align: center;"><a href="https://youtu.be/ENjoadwpeSk" target="_blank" rel="noopener">30 Min Full Body Sun Salutation Vinyasa Flow</a></p>
+                          </div>
+                                              </div>
+                    </div> <!-- </slide-wpr -->
+                  </li> <!-- </slide -->
+                                    <li class="testimonial_slider__slide splide__slide">
+                    <div class="testimonial_slider__slide-wpr">
+                      <div class="testimonial_slider__image-wpr quote">
+                                                                            <img src="https://allievanfossen.com/wp-content/themes/blank/images/speech-icon.png" class="testimonial_slider__image testimonial_slider__image-default" />
+                        
+
+                      </div><!-- </image wpr -->
+                      <div class="testimonial_slider__content-wpr">
+                                                  <div class="WYSIWYG-styles splide-content">
+                            <h3 style="text-align: center;">&#8220;I feel awakened and energized indeed! I love the pranayama at the end and always learn new breathing techniques with you. My body, mind and soul are grateful for your teachings!&#8221;</h3>
+                          </div>
+                                                                          <div class="WYSIWYG-styles splide-name">
+                            <p class="block-text" style="text-align: center;">ZAHRA</p>
+<p style="text-align: center;"><a href="https://youtu.be/szcRHDdioic" target="_blank" rel="noopener">Energizing Yoga Flow | 30 Min Practice for Body, Mind + Soul</a></p>
+                          </div>
+                                              </div>
+                    </div> <!-- </slide-wpr -->
+                  </li> <!-- </slide -->
+                                    <li class="testimonial_slider__slide splide__slide">
+                    <div class="testimonial_slider__slide-wpr">
+                      <div class="testimonial_slider__image-wpr quote">
+                                                                            <img src="https://allievanfossen.com/wp-content/themes/blank/images/speech-icon.png" class="testimonial_slider__image testimonial_slider__image-default" />
+                        
+
+                      </div><!-- </image wpr -->
+                      <div class="testimonial_slider__content-wpr">
+                                                  <div class="WYSIWYG-styles splide-content">
+                            <h3 style="text-align: center;">&#8220;Just discovered your bootcamp and wow day 1, what a workout it was! Looking forward to challenging myself for the duration of the bootcamp.&#8221;</h3>
+                          </div>
+                                                                          <div class="WYSIWYG-styles splide-name">
+                            <p class="block-text" style="text-align: center;">BILLIE FORBES</p>
+<p style="text-align: center;"><a href="https://youtu.be/IQUCGx1RD4M" target="_blank" rel="noopener">Yoga Body Bootcamp Challenge: Cultivate Your Core</a></p>
+                          </div>
+                                              </div>
+                    </div> <!-- </slide-wpr -->
+                  </li> <!-- </slide -->
+                                    <li class="testimonial_slider__slide splide__slide">
+                    <div class="testimonial_slider__slide-wpr">
+                      <div class="testimonial_slider__image-wpr quote">
+                                                                            <img src="https://allievanfossen.com/wp-content/themes/blank/images/speech-icon.png" class="testimonial_slider__image testimonial_slider__image-default" />
+                        
+
+                      </div><!-- </image wpr -->
+                      <div class="testimonial_slider__content-wpr">
+                                                  <div class="WYSIWYG-styles splide-content">
+                            <h3 style="text-align: center;">&#8220;THE best chakra yoga session I&#8217;ve participated in. I am definitely going to do this yoga sequence on my balcony every morning.&#8221;</h3>
+                          </div>
+                                                                          <div class="WYSIWYG-styles splide-name">
+                            <p class="block-text" style="text-align: center;">EMPRESS J</p>
+<p style="text-align: center;"><a href="https://youtu.be/TluLxh6rwsI" target="_blank" rel="noopener">45 Min Full Body Vinyasa Yoga: Root to Crown Chakra Yoga Flow</a></p>
+                          </div>
+                                              </div>
+                    </div> <!-- </slide-wpr -->
+                  </li> <!-- </slide -->
+                                    <li class="testimonial_slider__slide splide__slide">
+                    <div class="testimonial_slider__slide-wpr">
+                      <div class="testimonial_slider__image-wpr quote">
+                                                                            <img src="https://allievanfossen.com/wp-content/themes/blank/images/speech-icon.png" class="testimonial_slider__image testimonial_slider__image-default" />
+                        
+
+                      </div><!-- </image wpr -->
+                      <div class="testimonial_slider__content-wpr">
+                                                  <div class="WYSIWYG-styles splide-content">
+                            <h3 style="text-align: center;">&#8220;Thank you so much for this, it saved my day! Started my day drowning in social anxiety, now I feel like I’m above surface again and more grounded.&#8221;</h3>
+                          </div>
+                                                                          <div class="WYSIWYG-styles splide-name">
+                            <p class="block-text" style="text-align: center;">MICHELLE BARTH-CROON</p>
+<p style="text-align: center;"><a href="https://youtu.be/LxHCuajz6Lc" target="_blank" rel="noopener">Chakra Mantra Meditation | How to Balance + Heal the 7 Chakras</a></p>
+                          </div>
+                                              </div>
+                    </div> <!-- </slide-wpr -->
+                  </li> <!-- </slide -->
+                                </ul> <!-- </list -->
+              </div> <!-- </slick -->
+                      </div> <!-- </ slick slider -->
+        </div>
+        <div class="testimonial_slider__splide-arrow arrow--next">
+          <img src="https://allievanfossen.com/wp-content/themes/blank/images/slider-arrow.svg" />
+        </div>
+      </div>
+        </div> <!-- </container -->
+</div> <!-- </testimonial_slider -->
+
+
+      
+    
+      
+          
+
+
+    
+    <div class="tiles_image_and_text DS-padding"  section_color="Normal" section_size="Normal" id="">
+              
+          
+          <div class="row no-gutters flex-row-reverse"  section_color="Normal">
+            <div class="col-lg-6">
+
+              
+                                                <div class="bg_video_wpr" data-aos="fade">
+                    <video class="bg_video" loop muted playsinline defaultMuted autoplay poster="">
+                                              <source src="https://allievanfossen.com/wp-content/uploads/2021/09/ipad-table.mp4" type="video/mp4">
+                                          </video>
+
+                    <div class="overlay" style="background-color: ;"></div>
+                  </div>
+                              
+            </div>
+            <div class="col-lg-6 align-self-center">
+
+              <div class="text-wpr" data-aos="fade-up">
+                                  <div class="text text_container sm WYSIWYG-styles">
+                                        <h2>Feeling off? It’s time for a reset.</h2>
+<p>The Yoga Reset Guide is my FREE 7-step journey to deepen your practice and recenter your body, mind and soul.. Self-paced, no equipment necessary, perfect for beginners AND veteran yogis.</p>
+                  </div>
+                
+                                  <div class="form-wpr micro-form">
+                    <script async data-uid="9c920cc989" src="https://the-journey-junkie.ck.page/9c920cc989/index.js"></script>                  </div>
+                              </div>
+
+            </div>
+          </div>
+
+                  </div>
+
+  
+      
+    
+      
+        
+    <div class="feed_success_stories_slider"  section_color="Peony Pink" section_size="Normal" id="">
+      <div class="container-fluid lg">
+        <div class="feed_success_stories__section-text" data-aos="fade-down">
+              
+     <div class="text WYSIWYG-styles text_container lg Center mb-6 mb-xs-4"> <p class="block-text" style="text-align: center;"><span style="color: #c63a31;">Lives Changed</span></p>
+<h3 class="font-xlarge" style="text-align: center;"><span style="color: #7e171b;">Here are just a few on-and-off-the-mat success stories from the brave souls in this space.</span></h3>
+ </div> 
+          </div>
+
+        
+        <article class="success_story__slider">
+          <div class="success_story__images">
+                          <div class="success_story__images--wrapper">
+                <p class="success_story__images--intro-text">Read What They're Saying!</p>
+                                                  
+                  
+                  <div class="image success_story__image Center success_story__image--active" data-ths-slider-image-index="0" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/09/DaniDiaDig.jpg');">
+
+                  </div>
+                                                    
+                  
+                  <div class="image success_story__image Center " data-ths-slider-image-index="1" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/09/bali-girls-406-1000x668.jpg');">
+
+                  </div>
+                                                    
+                  
+                  <div class="image success_story__image Center " data-ths-slider-image-index="2" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/09/Bali-Retreat-441-1000x668.jpg');">
+
+                  </div>
+                                                    
+                  
+                  <div class="image success_story__image Top " data-ths-slider-image-index="3" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/09/20210227_110039-Toria-Mason-750x1000.jpg');">
+
+                  </div>
+                                                    
+                  
+                  <div class="image success_story__image Bottom " data-ths-slider-image-index="4" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/09/kate-1000x750.jpg');">
+
+                  </div>
+                                                    
+                  
+                  <div class="image success_story__image Center " data-ths-slider-image-index="5" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/09/20211002_155251-1000x750.jpg');">
+
+                  </div>
+                                                    
+                  
+                  <div class="image success_story__image Bottom " data-ths-slider-image-index="6" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/09/amanda-1.jpg');">
+
+                  </div>
+                                                    
+                  
+                  <div class="image success_story__image Bottom " data-ths-slider-image-index="7" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/09/kim-1000x667.jpeg');">
+
+                  </div>
+                                                    
+                  
+                  <div class="image success_story__image Center " data-ths-slider-image-index="8" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/09/becky.jpeg');">
+
+                  </div>
+                                                </div>
+                                  </div>
+          <div class="success_story__slider-content">
+            <div class="success_story__slider-wpr">
+                                              <img class="success_story__slider-icon" src="https://allievanfossen.com/wp-content/themes/blank/images/speech-icon.png" alt="">
+                <div class="success_story__splide success_story__splide--main splide">
+                  <div class="splide__track">
+                    <div class="splide__list">
+                                              <div class="success_story__body splide__slide" data-splide-index="0">
+                          <p>Allie is the real deal in running a successful online yoga business and supporting you to build and grow your own. She has tons of experience and knows what it takes to make your business dreams come true. With her help, I was able to gain clarity on my ideal customers, how to best reach and market to them, as well as how to structure my offerings in a way that made sense both for them and for my own life-work balance.</p>
+                        </div>
+                                                                      <div class="success_story__body splide__slide" data-splide-index="1">
+                          <p>Words cannot describe how transformative this retreat was for me. You think it&#8217;s just going to be yoga &#8211; the physical practice, maybe some meditation, make a couple new friends, see cool shit in a part of the world you&#8217;ve never been to&#8230; IT IS SO MUCH MORE. This retreat literally reset my life. It was an opportunity to distance myself, clear my head, organize my priorities, connect to nature and discover reliable tools that I will use forever.</p>
+                        </div>
+                                                                      <div class="success_story__body splide__slide" data-splide-index="2">
+                          <p>Allie is so relatable, attentive, and passionate. The crowd she draws is equally as great, making you feel so welcome. Her love for what she does and her respect for being human is inspiring. Retreats are the best setting for personal growth, laughter, and peace. If you’re thinking about it, do it. I promise you won’t have regrets!</p>
+                        </div>
+                                                                      <div class="success_story__body splide__slide" data-splide-index="3">
+                          <p>The BMS Detox Challenge helped me face my fears and social anxiety, and find the confidence and emotional grounding to tackle a huge career shift from a reclusive position to a social one &#8211; which I&#8217;d never have believed but I completely fell in love with! I couldn&#8217;t have succeeded in that transition had the challenge not been at the same time!</p>
+                        </div>
+                                                                      <div class="success_story__body splide__slide" data-splide-index="4">
+                          <p>I joined the BMS Detox Challenge as I was figuring out whether or not I should change jobs. I felt that the on-and-off the mat classes both helped me tune into my true self and make aligned decisions that supported the vision for my life. The inner mentor meditation brought me to tears, and I know it has improved the course for my life.</p>
+                        </div>
+                                                                      <div class="success_story__body splide__slide" data-splide-index="5">
+                          <p>Before joining the BMS studio I was feeling lost and had started experiencing a bit of anxiety! After the BMS Detox program joining the studio, I’ve found a place of belonging, focus and direction, and have come back to who I am. I lost the anxiety and I’m learning so many new things about myself as the courses and classes guide me to look inward. I’m healing and growing stronger mentally and physically!</p>
+                        </div>
+                                                                      <div class="success_story__body splide__slide" data-splide-index="6">
+                          <p>When Allie and I connected, it was because she genuinely wanted to offer powerful tools and techniques to help grow my business and confidence. She comes with years of hard-earned experience that are unparalleled to most teachers that I know in this industry. Her calm and ease in communicating has a way of taking the pressure off your monkey-mind and simplifying obstacles and fear.</p>
+                        </div>
+                                                                      <div class="success_story__body splide__slide" data-splide-index="7">
+                          <p>Before joining I was doing a lot of personal healing through therapy, yoga and meditation and am so proud of myself but at the same time felt alone in the process. Joining the BMS Studio has helped me zoom out and feel a part of this bigger healing ecosystem, get stronger physically and meet my new best friend: my inner mentor.</p>
+                        </div>
+                                                                      <div class="success_story__body splide__slide" data-splide-index="8">
+                          <p>The BMS Detox Challenge re-connected me to the chanting and mudra part of my yoga practice that I had gotten a bit away from. Being able to do it with 500 people, meet &#038; chat with peeps around the world (especially during covid times), and sharing our unified voices was special. Really special.</p>
+                        </div>
+                                                                  </div>
+                  </div>
+                </div>
+                                          <div class="success_story__slider--lower">
+                                                    <div class="success_story__splide success_story__splide--details splide">
+                    <div class="splide__track">
+                      <div class="splide__list">
+                                                                            <div class="success_story__info splide__slide WYSIWYG-styles" data-splide-index=0>
+                            <p class="block-text"><span style="color: #7e171b;">dani mae</span></p>
+<p>About the <span class="font-semi-bold" style="color: #c63a31;"><a style="color: #c63a31;" href="/success-story-topic/yoga-teacher-mentorship/">Yoga Teacher Mentorship</a></span></p>
+                          </div>
+                                                                                                      <div class="success_story__info splide__slide WYSIWYG-styles" data-splide-index=1>
+                            <p class="block-text"><span style="color: #7e171b;">robyn</span></p>
+<p>About the <span class="font-semi-bold" style="color: #c63a31;"><a style="color: #c63a31;" href="http://allievanfossen.com/success-story-topic/live-your-journey-retreat/">LYJ Yoga Retreats</a></span></p>
+                          </div>
+                                                                                                      <div class="success_story__info splide__slide WYSIWYG-styles" data-splide-index=2>
+                            <p class="block-text"><span style="color: #7e171b;">morgan</span></p>
+<p>About the <span class="font-semi-bold" style="color: #c63a31;"><a style="color: #c63a31;" href="http://allievanfossen.com/success-story-topic/live-your-journey-retreat/">LYJ Yoga Retreats</a></span></p>
+                          </div>
+                                                                                                      <div class="success_story__info splide__slide WYSIWYG-styles" data-splide-index=3>
+                            <p class="block-text"><span style="color: #7e171b;">toria</span></p>
+<p>About the <span class="font-semi-bold" style="color: #c63a31;"><a style="color: #c63a31;" href="http://allievanfossen.com/success-story-topic/bms-detox-challenge/">BMS Detox Challenge</a></span></p>
+                          </div>
+                                                                                                      <div class="success_story__info splide__slide WYSIWYG-styles" data-splide-index=4>
+                            <p class="block-text"><span style="color: #7e171b;">kate</span></p>
+<p>About the <span class="font-semi-bold" style="color: #c63a31;"><a style="color: #c63a31;" href="http://allievanfossen.com/success-story-topic/bms-detox-challenge/">BMS Detox Challenge</a></span></p>
+                          </div>
+                                                                                                      <div class="success_story__info splide__slide WYSIWYG-styles" data-splide-index=5>
+                            <p class="block-text"><span style="color: #7e171b;">shar</span></p>
+<p>About the <a href="http://allievanfossen.com/success-story-topic/bms-studio/"><span class="font-semi-bold" style="color: #c63a31;">BMS Studio</span></a></p>
+                          </div>
+                                                                                                      <div class="success_story__info splide__slide WYSIWYG-styles" data-splide-index=6>
+                            <p class="block-text"><span style="color: #7e171b;">amanda</span></p>
+<p>About the <span class="font-semi-bold" style="color: #c63a31;"><a style="color: #c63a31;" href="/success-story-topic/yoga-teacher-mentorship/">Yoga Teacher Mentorship</a></span></p>
+                          </div>
+                                                                                                      <div class="success_story__info splide__slide WYSIWYG-styles" data-splide-index=7>
+                            <p class="block-text"><span style="color: #7e171b;">Kim</span></p>
+<p>About the <a href="http://allievanfossen.com/success-story-topic/bms-studio/"><span class="font-semi-bold" style="color: #c63a31;">BMS Studio</span></a></p>
+                          </div>
+                                                                                                      <div class="success_story__info splide__slide WYSIWYG-styles" data-splide-index=8>
+                            <p class="block-text"><span style="color: #7e171b;">Becky</span></p>
+<p>About the <span class="font-semi-bold"><a href="http://allievanfossen.com/success-story-topic/bms-detox-challenge/">BMS Detox Challenge</a></span></p>
+                          </div>
+                                                                        </div>
+                    </div>
+                  </div>
+                                                <div class="success_story__slider-arrows">
+                  <div class="arrow back bg-primary-ab">&nbsp;</div>
+                  <div class="arrow next bg-primary-ab">&nbsp;</div>
+                </div>
+              </div>
+            </div>
+          </article> <!-- </success_story__slider -->
+        </div> <!-- </container-fluid lg -->
+      </div><!-- </feed_testimonials -->
+        
+      
+    
+      
+          
+    
+                
+                    
+    
+    
+
+            
+        
+        
+    
+    
+    <div class="simple_text "  section_color="Peony Pink" section_size="Normal" id="">
+
+      
+      <div class="container-fluid lg">
+        <div class="row justify-content-center align-items-center">
+
+          
+
+
+          <div class="col-lg-12">
+            <div class="" style="background-color: ; outline: 2px solid transparent;" >
+              <div class="text_container  md" data-aos="fade-down">
+                 <div class="text WYSIWYG-styles"> <p style="text-align: center;"><a class="btn" href="http://allievanfossen.com/success-stories/">READ MORE STORIES</a></p>
+ </div>               </div>
+            </div>
+          </div>
+
+        </div> <!-- $row -->
+      </div> <!-- $container -->
+
+      
+    </div>
+  
+      
+    
+      
+          
+    
+    
+    <div class="hero Small  DS-padding"  section_color="Normal" section_size="Small" id="">
+
+      <div class="main_image bg_image Center" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/08/Dropdown-banner-1600x700.png');">
+        <div class="overlay" style="background-color: ;"></div>
+      </div>
+
+              <div class="image_mobile bg_image Center" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/08/Dropdown-banner-1000x438.png');">
+          <div class="overlay" style="background-color: ;"></div>
+        </div>
+      
+      
+      <div class="container-fluid lg align-items-center ">
+        <div class="wpr   text-bg-color-Default Normal ">
+              
+     <div class="text WYSIWYG-styles text_container lg Center mb-0"> <h1 class="p1 underline" style="text-align: center;"><span class="s1">Work with Me</span></h1>
+<p style="text-align: center;">Check out my resources to build a true-to-yoga toolkit whether you&#8217;re a student, teacher or building a business.</p>
+<p>&nbsp;</p>
+ </div> 
+          </div>
+      </div>
+
+    </div>
+  
+      
+    
+      
+          
+    
+      
+    
+      
+        
+    <div class="internal_links normal " style="background-image: url('');"  section_color="Normal" section_size="Large" id="">
+      <div class="full-width">
+        <div class="row align-items-center no-gutters">
+                                  <div class="col-12 col-md-6">
+              <div class="internal_links__image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2021/08/Allie-Van-Fossen.Kcc-40-Copy.png)">
+                &nbsp;
+              </div>
+            </div>
+                  
+          <div class="col-12 col-md-6">
+            <div class="internal_links__main-content ">
+              <div class="inner-wpr">
+                <div class="internal_links__section-text">
+                      
+     <div class="text WYSIWYG-styles text_container lg Center mb-6 mb-xs-4"> <p class="script-text-xl script-text" style="text-align: left;"><span style="color: #7e171b;">Let me help you!</span></p>
+ </div> 
+                  </div>
+                <div class="internal_links__links-wpr">
+                  <h2 class="internal_links__links-intro">Whatcha looking for today?</h2>
+                  <div class="internal_links__links">
+                    <nav class="internal_links__nav">
+                      <div class="indicator-wpr">
+                        <img class="internal_links__indicator" src="https://allievanfossen.com/wp-content/themes/blank/images/internal-linking-indicator.png" />
+                      </div>
+                      <p class="internal_links__placeholder">I want to:</p>
+                      <ul class="internal_links__list">
+                                                  <li class="internal_links__list-item"><a class="internal_links__link" href="/work-with-me/#body-mind-soul-studio">
+                            Join a yoga community and transform my life.                          </a></li>
+                                                  <li class="internal_links__list-item"><a class="internal_links__link" href="/work-with-me#detox-challenge">
+                            Uplevel my yoga practice.                          </a></li>
+                                                  <li class="internal_links__list-item"><a class="internal_links__link" href="/work-with-me#practice-yoga-with-allie">
+                            Get on the mat, like, right now.                          </a></li>
+                                                  <li class="internal_links__list-item"><a class="internal_links__link" href="/work-with-me#yoga-retreats">
+                            Go on a yoga retreat.                          </a></li>
+                                                  <li class="internal_links__list-item"><a class="internal_links__link" href="/work-with-me#yoga-mentorship">
+                            Grow my own badass yoga business.                          </a></li>
+                                              </ul>
+                    </nav>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div> <!-- $row -->
+      </div> <!-- $container -->
+    </div>
+
+
+      
+    
+      
+          
+    
+      
+    
+      
+          
+    
+    
+    <div class="hero Large  DS-padding"  section_color="Normal" section_size="Normal" id="">
+
+      <div class="main_image bg_image Center" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/08/lady-sofa.png');">
+        <div class="overlay" style="background-color: ;"></div>
+      </div>
+
+              <div class="image_mobile bg_image Center" style="background-image: url('https://allievanfossen.com/wp-content/uploads/2021/08/lady-sofa-1000x571.png');">
+          <div class="overlay" style="background-color: ;"></div>
+        </div>
+      
+      
+      <div class="container-fluid lg align-items-center ">
+        <div class="wpr centre_align_mobile  text-bg-color-Default White ">
+              
+     <div class="text WYSIWYG-styles text_container full_width Center mb-0"> <h2 style="text-align: center;">Learn the principles. Do the work. See the change.</h2>
+<p style="text-align: center;"><a class="btn" href="http://allievanfossen.com/blog/">READ THE BLOG</a></p>
+ </div> 
+          </div>
+      </div>
+
+    </div>
+  
+      
+    
+      
+          
+    
+    
+    <div class="feed_posts style-alt"  section_color="Cloud Pink" section_size="Normal" id="">
+            <div class="container-fluid lg">
+        <div class="feed_posts-wpr">
+                      <div class="feed_posts__detail">
+              <p class="feed_posts__detail-text">Your favourite <br/> blog posts!</p>
+              <img src="https://allievanfossen.com/wp-content/themes/blank/images/feed-posts-icon.png" class="feed_posts__detail-icon" />
+            </div>
+                  <div class="aos-wpr" data-aos="fade-down">
+              
+     <div class="text WYSIWYG-styles text_container lg Center mb-6 mb-xs-4"> <p class="block-text" style="text-align: center;"><span style="color: #c63a31;">Over on the blog &#8211;</span></p>
+<p class="font-semi-bold" style="text-align: center;"><span style="color: #1a1a1a;">I break down all the principles and practices of yoga, making them easy to understand AND integrate into your daily life for serious transformation (without taking yourself too seriously). We’re talking mindfulness, meditation, mindsets, and more.</span></p>
+ </div> 
+          </div>
+
+        
+        <div class="row" data-aos="fade-custom">
+          
+                                    <div class="col-sm-6 col-md-4">
+                <article class="post">
+  <a href="https://allievanfossen.com/yoga-teacher-coaching-call-seeing-obstacles-as-opportunities/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2022/02/mexico-photoshoot-51-1000x750.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Yoga Teacher Tips</span>
+              </p>
+      <h4 class="title"><strong>Yoga Teacher Coaching Call: Seeing Obstacles as Opportunities</strong>  </h4>
+    </div>
+  </a>
+</article>
+              </div>
+                          <div class="col-sm-6 col-md-4">
+                <article class="post">
+  <a href="https://allievanfossen.com/mantra-meditation-40-day-challenge/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2015/08/meditation-mala-challenge-10693-1000x750.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Meditation &amp; Mindset</span>
+              </p>
+      <h4 class="title"><strong>Mantra Meditation: 40 Day Challenge</strong>  </h4>
+    </div>
+  </a>
+</article>
+              </div>
+                          <div class="col-sm-6 col-md-4">
+                <article class="post">
+  <a href="https://allievanfossen.com/how-to-align-your-energy-with-the-four-phases-of-the-moon/">
+        <div class="image" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2019/07/linda-xu-KsomZsgjLSA-unsplash-e1563224089460-1000x671.jpg);" ></div>
+
+    <div class="text txt-body">
+            
+      
+      
+      <p class="meta txt-muted">
+                  <span class="cat mb-0 block-text">Yoga Basics</span>
+              </p>
+      <h4 class="title"><strong>How to Align Your Energy with the Four Phases of the Moon</strong>  </h4>
+    </div>
+  </a>
+</article>
+              </div>
+                      
+                  </div>
+
+
+        
+        
+
+                                  
+    
+                    
+      </div>
+    </div>
+  </div>
+  
+      
+    
+      
+          
+    
+                
+                    
+    
+    
+
+            
+        
+        
+    
+    
+    <div class="simple_text "  section_color="Normal" section_size="Normal" id="">
+
+              <div class="add_badge top-centre">
+           <img src="https://allievanfossen.com/wp-content/uploads/2021/09/AVF-Icon.png" alt="" />
+        </div>
+      
+      <div class="container-fluid lg">
+        <div class="row justify-content-center align-items-center">
+
+          
+
+
+          <div class="col-lg-12">
+            <div class="" style="background-color: ; outline: 2px solid transparent;" >
+              <div class="text_container  lg" data-aos="fade-down">
+                 <div class="text WYSIWYG-styles"> <h3 style="text-align: center;">You deserve to experience your highest potential.</h3>
+<p class="lg" style="text-align: center;">And we wanna see it too. Let’s use the yoga system to help you grow into the most powerful you.</p>
+<p style="text-align: center;"><a class="btn" href="http://allievanfossen.com/work-with-me/">START HERE</a></p>
+ </div>               </div>
+            </div>
+          </div>
+
+        </div> <!-- $row -->
+      </div> <!-- $container -->
+
+      
+    </div>
+  
+      
+      
+  </div>
+
+
+
+
+  
+  <footer>
+    <div class="container-fluid lg">
+      <div class="row">
+        <div class="col-12 col-lg-2">
+          <div class="footer__bio-img-wpr">
+                      
+                                                <img class="footer__bio-img" src="https://allievanfossen.com/wp-content/uploads/2021/08/pexels-elly-fairytale-3822455-copy-5.png" />
+                                                              </div>
+        </div>
+        <div class="col-12 col-lg-10">
+          <div class="row">
+            <div class="col-12 col-lg-7">
+              <div class="footer__bio-text-wpr">
+                                                                                          <div class="WYSIWYG-styles footer__bio-text">
+                        <h3 class="mb-1">Hey! I’m Allie.</h3>
+<hr />
+<p class="font-semi-bold"><span style="color: #1a1a1a;">I’m a self-growth student, freedom-seeker, yoga teacher and the founder of a tight-knit online yoga community: the Body Mind Soul Studio. I’m here to teach you how to transform your life on-and-off-the-mat with a holistic yoga practice.</span></p>
+                      </div>
+                                                                                  </div>
+            </div>
+            <div class="col-12 col-lg-5">
+              <div class="footer__nav-wpr">
+                <div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-184 current_page_item menu-item-has-children menu-item-552"><a href="https://allievanfossen.com/" aria-current="page">Home</a>
+<ul class="sub-menu">
+	<li id="menu-item-1513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1513"><a href="https://allievanfossen.com/about/">About</a></li>
+	<li id="menu-item-1514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1514"><a href="https://allievanfossen.com/video-library/">Video Library</a></li>
+	<li id="menu-item-1515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1515"><a href="https://allievanfossen.com/work-with-me/">Work with Me</a></li>
+</ul>
+</li>
+<li id="menu-item-553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-553"><a href="https://allievanfossen.com/our-blog/">Our Blog</a>
+<ul class="sub-menu">
+	<li id="menu-item-1516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1516"><a href="https://allievanfossen.com/success-stories/">Success Stories</a></li>
+	<li id="menu-item-1517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1517"><a href="http://allievanfossen.com/our-blog/#seven_chakras">Chakras</a></li>
+	<li id="menu-item-1518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1518"><a href="https://allievanfossen.com/contact/">Contact Allie</a></li>
+</ul>
+</li>
+</ul></div>              </div>
+            </div>
+            <div class="col-12">
+              <div class="footer__social-links-wpr">
+                                  
+                    
+                                          
+                        <div class="social_links_wpr">
+
+                                                      <a class="youtube-btn" href="https://www.youtube.com/channel/UCahoXO8yh6mqJD9EiARHI7w" target="_blank">
+                              YouTube
+                            </a>
+                          
+                                                  <a class="instagram-btn" href="https://www.instagram.com/allie.vanfossen/" target="_blank">
+                            instagram
+                          </a>
+                        
+                                                  <a class="pinterest-btn" href="https://www.pinterest.com/YogawithAllieVanFossen/" target="_blank">
+                            pinterest
+                          </a>
+                        
+                                                      <a class="facebook-btn" href="https://www.facebook.com/YogawithAllieVanFossen" target="_blank">
+                              facebook
+                            </a>
+                          
+                          <a id="back-to-top" class="block-text back-to-top">Back To Top <img class="back-to-top__icon" src="https://allievanfossen.com/wp-content/themes/blank/images/back-to-top-icon.svg" /> </a>
+                        </div>
+
+                                          
+                                                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> <!-- container  -->
+
+                                        
+        <div class="instagram mt-4">
+      <a href="" target="_blank">
+        <div style="pointer-events: none;">
+          <!-- SnapWidget -->
+          <script src="https://snapwidget.com/js/snapwidget.js"></script>
+          <div class="hide-mobile">
+            <div class="insta-frame">
+              <p class="insta-frame-text">Come Hang Out <br/> With Allie!</p>
+            </div>
+                          <!-- SnapWidget --> <script src="https://snapwidget.com/js/snapwidget.js"></script> <iframe src="https://snapwidget.com/embed/961378" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>                      </div>
+          <div class="show-mobile">
+            <iframe src="https://snapwidget.com/embed/961378" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
+          </div>
+        </div>
+      </a>
+    </div>
+        <div class="bottom-footer">
+      <div class="container-fluid lg">
+        <div class="copyright">
+          <p class="item">© 2024 Allie Van Fossen</p>
+          <p class="item">Site by <a href="https://www.skyehighinteractive.com/" target="_blank">Skye High</a> </p>
+        </div>
+      </div>
+    </div>
+
+  </footer>
+
+<div class="popups">
+        
+      
+
+
+  <div class="modal-wpr popup none_popup" data-timer_popup="" id="yoga-reset">
+    <div class="modal has-image">
+      <div class="close"><span></span></div>
+
+       <div class="image Left" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2021/09/banner-image-table.png);" ></div> 
+              <div class="popup-wpr  Left">
+          <div class="WYSIWYG-styles">
+            <h3>A Self-Paced Refresh.</h3>
+<h4>Sometimes we need a top-to-bottom reset, whether it’s work stress, relationship changes, or that stuck in a rut feeling we get.</h4>
+<p>The Yoga Reset Guide is my FREE 7-step journey to return to your mat, deepen your practice, and experience a body, mind, soul refresh.</p>
+             <div class="mt-2" id="popup_form_code"> <script async data-uid="9c920cc989" src="https://the-journey-junkie.ck.page/9c920cc989/index.js"></script> </div>           </div>
+        </div>
+      
+    </div>
+  </div>
+
+    
+      
+
+
+  <div class="modal-wpr popup none_popup" data-timer_popup="" id="live-your-journey-retreat-waitlist">
+    <div class="modal has-image">
+      <div class="close"><span></span></div>
+
+       <div class="image Right" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2021/09/bali-girls-463-1600x1068.jpg);" ></div> 
+              <div class="popup-wpr  Right">
+          <div class="WYSIWYG-styles">
+            <h2>Transformative Travel? Yes, Please!</h2>
+             <div class="mt-2" id="popup_form_code"> <script async id="_ck_346810" src="https://forms.convertkit.com/346810?v=7"></script> </div>           </div>
+        </div>
+      
+    </div>
+  </div>
+
+    
+      
+
+
+  <div class="modal-wpr popup none_popup" data-timer_popup="" id="yoga-teacher-mastermind-waitlist">
+    <div class="modal has-image">
+      <div class="close"><span></span></div>
+
+       <div class="image Right" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2021/09/laptop-1.jpg);" ></div> 
+              <div class="popup-wpr  Right">
+          <div class="WYSIWYG-styles">
+            <h2>Become the soulful CEO of your business</h2>
+<p>Get on the list to join the 90-day yoga teacher mastermind experience.</p>
+             <div class="mt-2" id="popup_form_code"> <script async data-uid="1b3cce3530" src="https://the-journey-junkie.ck.page/1b3cce3530/index.js"></script> </div>           </div>
+        </div>
+      
+    </div>
+  </div>
+
+    
+      
+
+
+  <div class="modal-wpr popup none_popup" data-timer_popup="" id="body-mind-soul-studio-waitlist">
+    <div class="modal has-image">
+      <div class="close"><span></span></div>
+
+       <div class="image Left" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2021/09/bms.jpg);" ></div> 
+              <div class="popup-wpr  Left">
+          <div class="WYSIWYG-styles">
+            <p>Join our Body Mind Soul Studio waitlist</p>
+             <div class="mt-2" id="popup_form_code"> <script async data-uid="2cfc78f1ac" src="https://the-journey-junkie.ck.page/2cfc78f1ac/index.js"></script> </div>           </div>
+        </div>
+      
+    </div>
+  </div>
+
+    
+      
+
+
+  <div class="modal-wpr popup none_popup" data-timer_popup="" id="popup-detox-challenge-waitlist">
+    <div class="modal has-image">
+      <div class="close"><span></span></div>
+
+       <div class="image Right" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2021/08/CarmenPHOTO15MOCKUP.png);" ></div> 
+              <div class="popup-wpr  Right">
+          <div class="WYSIWYG-styles">
+            <h3>Body Mind Soul Detox Challenge &#8211; wait</h3>
+             <div class="mt-2" id="popup_form_code"> <script async data-uid="94c5b701d6" src="https://the-journey-junkie.ck.page/94c5b701d6/index.js"></script> </div>           </div>
+        </div>
+      
+    </div>
+  </div>
+
+    
+      
+
+
+  <div class="modal-wpr popup None" data-timer_popup="" id="blank">
+    <div class="modal has-image">
+      <div class="close"><span></span></div>
+
+       <div class="image Right" style="background-image: url(https://allievanfossen.com/wp-content/uploads/2020/06/omar-elsharawy-Sps0uV0mWcI-unsplash-1339x1600.jpg);" ></div> 
+              <div class="popup-wpr  Right">
+          <div class="WYSIWYG-styles">
+            <h2>Lorem ipsum dolor</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                      </div>
+        </div>
+      
+    </div>
+  </div>
+
+      </div>
+
+<div class="wp_footer">
+  <script type="text/javascript" src="https://player.vimeo.com/api/player.js" id="vimeo-js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.12.6/js/standalone/selectize.min.js" id="selectizel-js-js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" id="slick-js-js"></script>
+<script type="text/javascript" src="https://unpkg.com/aos@2.3.1/dist/aos.js" id="aos-js-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-content/themes/blank/assets/splide/js/splide.min.js?ver=2.04" id="splide-js-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-content/themes/blank/assets/js/main.js" id="script-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-content/plugins/acf-rgba-color-picker//assets/js/wp-color-picker-alpha.min.js?ver=2.0.0" id="wp-color-picker-alpha-js"></script>
+<script type="text/javascript" src="https://allievanfossen.com/wp-content/plugins/acf-rgba-color-picker//assets/js/acf-rgba-color-picker.js?ver=1.2.0" id="acf-rgba-color-picker-script-js"></script>
+<script>
+acf.data = {"select2L10n":{"matches_1":"One result is available, press enter to select it.","matches_n":"%d results are available, use up and down arrow keys to navigate.","matches_0":"No matches found","input_too_short_1":"Please enter 1 or more characters","input_too_short_n":"Please enter %d or more characters","input_too_long_1":"Please delete 1 character","input_too_long_n":"Please delete %d characters","selection_too_long_1":"You can only select 1 item","selection_too_long_n":"You can only select %d items","load_more":"Loading more results&hellip;","searching":"Searching&hellip;","load_fail":"Loading failed"},"google_map_api":"https:\/\/maps.googleapis.com\/maps\/api\/js?libraries=places&ver=3&callback=Function.prototype&language=en_US","datePickerL10n":{"closeText":"Done","currentText":"Today","nextText":"Next","prevText":"Prev","weekHeader":"Wk","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesMin":["S","M","T","W","T","F","S"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"dateTimePickerL10n":{"timeOnlyTitle":"Choose Time","timeText":"Time","hourText":"Hour","minuteText":"Minute","secondText":"Second","millisecText":"Millisecond","microsecText":"Microsecond","timezoneText":"Time Zone","currentText":"Now","closeText":"Done","selectText":"Select","amNames":["AM","A"],"pmNames":["PM","P"]},"colorPickerL10n":{"hex_string":"Hex String","rgba_string":"RGBA String"},"mimeTypeIcon":"https:\/\/allievanfossen.com\/wp-includes\/images\/media\/default.png","mimeTypes":{"jpg|jpeg|jpe":"image\/jpeg","gif":"image\/gif","png":"image\/png","bmp":"image\/bmp","tiff|tif":"image\/tiff","webp":"image\/webp","ico":"image\/x-icon","heic":"image\/heic","asf|asx":"video\/x-ms-asf","wmv":"video\/x-ms-wmv","wmx":"video\/x-ms-wmx","wm":"video\/x-ms-wm","avi":"video\/avi","divx":"video\/divx","flv":"video\/x-flv","mov|qt":"video\/quicktime","mpeg|mpg|mpe":"video\/mpeg","mp4|m4v":"video\/mp4","ogv":"video\/ogg","webm":"video\/webm","mkv":"video\/x-matroska","3gp|3gpp":"video\/3gpp","3g2|3gp2":"video\/3gpp2","txt|asc|c|cc|h|srt":"text\/plain","csv":"text\/csv","tsv":"text\/tab-separated-values","ics":"text\/calendar","rtx":"text\/richtext","css":"text\/css","vtt":"text\/vtt","dfxp":"application\/ttaf+xml","mp3|m4a|m4b":"audio\/mpeg","aac":"audio\/aac","ra|ram":"audio\/x-realaudio","wav":"audio\/wav","ogg|oga":"audio\/ogg","flac":"audio\/flac","mid|midi":"audio\/midi","wma":"audio\/x-ms-wma","wax":"audio\/x-ms-wax","mka":"audio\/x-matroska","rtf":"application\/rtf","pdf":"application\/pdf","class":"application\/java","tar":"application\/x-tar","zip":"application\/zip","gz|gzip":"application\/x-gzip","rar":"application\/rar","7z":"application\/x-7z-compressed","psd":"application\/octet-stream","xcf":"application\/octet-stream","doc":"application\/msword","pot|pps|ppt":"application\/vnd.ms-powerpoint","wri":"application\/vnd.ms-write","xla|xls|xlt|xlw":"application\/vnd.ms-excel","mdb":"application\/vnd.ms-access","mpp":"application\/vnd.ms-project","docx":"application\/vnd.openxmlformats-officedocument.wordprocessingml.document","docm":"application\/vnd.ms-word.document.macroEnabled.12","dotx":"application\/vnd.openxmlformats-officedocument.wordprocessingml.template","dotm":"application\/vnd.ms-word.template.macroEnabled.12","xlsx":"application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet","xlsm":"application\/vnd.ms-excel.sheet.macroEnabled.12","xlsb":"application\/vnd.ms-excel.sheet.binary.macroEnabled.12","xltx":"application\/vnd.openxmlformats-officedocument.spreadsheetml.template","xltm":"application\/vnd.ms-excel.template.macroEnabled.12","xlam":"application\/vnd.ms-excel.addin.macroEnabled.12","pptx":"application\/vnd.openxmlformats-officedocument.presentationml.presentation","pptm":"application\/vnd.ms-powerpoint.presentation.macroEnabled.12","ppsx":"application\/vnd.openxmlformats-officedocument.presentationml.slideshow","ppsm":"application\/vnd.ms-powerpoint.slideshow.macroEnabled.12","potx":"application\/vnd.openxmlformats-officedocument.presentationml.template","potm":"application\/vnd.ms-powerpoint.template.macroEnabled.12","ppam":"application\/vnd.ms-powerpoint.addin.macroEnabled.12","sldx":"application\/vnd.openxmlformats-officedocument.presentationml.slide","sldm":"application\/vnd.ms-powerpoint.slide.macroEnabled.12","onetoc|onetoc2|onetmp|onepkg":"application\/onenote","oxps":"application\/oxps","xps":"application\/vnd.ms-xpsdocument","odt":"application\/vnd.oasis.opendocument.text","odp":"application\/vnd.oasis.opendocument.presentation","ods":"application\/vnd.oasis.opendocument.spreadsheet","odg":"application\/vnd.oasis.opendocument.graphics","odc":"application\/vnd.oasis.opendocument.chart","odb":"application\/vnd.oasis.opendocument.database","odf":"application\/vnd.oasis.opendocument.formula","wp|wpd":"application\/wordperfect","key":"application\/vnd.apple.keynote","numbers":"application\/vnd.apple.numbers","pages":"application\/vnd.apple.pages"},"admin_url":"https:\/\/allievanfossen.com\/wp-admin\/","ajaxurl":"https:\/\/allievanfossen.com\/wp-admin\/admin-ajax.php","nonce":"2e9e4eda70","acf_version":"6.2.5","wp_version":"6.4.2","browser":"firefox","locale":"en_US","rtl":false,"screen":null,"post_id":null,"validation":null,"editor":"classic","is_pro":true};
+</script>
+
+<style>
+	 /** Flexible Content Preview for Advanced Custom Fields : dynamic images */
+	 .acf-fc-popup ul li a[data-layout="hero_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/themes/blank/lib/admin/images/acf-flexible-content-preview/hero-section.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="hero_parallax_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="simple_text_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/themes/blank/lib/admin/images/acf-flexible-content-preview/simple-text-section.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="simple_text_columns_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/themes/blank/lib/admin/images/acf-flexible-content-preview/simple-text-columns-section.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="simple_icon_grid_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/themes/blank/lib/admin/images/acf-flexible-content-preview/simple-icon-grid-section.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="simple_cards_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/themes/blank/lib/admin/images/acf-flexible-content-preview/simple-cards-section.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="simple_image_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/themes/blank/lib/admin/images/acf-flexible-content-preview/simple-image-section.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="tiles_image_and_text_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/themes/blank/lib/admin/images/acf-flexible-content-preview/tiles-image-and-text-section.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="tiles_image_and_text_slider_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="faq_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/themes/blank/lib/admin/images/acf-flexible-content-preview/faq-section.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="slider_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/themes/blank/lib/admin/images/acf-flexible-content-preview/slider-section.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="form_subscribe_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/themes/blank/lib/admin/images/acf-flexible-content-preview/form-subscribe-section.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="form_contact_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/themes/blank/lib/admin/images/acf-flexible-content-preview/form-contact-section.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="feed_posts_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/themes/blank/lib/admin/images/acf-flexible-content-preview/feed-posts-section.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="feed_success_stories_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="feed_success_stories_slider_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="bar_logos_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/themes/blank/lib/admin/images/acf-flexible-content-preview/bar-logos-section.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="tabs_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/themes/blank/lib/admin/images/acf-flexible-content-preview/tabs-section.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="global_contents_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/themes/blank/lib/admin/images/acf-flexible-content-preview/global-contents-section.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="form_component_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="client_gallery_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="testimonial_slider_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="usp_slider_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="manual_video_selection_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="featured_youtube_video_selection_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="internal_links_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="feed_video_library_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="feed_video_library_normal_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="feed_blog_post_slider_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="image_banner_text_slider_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="timeline_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="the_seven_chakras_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="category_link_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="video_slider_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="payment_cards_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="image_slider_simple_text_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="bms_stages_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="simple_text_slider_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="multi_image_text_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="two_column_card_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+	 .acf-fc-popup ul li a[data-layout="text_column_repeater_section"] .acf-fc-popup-image { background-image: url("https://allievanfossen.com/wp-content/plugins/acf-flexible-content-preview/assets/images/default.jpg"); }
+</style>
+<script>
+acf.doAction( 'prepare' );
+</script>
+
+		<!-- Cookie Notice plugin v2.4.13 by Hu-manity.co https://hu-manity.co/ -->
+		<div id="cookie-notice" role="dialog" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(50,50,58,1);"><div class="cookie-notice-container" style="color: #fff"><span id="cn-notice-text" class="cn-text-container">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button cn-button-custom .cn-button.bootstrap { background-color: #d3c108; background-image: none; color: black; }" aria-label="Ok">Ok</a></span><span id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" title="No"></span></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin --></div>
+</div> <!-- main-content -->
+</body>
+</html>

@@ -1,0 +1,1863 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="author" content="Lithvik Sharma" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+
+	<!-- SITE TITLE AND META-->
+	<title>CryptoMize - A Digital Conglomerate Extraordinaire</title>
+
+	<meta name="description"
+		content="CryptoMize is a Digital Conglomerate that has served clients such as Governments, Politicians, MNCs, Celebrities and HNIs, Offices in 30+ Countries" />
+	<meta name="keywords"
+		content="digital agency, digital agency india, online reputation management services, online reputation management company, reputation management services, information security company">
+
+	<!-- Canonical URL -->
+	<link rel="canonical" href="https://cryptomize.com/" />
+
+
+
+	<!-- Facebook Open Graph Tags -->
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="CryptoMize - A Digital Conglomerate Extraordinaire">
+	<meta property="og:image" content="https://cryptomize.com/assets/img/cryptomize-logo-square.jpg">
+	<meta property="og:image:secure_url" content="https://cryptomize.com/assets/img/cryptomize-logo-square.jpg" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta property="og:title" content="CryptoMize - A Digital Conglomerate Extraordinaire">
+	<meta property="og:description"
+		content="CryptoMize is a Digital Conglomerate that has served clients such as Governments, Politicians, MNCs, Celebrities and HNIs, Offices in 30+ Countries">
+	<meta property="og:url" content="https://cryptomize.com/">
+	<meta property="og:image:alt" content="CryptoMize - A Digital Conglomerate Extraordinaire" />
+
+	<!-- Twitter Tags -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@CryptoMize">
+	<meta name="twitter:image" content="https://cryptomize.com/assets/img/cryptomize-logo-square.jpg">
+
+	<meta name="twitter:title" content="CryptoMize - A Digital Conglomerate Extraordinaire">
+	<meta name="twitter:description"
+		content="CryptoMize is a Digital Conglomerate that has served clients such as Governments, Politicians, MNCs, Celebrities and HNIs, Offices in 30+ Countries">
+	<meta name="twitter:url" content="https://cryptomize.com/">
+	<meta name="twitter:image:alt" content="CryptoMize - A Digital Conglomerate Extraordinaire">
+
+
+	<!-- Favicon -->
+	<link itemprop="favicon" rel="apple-touch-icon" sizes="57x57"
+		href="https://cryptomize.com/assets/favicon/apple-icon-57x57.png">
+	<link itemprop="favicon" rel="apple-touch-icon" sizes="60x60"
+		href="https://cryptomize.com/assets/favicon/apple-icon-60x60.png">
+	<link itemprop="favicon" rel="apple-touch-icon" sizes="72x72"
+		href="https://cryptomize.com/assets/favicon/apple-icon-72x72.png">
+	<link itemprop="favicon" rel="apple-touch-icon" sizes="76x76"
+		href="https://cryptomize.com/assets/favicon/apple-icon-76x76.png">
+	<link itemprop="favicon" rel="apple-touch-icon" sizes="114x114"
+		href="https://cryptomize.com/assets/favicon/apple-icon-114x114.png">
+	<link itemprop="favicon" rel="apple-touch-icon" sizes="120x120"
+		href="https://cryptomize.com/assets/favicon/apple-icon-120x120.png">
+	<link itemprop="favicon" rel="apple-touch-icon" sizes="144x144"
+		href="https://cryptomize.com/assets/favicon/apple-icon-144x144.png">
+	<link itemprop="favicon" rel="apple-touch-icon" sizes="152x152"
+		href="https://cryptomize.com/assets/favicon/apple-icon-152x152.png">
+	<link itemprop="favicon" rel="apple-touch-icon" sizes="180x180"
+		href="https://cryptomize.com/assets/favicon/apple-icon-180x180.png">
+	<link itemprop="favicon" rel="icon" type="image/png" sizes="192x192"
+		href="https://cryptomize.com/assets/favicon/android-icon-192x192.png">
+	<link itemprop="favicon" rel="icon" type="image/png" href="https://cryptomize.com/assets/favicon/favicon-32x32.png">
+	<link itemprop="favicon" rel="icon" type="image/png" sizes="96x96"
+		href="https://cryptomize.com/assets/favicon/favicon-96x96.png">
+	<link itemprop="favicon" rel="icon" type="image/png" sizes="16x16"
+		href="https://cryptomize.com/assets/favicon/fav	icon-16x16.png">
+	<link itemprop="favicon" rel="icon" type="image/png" href="https://cryptomize.com/assets/favicon/favicon-32x32.png">
+
+	<meta itemprop="theme-color" name="theme-color" content="#ffffff">
+
+
+	<meta itemprop="msapplication-TileColor" name="msapplication-TileColor" content="#da532c">
+	<meta itemprop="theme-color" name="theme-color" content="#ffffff">
+
+
+
+	<link rel="preload" href="https://cryptomize.com/assets/fonts/titillium-web-v10-latin-regular.woff2" as="font"
+		type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" href="https://cryptomize.com/assets/fonts/titillium-web-v10-latin-200.woff2" as="font"
+		type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" href="https://cryptomize.com/assets/fonts/titillium-web-v10-latin-300.woff2" as="font"
+		type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" href="https://cryptomize.com/assets/fonts/titillium-web-v10-latin-600.woff2" as="font"
+		type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" href="https://cryptomize.com/assets/fonts/titillium-web-v10-latin-700.woff2" as="font"
+		type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" href="https://cryptomize.com/assets/fonts/titillium-web-v10-latin-900.woff2" as="font"
+		type="font/woff2" crossorigin="anonymous">
+
+	<link rel="preload" as="style" href="https://cryptomize.com/assets/css/mashup.css">
+	<link rel="preload" as="style" href="https://cryptomize.com/assets/css/home.css">
+
+	<link rel="preload" as="image" href="https://cryptomize.com/assets/img/hero-bg.jpg">
+	<link rel="preload" as="image" href="https://cryptomize.com/assets/img/logo-black.png">
+
+	<link rel="stylesheet" href="https://cryptomize.com/assets/css/mashup.css" type="text/css" media="all">
+	<link rel="stylesheet" href="https://cryptomize.com/assets/css/home.css" type="text/css" media="all">
+	<style>
+		/*  */
+		.navbar-dark .navbar-nav .h-45 {
+			color: #000;
+		}
+	</style>
+</head>
+
+
+<header class="navbar-floating navbar-light navbar-sticky"><nav class="navbar navbar-expand-lg"><div class=container><a href=https://cryptomize.com/ class=navbar-brand-cs><img alt="cryptomize logo"class=navbar-brand-item height=50 src=https://cryptomize.com/assets/img/logo-black.png width=270></a><div class="collapse navbar-collapse"id=navbarCollapse><ul class="mx-auto navbar-nav"><li class=nav-item><a href=https://cryptomize.com/about-us/ class=nav-link>About Us</a><li class="nav-item dropdown d-none d-sm-block"><a href=# class="nav-link dropdown-toggle"data-bs-toggle=dropdown aria-expanded=false aria-haspopup=true id=pagesMenu>Services<svg class="icon icon-arrow-down ms-2"style=stroke-width:2px><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-arrow-down></use></svg></a><ul class=dropdown-menu aria-labelledby=pagesMenu><li class="dropdown-submenu dropend"><a href=https://cryptomize.com/services/political-catalysis/ class="dropdown-item dropdown-toggle">Political Catalysis<svg class="icon icon-arrow-down ms-2"style=stroke-width:2px><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-arrow-down></use></svg></a><ul class=dropdown-menu data-bs-popper=none><li><a href=https://cryptomize.com/services/political/ class="dropdown-item fw-bold">Politics</a><li><a href=https://cryptomize.com/services/political/demography-derivation/ class=dropdown-item>Demography Derivation</a><li><a href=https://cryptomize.com/services/political/constituency-proliferation/ class=dropdown-item>Constituency Proliferation</a><li><a href=https://cryptomize.com/services/political/candidate-supremacy/ class=dropdown-item>Candidate Supremacy</a><li><a href=https://cryptomize.com/services/political/party-propulsion/ class=dropdown-item>Party Propulsion</a><li><a href=https://cryptomize.com/services/political/voter-enticement/ class=dropdown-item>Voter Enticement</a><li><a href=https://cryptomize.com/services/political/competition-management/ class=dropdown-item>Competition Management</a><li><a href=https://cryptomize.com/services/intelligence/ class="dropdown-item fw-bold">Intelligence</a><li><a href=https://cryptomize.com/services/governance/ class=dropdown-item>Governance Support</a><li><a href=https://cryptomize.com/services/operational-intelligence/ class=dropdown-item>Operational Intelligence</a><li><a href=https://cryptomize.com/services/tactical-intelligence/ class=dropdown-item>Tactical Intelligence</a><li><a href=https://cryptomize.com/services/big-data-mining/ class=dropdown-item>Big Data Mining</a><li><a href=https://cryptomize.com/services/digital-listening/ class=dropdown-item>Digital Listening</a><li><a href=https://cryptomize.com/services/osint/ class=dropdown-item>OSINT</a></ul><li class="dropdown-submenu dropend"><a href=https://cryptomize.com/services/privacy-enforcement/ class="dropdown-item dropdown-toggle">Privacy Enforcement<svg class="icon icon-arrow-down ms-2"style=stroke-width:2px><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-arrow-down></use></svg></a><ul class=dropdown-menu data-bs-popper=none><li><a href=https://cryptomize.com/services/privacy/ class="dropdown-item fw-bold">Privacy</a><li><a href=https://cryptomize.com/services/data-privacy/ class=dropdown-item>Data Privacy</a><li><a href=https://cryptomize.com/services/encryption/ class=dropdown-item>Encryption</a><li><a href=https://cryptomize.com/services/anonymity/ class=dropdown-item>Anonymity</a><li><a href=https://cryptomize.com/services/communication-privacy/ class=dropdown-item>Communication Privacy</a><li><a href=https://cryptomize.com/services/information-privacy/ class=dropdown-item>Information Privacy</a><li><a href=https://cryptomize.com/services/infrastructure-privacy/ class=dropdown-item>Infrastructure Privacy</a><li><a href=https://cryptomize.com/services/security/ class="dropdown-item fw-bold">Security</a><li><a href=https://cryptomize.com/services/website-security/ class=dropdown-item>Website Security</a><li><a href=https://cryptomize.com/services/data-security/ class=dropdown-item>Data Security</a><li><a href=https://cryptomize.com/services/penetration-testing/ class=dropdown-item>Penetration Testing</a><li><a href=https://cryptomize.com/services/security-training/ class=dropdown-item>Security Training</a><li><a href=https://cryptomize.com/services/communication-security/ class=dropdown-item>Communication Security</a><li><a href=https://cryptomize.com/services/vulnerability-assessment/ class=dropdown-item>Vulnerability Assesment</a></ul><li class="dropdown-submenu dropend"><a href=https://cryptomize.com/services/perception-perfection/ class="dropdown-item dropdown-toggle">Perception Perfection<svg class="icon icon-arrow-down ms-2"style=stroke-width:2px><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-arrow-down></use></svg></a><ul class=dropdown-menu data-bs-popper=none><li><a href=https://cryptomize.com/services/reputation/ class="dropdown-item fw-bold">Reputation</a><li><a href=https://cryptomize.com/services/reputation-analysis/ class=dropdown-item>Reputation Analysis</a><li><a href=https://cryptomize.com/services/reputation-monitoring/ class=dropdown-item>Reputation monitoring</a><li><a href=https://cryptomize.com/services/damage-control/ class=dropdown-item>Damage Control</a><li><a href=https://cryptomize.com/services/review-optimization/ class=dropdown-item>Review Optimization</a><li><a href=https://cryptomize.com/services/crisis-management/ class=dropdown-item>Crisis Management</a><li><a href=https://cryptomize.com/services/threat-analysis/ class=dropdown-item>Threat Analysis</a><li><a href=https://cryptomize.com/services/sentiment/ class="dropdown-item fw-bold">Sentiment</a><li><a href=https://cryptomize.com/services/digital-listening/ class=dropdown-item>Digital Listening</a><li><a href=https://cryptomize.com/services/trend-management/ class=dropdown-item>Trend Management</a><li><a href=https://cryptomize.com/services/review-management/ class=dropdown-item>Review Management</a><li><a href=https://cryptomize.com/services/search-management/ class=dropdown-item>Search Management</a><li><a href=https://cryptomize.com/services/dialogue-control/ class=dropdown-item>Dialogue Control</a><li><a href=https://cryptomize.com/services/sentiment-analysis/ class=dropdown-item>Sentiment Analysis</a></ul><li class="dropdown-submenu dropend"><a href=https://cryptomize.com/services/policing-phronesis/ class="dropdown-item dropdown-toggle">Public Relations<svg class="icon icon-arrow-down ms-2"style=stroke-width:2px><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-arrow-down></use></svg></a><ul class=dropdown-menu data-bs-popper=none><li><a href=https://cryptomize.com/services/brand/ class="dropdown-item fw-bold">Brand</a><li><a href=https://cryptomize.com/services/brand-analysis/ class=dropdown-item>Brand Analysis</a><li><a href=https://cryptomize.com/services/brand-monitoring/ class=dropdown-item>Brand Monitoring</a><li><a href=https://cryptomize.com/services/brand-protection/ class=dropdown-item>Brand Protection</a><li><a href=https://cryptomize.com/services/brand-augmentation/ class=dropdown-item>Brand Augmentation</a><li><a href=https://cryptomize.com/services/competition-management/ class=dropdown-item>Competition Management</a><li><a href=https://cryptomize.com/services/competitor-analysis/ class=dropdown-item>Competitor Analysis</a><li><a href=https://cryptomize.com/services/media/ class="dropdown-item fw-bold">Media</a><li><a href=https://cryptomize.com/services/content-creation/ class=dropdown-item>Content Creation</a><li><a href=https://cryptomize.com/services/media-monitoring/ class=dropdown-item>Media Monitoring</a><li><a href=https://cryptomize.com/services/local-visibility/ class=dropdown-item>Local Visibility</a><li><a href=https://cryptomize.com/services/mass-communication/ class=dropdown-item>Mass Communication</a><li><a href=https://cryptomize.com/services/influencer-marketing/ class=dropdown-item>Influencer Marketing</a><li><a href=https://cryptomize.com/services/online-identity-management/ class=dropdown-item>Identity Management</a></ul><li class="dropdown-submenu dropend"><a href=https://cryptomize.com/services/promotional-parlance/ class="dropdown-item dropdown-toggle">Promotional Parlance<svg class="icon icon-arrow-down ms-2"style=stroke-width:2px><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-arrow-down></use></svg></a><ul class=dropdown-menu data-bs-popper=none><li><a href=https://cryptomize.com/services/marketing/ class="dropdown-item fw-bold">Marketing</a><li><a href=https://cryptomize.com/services/black-hat-marketing/ class=dropdown-item>Black Hat Marketing</a><li><a href=https://cryptomize.com/services/local-business-marketing/ class=dropdown-item>Local Business Marketing</a><li><a href=https://cryptomize.com/services/social-media-marketing/ class=dropdown-item>Social Media Marketing</a><li><a href=https://cryptomize.com/services/buzz-marketing/ class=dropdown-item>Buzz Marketing</a><li><a href=https://cryptomize.com/services/search-engine-marketing/ class=dropdown-item>Search Engine Marketing</a><li><a href=https://cryptomize.com/services/content-marketing/ class=dropdown-item>Content Marketing</a><li><a href=https://cryptomize.com/services/outreach/ class="dropdown-item fw-bold">Outreach</a><li><a href=https://cryptomize.com/services/search-engine-optimization/ class=dropdown-item>Search Engine Optimization</a><li><a href=https://cryptomize.com/services/website-traffic/ class=dropdown-item>Website Traffic</a><li><a href=https://cryptomize.com/services/link-building-services/ class=dropdown-item>Link Building</a><li><a href=https://cryptomize.com/services/trend-analysis/ class=dropdown-item>Trend Analysis</a><li><a href=https://cryptomize.com/services/viral-marketing/ class=dropdown-item>Viral Marketing</a><li><a href=https://cryptomize.com/services/social-media-management/ class=dropdown-item>Social Media Management</a></ul><li class="dropdown-submenu dropend"><a href=https://cryptomize.com/services/policing-phronesis/ class="dropdown-item dropdown-toggle">Policing Phronesis<svg class="icon icon-arrow-down ms-2"style=stroke-width:2px><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-arrow-down></use></svg></a><ul class=dropdown-menu data-bs-popper=none><li><a href=https://cryptomize.com/services/forensics/ class="dropdown-item fw-bold">Forensics</a><li><a href=https://cryptomize.com/services/cyber-forensics/ class=dropdown-item>Cyber Forensics</a><li><a href=https://cryptomize.com/services/cyber-crime-investigation/ class=dropdown-item>Cyber Crime Investigation</a><li><a href=https://cryptomize.com/services/data-recovery/ class=dropdown-item>Data Recovery</a><li><a href=https://cryptomize.com/services/mobile-forensics/ class=dropdown-item>Mobile Forensics</a><li><a href=https://cryptomize.com/services/reverse-engineering/ class=dropdown-item>Reverse Engineering</a><li><a href=https://cryptomize.com/services/network-forensics/ class=dropdown-item>Network Forensics</a><li><a href=https://cryptomize.com/services/consultancy/ class="dropdown-item fw-bold">Consultancy</a><li><a href=https://cryptomize.com/services/security-consultancy/ class=dropdown-item>Security Consultancy</a><li><a href=https://cryptomize.com/services/privacy-consultancy/ class=dropdown-item>Privacy Consultancy</a><li><a href=https://cryptomize.com/services/marketing-consultancy/ class=dropdown-item>Marketing Consultancy</a><li><a href=https://cryptomize.com/services/it-consultancy/ class=dropdown-item>IT Consultancy</a><li><a href=https://cryptomize.com/services/media-consultancy/ class=dropdown-item>Media Consultancy</a><li><a href=https://cryptomize.com/services/political-consultancy/ class=dropdown-item>Political Consultancy</a></ul></ul><li class="nav-item dropdown d-none d-lg-block dropdown-fullwidth"><a href=# class="nav-link dropdown-toggle"data-bs-toggle=dropdown aria-expanded=false aria-haspopup=true id=elementsMenu>Services<svg class="icon icon-arrow-down ms-2"style=stroke-width:2px><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-arrow-down></use></svg></a><div class="dropdown-menu bg-light"aria-labelledby=elementsMenu><div style="border:3px solid #000"><ul class="bg-white shadow-sm justify-content-center justify-content-center align-items-center collapse font-weight-500 nav nav-tabs navbar-collapse text-uppercase xs-margin-15px-lr"id=navbarCollapse style=height:90px><li class="nav-item alt-font"><a href=#tab-7-4 class="nav-link h-45 active"data-bs-toggle=tab><svg class="icon text-primary display-9 me-2"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-political></use></svg>Political Catalysis</a><li class="nav-item alt-font"><a href=#tab-7-6 class="nav-link h-45"data-bs-toggle=tab><svg class="icon text-primary display-9 me-2"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-privacy></use></svg>Privacy Enforcement</a><li class="nav-item alt-font"><a href=#tab-7-1 class="nav-link h-45"data-bs-toggle=tab><svg class="icon text-primary display-9 me-2"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-perception></use></svg>Perception Perfection</a><li class="nav-item alt-font"><a href=#tab-7-3 class="nav-link h-45"data-bs-toggle=tab><svg class="icon text-primary display-9 me-2"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-pr></use></svg>Public Relations</a><li class="nav-item alt-font"><a href=#tab-7-2 class="nav-link h-45"data-bs-toggle=tab><svg class="icon text-primary display-9 me-2"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-promotion></use></svg>Promotional Parlance</a><li class="nav-item alt-font"><a href=#tab-7-5 class="nav-link h-45"data-bs-toggle=tab><svg class="icon text-primary display-9 me-2"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-phorensis></use></svg>Policing Phronesis</a><li class="nav-item alt-font h6"><a href=https://cryptomize.com/services/ class="text-white btn-primary">All Services<svg class="icon display-9 me-n7"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-angle-right-thick></use></svg><svg class="icon display-9"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-angle-right-thick></use></svg></a></ul><div class="mb-0 tab-content"><div class="tab-pane active show"id=tab-7-4><div class="row justify-content-between gx-lg-8 gx-xl-12 gy-8"><div class="col-lg-6 p-fit-left"><div class="row bg-white h-100 shadow-sm"><a href=https://cryptomize.com/services/political/ class=px-0><div class="text-white bg-primary d-block display-8 mb-4 p-3 text-center"id=cryptomize-heading>POLITICS</div></a><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/political/demography-derivation/ class="d-flex card-hover flex-row"><img alt=demography-derivation class=me-3 height=78.99 src=https://cryptomize.com/services/img/demography-derivation.svg width=78.99 loading=lazy><div class=heading>Demography Derivation<p>Sealing your fate with deep audience insight</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/political/constituency-proliferation/ class="d-flex card-hover flex-row"><img alt=constituency-proliferation class=me-3 height=78.99 src=https://cryptomize.com/services/img/constituency-proliferation.svg width=78.99 loading=lazy><div class=heading>Constituency Proliferation<p>Reach a decisive victory focusing on constituency.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/political/party-propulsion/ class="d-flex card-hover flex-row"><img alt="Party Propulsion"class=me-3 height=78.99 src=https://cryptomize.com/services/img/party-propulsion.svg width=78.99 loading=lazy><div class=heading>Party Propulsion<p>Bringing transparency to politics for reliability.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/political/candidate-supremacy/ class="d-flex card-hover flex-row"><img alt=candidate-supremacy class=me-3 height=78.99 src=https://cryptomize.com/services/img/candidate-supremacy.svg width=78.99 loading=lazy><div class=heading>Candidate Supremacy<p>Confering you the boost you need to win!</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/political/voter-enticement/ class="d-flex card-hover flex-row"><img alt="Voter Enticement"class=me-3 height=78.99 src=https://cryptomize.com/services/img/voter-enticement.svg width=78.99 loading=lazy><div class=heading>Voter Enticement<p>Re- engineering your voter engagement experience</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/political/competition-management/ class="d-flex card-hover flex-row"><img alt=competition-management class=me-3 height=78.99 src=https://cryptomize.com/services/img/competition-management.svg width=78.99 loading=lazy><div class=heading>Competition Management<p>Keep track of all your political challenges in one place</div></a></div></div></div><div class="col-lg-6 p-fit-right"><div class="row bg-white h-100 shadow-sm"><a href=https://cryptomize.com/services/intelligence/ class=px-0><div class="text-white bg-primary d-block display-8 mb-4 p-3 text-center"id=cryptomize-heading>INTELLIGENCE</div></a><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/governance/ class="d-flex card-hover flex-row"><img alt=digital-listening class=me-3 height=78.99 src=https://cryptomize.com/services/img/digital-listening.svg width=78.99 loading=lazy><div class=heading>Governance Support<p>We develop a framework for governance by intelligence</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/osint/ class="d-flex card-hover flex-row"><img alt=osint class=me-3 height=78.99 src=https://cryptomize.com/services/img/osint.svg width=78.99 loading=lazy><div class=heading>OSINT<p>Get the scoop on what’s going on in your world</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/big-data-mining/ class="d-flex card-hover flex-row"><img alt=big-data-mining class=me-3 height=78.99 src=https://cryptomize.com/services/img/big-data-mining.svg width=78.99 loading=lazy><div class=heading>Big Data Mining<p>Delivering Insight to drive powerful decisions</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/strategic-intelligence/ class="d-flex card-hover flex-row"><img alt="Artificial Intelligence"class=me-3 height=78.99 src=https://cryptomize.com/services/img/artificial-intelligence.svg width=78.99 loading=lazy><div class=heading>Strategic Intelligence<p>Bridging the gap between strategy and execution</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/operational-intelligence/ class="d-flex card-hover flex-row"><img alt=machine-learning class=me-3 height=78.99 src=https://cryptomize.com/services/img/machine-learning.svg width=78.99 loading=lazy><div class=heading>Operational Intelligence<p>Delivering actionable intelligence for action</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/tactical-intelligence/ class="d-flex card-hover flex-row"><img alt="Employee Monitoring"class=me-3 height=78.99 src=https://cryptomize.com/services/img/employee-monitoring.svg width=78.99 loading=lazy><div class=heading>Tactical Intelligence<p>Turning workforce data into actionable insights</div></a></div></div></div></div><div class=col-12><div class="p-3 bg-dark pattern-overlay-1 w-100 pb-4"><a href=https://cryptomize.com/services/political-catalysis/ ><div class="row justify-content-between d-md-flex mt-3"><div class="col-md-6 text-white display-7"><span class="text-primary-shadow text-white-stroke">POLITICAL</span> CATALYSIS</div><p class="d-flex col-md-6 flex-column justify-content-center text-white">Political Governance is an effort to revamp governance with the use of technology to deliver results is driven by strategy, skill and expertise.</div></a></div></div></div><div class=tab-pane id=tab-7-6><div class="row justify-content-between gx-lg-8 gx-xl-12 gy-8"><div class="col-lg-6 p-fit-left"><div class="row bg-white h-100 shadow-sm"><a href=https://cryptomize.com/services/privacy/ class=px-0><div class="text-white bg-primary d-block display-8 mb-4 p-3 text-center"id=cryptomize-heading>PRIVACY</div></a><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/encryption/ class="d-flex card-hover flex-row"><img alt=encryption class=me-3 height=78.99 src=https://cryptomize.com/services/img/encryption.svg width=78.99 loading=lazy><div class=heading>Encryption<p>Hassle free communication is just a few clicks away</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/anonymity/ class="d-flex card-hover flex-row"><img alt=anonymity class=me-3 height=78.99 src=https://cryptomize.com/services/img/anonymity.svg width=78.99 loading=lazy><div class=heading>Anonymity<p>Protect yourself online with the best there is.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/data-privacy/ class="d-flex card-hover flex-row"><img alt=data-privacy class=me-3 height=78.99 src=https://cryptomize.com/services/img/data-privacy.svg width=78.99 loading=lazy><div class=heading>Data Privacy<p>Your privacy matters, your data matters.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/infrastructure-privacy/ class="d-flex card-hover flex-row"><img alt="Infrastructure Privacy"class=me-3 height=78.99 src=https://cryptomize.com/services/img/Infrastructure-privacy.svg width=78.99 loading=lazy><div class=heading>Infrastructure Privacy<p>Explore provisions for preventing intrusions.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/information-privacy/ class="d-flex card-hover flex-row"><img alt=information-privacy class=me-3 height=78.99 src=https://cryptomize.com/services/img/information-privacy.svg width=78.99 loading=lazy><div class=heading>Information Privacy<p>Maximize complaince with information protection.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/communication-privacy/ class="d-flex card-hover flex-row"><img alt="Communication Privacy"class=me-3 height=78.99 src=https://cryptomize.com/services/img/communication-privacy.svg width=78.99 loading=lazy><div class=heading>Communication Privacy<p>There’s nothing more valuable than communicating freely.</div></a></div></div></div><div class="col-lg-6 p-fit-right"><div class="row bg-white h-100 shadow-sm"><a href=https://cryptomize.com/services/security/ class=px-0><div class="text-white bg-primary d-block display-8 mb-4 p-3 text-center"id=cryptomize-heading>SECURITY</div></a><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/communication-security/ class="d-flex card-hover flex-row"><img alt="Communication Security"class=me-3 height=78.99 src=https://cryptomize.com/services/img/communication-security.svg width=78.99 loading=lazy><div class=heading>Communication Security<p>Explore pro-active security solutions for confidentiality</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/data-security/ class="d-flex card-hover flex-row"><img alt=data-security class=me-3 height=78.99 src=https://cryptomize.com/services/img/data-security.svg width=78.99 loading=lazy><div class=heading>Data Security<p>The standard system to keep your data safe and secure.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/security-training/ class="d-flex card-hover flex-row"><img alt=security-training class=me-3 height=78.99 src=https://cryptomize.com/services/img/security-training.svg width=78.99 loading=lazy><div class=heading>Security Training<p>Maintaining the highest levels of security is paramount.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/website-security/ class="d-flex card-hover flex-row"><img alt="IT Consultancy"class=me-3 height=78.99 src=https://cryptomize.com/services/img/website-security.svg width=78.99 loading=lazy><div class=heading>Website Security<p>Protect the integrity of your most valuable asset.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/penetration-testing/ class="d-flex card-hover flex-row"><img alt="Penetration Testing"class=me-3 height=78.99 src=https://cryptomize.com/services/img/penetration-testing.svg width=78.99 loading=lazy><div class=heading>Penetration Testing<p>The one surefire way to discover malicious attacks.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/vulnerability-assessment/ class="d-flex card-hover flex-row"><img alt=vulnerability-assessment class=me-3 height=78.99 src=https://cryptomize.com/services/img/vulnerability-assessment.svg width=78.99 loading=lazy><div class=heading>Vulnerability Assessment<p>An essential service to identify and mitigate risks.</div></a></div></div></div></div><div class=col-12><div class="p-3 bg-dark pattern-overlay-1 w-100 pb-4"><a href=https://cryptomize.com/services/privacy-enforcement/ ><div class="row justify-content-between d-md-flex mt-3"><div class="col-md-6 text-white display-7"><span class="text-primary-shadow text-white-stroke">PRIVACY</span> ENFORCEMENT</div><p class="d-flex col-md-6 flex-column justify-content-center text-white">To provide you with freedom from fear of any intrusion, CryptoMize offers a range of privacy and security services to protect you, your identity and you data over digital platforms.</div></a></div></div></div><div class=tab-pane id=tab-7-1><div class="row justify-content-between gx-lg-8 gx-xl-12"><div class="col-lg-6 p-fit-left"><div class="row bg-white h-100 shadow-sm"><a href=https://cryptomize.com/services/reputation/ class=px-0><div class="text-white bg-primary d-block display-8 mb-4 p-3 text-center"id=cryptomize-heading>REPUTATION</div></a><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/reputation-analysis/ class="d-flex card-hover flex-row"><img alt=reputation-analysis class=me-3 height=78.99 src=https://cryptomize.com/services/img/reputation-analysis.svg width=78.99 loading=lazy title=reputation-analysis><div class=heading>Reputation Analysis<p>Powerful analytics for online reputation management.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/damage-control/ class="d-flex card-hover flex-row"><img alt=damage-control class=me-3 height=78.99 src=https://cryptomize.com/services/img/damage-control.svg width=78.99 loading=lazy title=damage-control><div class=heading>Damage Control<p>Acquire foresight that aids you in anticipating a mishap.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/review-optimization/ class="d-flex card-hover flex-row"><img alt=review-management class=me-3 height=78.99 src=https://cryptomize.com/services/img/review-optimization.svg width=78.99 loading=lazy title="review management"><div class=heading>Review Optimization<p>Drive traffic your way by fostering a sense of trust.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/threat-analysis/ class="d-flex card-hover flex-row"><img alt=threat-analysis class=me-3 height=78.99 src=https://cryptomize.com/services/img/threat-analysis.svg width=78.99 loading=lazy title="threat analysis"><div class=heading>Threat Analysis<p>Possess the power to overcome reputational threats.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/crisis-management/ class="d-flex card-hover flex-row"><img alt="Crisis Management"class=me-3 height=78.99 src=https://cryptomize.com/services/img/crisis-management.svg width=78.99 loading=lazy title="crisis management"><div class=heading>Crisis Management<p>Discover quick crisis response to manage brand reputation.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/reputation-monitoring/ class="d-flex card-hover flex-row"><img alt=reputation-monitoring class=me-3 height=78.99 src=https://cryptomize.com/services/img/online-reputation-monitoring.svg width=78.99 loading=lazy title=reputation-monitoring><div class=heading>Reputation Monitoring<p>Stay woke with all that's being said about you.</div></a></div></div></div><div class="col-lg-6 p-fit-right"><div class="row bg-white h-100 shadow-sm"><a href=https://cryptomize.com/services/sentiment/ class=px-0><div class="text-white bg-primary d-block display-8 mb-4 p-3 text-center"id=cryptomize-heading>SENTIMENT</div></a><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/digital-listening/ class="d-flex card-hover flex-row"><img alt=digital-listening class=me-3 height=78.99 src=https://cryptomize.com/services/img/digital-listening.svg width=78.99 loading=lazy><div class=heading>Digital Listening<p>Improve engagement by leveraging user insights</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/sentiment-analysis/ class="d-flex card-hover flex-row"><img alt=sentiment-analysis class=me-3 height=78.99 src=https://cryptomize.com/services/img/sentiment-analysis.svg width=78.99 loading=lazy><div class=heading>Sentiment Analysis<p>Glean findings to quantify people's feelings</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/dialogue-control/ class="d-flex card-hover flex-row"><img alt=dialogue-control class=me-3 height=78.99 src=https://cryptomize.com/services/img/dialouge-control.svg width=78.99 loading=lazy><div class=heading>Dialogue Control<p>Procure holistic control against negative mentions.Here's how.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/review-management/ class="d-flex card-hover flex-row"><img alt=review-management class=me-3 height=78.99 src=https://cryptomize.com/services/img/review-management.svg width=78.99 loading=lazy><div class=heading>Review Management<p>Managing your online reviews easily.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/trend-management/ class="d-flex card-hover flex-row"><img alt=trend-management class=me-3 height=78.99 src=https://cryptomize.com/services/img/trend-management.svg width=78.99 loading=lazy><div class=heading>Trend Management<p>Introducing ways for capitalizing trends</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/search-management/ class="d-flex card-hover flex-row"><img alt=search-management class=me-3 height=78.99 src=https://cryptomize.com/services/img/search-management.svg width=78.99 loading=lazy><div class=heading>Search Management<p>Insight to SERM operations to strengthen your reputation.</div></a></div></div></div></div><div class=col-12><a href=https://cryptomize.com/services/perception-perfection/ ><div class="p-3 bg-dark pattern-overlay-1 w-100"><div class="row justify-content-between d-md-flex mt-3"><div class="col-md-6 text-white display-7"><span class="text-primary-shadow text-white-stroke">PERCEPTION</span> PERFECTION</div><p class="d-flex col-md-6 flex-column justify-content-center text-white">CryptoMize uses extremely advanced analytics to create mechanisms to offer an undisturbed perception about you. Our mechanisms use the entirety of possibilities across all channels.</div></div></a></div></div><div class=tab-pane id=tab-7-3><div class="row justify-content-between gx-lg-8 gx-xl-12 gy-8"><div class="col-lg-6 p-fit-left"><div class="row bg-white h-100 shadow-sm"><a href=https://cryptomize.com/services/brand/ class=px-0><div class="text-white bg-primary d-block display-8 mb-4 p-3 text-center"id=cryptomize-heading>BRAND</div></a><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/brand-analysis/ class="d-flex card-hover flex-row"><img alt=brand-analysis class=me-3 height=78.99 src=https://cryptomize.com/services/img/brand-analysis.svg width=78.99 loading=lazy><div class=heading>Brand Analysis<p>The secret to strengthen your brand image.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/brand-monitoring/ class="d-flex card-hover flex-row"><img alt=brand-monitoring class=me-3 height=78.99 src=https://cryptomize.com/services/img/brand-monitoring.svg width=78.99 loading=lazy><div class=heading>Brand Monitoring<p>Track brand emotion to enhance perception.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/brand-protection/ class="d-flex card-hover flex-row"><img alt=brand-protection class=me-3 height=78.99 src=https://cryptomize.com/services/img/brand-protection.svg width=78.99 loading=lazy><div class=heading>Brand Protection<p>Protect what you've worked so hard to build</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/brand-augmentation/ class="d-flex card-hover flex-row"><img alt=brand-augmentation class=me-3 height=78.99 src=https://cryptomize.com/services/img/brand-augmentation.svg width=78.99 loading=lazy><div class=heading>Brand Augmentation<p>Explore ways to enhance brand recognition.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/competition-management/ class="d-flex card-hover flex-row"><img alt="WHO ARE WE"class=me-3 height=78.99 src=https://cryptomize.com/services/img/competition-management.svg width=78.99 loading=lazy><div class=heading>Competition Management<p class="mb-0 text-dark">Make the most of competition to fine-tune your perception.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/competitor-analysis/ class="d-flex card-hover flex-row"><img alt=competitor-analysis class=me-3 height=78.99 src=https://cryptomize.com/services/img/competitor-analysis.svg width=78.99 loading=lazy><div class=heading>Competitor Analysis<p>Ways to elicit the most out of your competitors.</div></a></div></div></div><div class="col-lg-6 p-fit-right"><div class="row bg-white h-100 shadow-sm"><a href=https://cryptomize.com/services/media/ class=px-0><div class="text-white bg-primary d-block display-8 mb-4 p-3 text-center"id=cryptomize-heading>MEDIA</div></a><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/content-creation/ class="d-flex card-hover flex-row"><img alt=content-creation class=me-3 height=78.99 src=https://cryptomize.com/services/img/content-creation.svg width=78.99 loading=lazy><div class=heading>Content Creation<p>Discover influential strategy to shape consumer perceptions.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/media-monitoring/ class="d-flex card-hover flex-row"><img alt="Media Monitoring"class=me-3 height=78.99 src=https://cryptomize.com/services/img/media-monitoring.svg width=78.99 loading=lazy><div class=heading>Media Monitoring<p>Be in tune with the media's perspective of you.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/local-visibility/ class="d-flex card-hover flex-row"><img alt=local-visibility class=me-3 height=78.99 src=https://cryptomize.com/services/img/local-visibility.svg width=78.99 loading=lazy><div class=heading>Local Visibility<p class="mb-0 text-dark">Customised solutions to establish your brand locally.</div></a></div><div class="col-md-6 col-lg-6mb-4"><a href=https://cryptomize.com/services/mass-communication/ class="d-flex card-hover flex-row"><img alt=mass-communication class=me-3 height=78.99 src=https://cryptomize.com/services/img/mass-communication.svg width=78.99 loading=lazy><div class=heading>Mass Communication<p>A strategic communication approach that works wonders.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/influencer-marketing/ class="d-flex card-hover flex-row"><img alt=influencer-marketing class=me-3 height=78.99 src=https://cryptomize.com/services/img/influencer-marketing.svg width=78.99 loading=lazy><div class=heading>Influencer Marketing<p>A revolutionary way to engage your target demographic</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/online-identity-management/ class="d-flex card-hover flex-row"><img alt=online-identity-management class=me-3 height=78.99 src=https://cryptomize.com/services/img/online-identity-management.svg width=78.99 loading=lazy><div class=heading>Identity Management<p class="mb-0 text-dark">A mechanism for creating and managing online identities.</div></a></div></div></div></div><div class=col-12><div class="p-3 bg-dark pattern-overlay-1 w-100 pb-4"><a href=https://cryptomize.com/services/public-relations/ ><div class="row justify-content-between d-md-flex mt-3"><div class="col-md-6 text-white display-7"><span class="text-primary-shadow text-white-stroke">PUBLIC</span> RELATIONS</div><p class="d-flex col-md-6 flex-column justify-content-center text-white">Every individual, businesses, or organisations seek media and PR services to communicate with their audience in the best possible light.</div></a></div></div></div><div class=tab-pane id=tab-7-2><div class="row justify-content-between gx-lg-8 gx-xl-12 gy-8"><div class="col-lg-6 p-fit-left"><div class="row bg-white h-100 shadow-sm"><a href=https://cryptomize.com/services/marketing/ class=px-0><div class="text-white bg-primary d-block display-8 mb-4 p-3 text-center"id=cryptomize-heading>MARKETING</div></a><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/buzz-marketing/ class="d-flex card-hover flex-row"><img alt=buzz-marketing class=me-3 height=78.99 src=https://cryptomize.com/services/img/buzz-marketing.svg width=78.99 loading=lazy><div class=heading>Buzz Marketing<p>Increase your popularity with our Buzz Marketing solutions.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/content-marketing/ class="d-flex card-hover flex-row"><img alt=content-marketing class=me-3 height=78.99 src=https://cryptomize.com/services/img/content-marketing.svg width=78.99 loading=lazy><div class=heading>Content Marketing<p>The ultimate guide to increase your audience engagement.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/local-business-marketing/ class="d-flex card-hover flex-row"><img alt=trend-management class=me-3 height=78.99 src=https://cryptomize.com/services/img/local-business-marketing.svg width=78.99 loading=lazy><div class=heading>Local Business Marketing<p>Customised solutions to establish your brand locally.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/search-engine-marketing/ class="d-flex card-hover flex-row"><img alt=search-engine-marketing class=me-3 height=78.99 src=https://cryptomize.com/services/img/sem.svg width=78.99 loading=lazy><div class=heading>Search Engine Marketing<p>Seize the opportunity to gain organic traffic.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/social-media-marketing/ class="d-flex card-hover flex-row"><img alt="Social Media Marketing"class=me-3 height=78.99 src=https://cryptomize.com/services/img/social-media-marketing.svg width=78.99 loading=lazy><div class=heading>Social Media Marketing<p>Harness the power of social media for engagement.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/black-hat-marketing/ class="d-flex card-hover flex-row"><img alt=black-hat-marketing class=me-3 height=78.99 src=https://cryptomize.com/services/img/hacker.svg width=78.99 loading=lazy><div class=heading>Black Hat Marketing<p>Achieve marketing success with undetected support</div></a></div></div></div><div class="col-lg-6 p-fit-right"><div class="row bg-white h-100 shadow-sm"><a href=https://cryptomize.com/services/outreach/ class=px-0><div class="text-white bg-primary d-block display-8 mb-4 p-3 text-center"id=cryptomize-heading>OUTREACH</div></a><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/trend-analysis/ class="d-flex card-hover flex-row"><img alt=trend-analysis class=me-3 height=78.99 src=https://cryptomize.com/services/img/trend-analysis.svg width=78.99 loading=lazy><div class=heading>Trend Analysis<p>Stay up-to-date with trends and improve your business.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/viral-marketing/ class="d-flex card-hover flex-row"><img alt=viral-marketing class=me-3 height=78.99 src=https://cryptomize.com/services/img/viral-marketing.svg width=78.99 loading=lazy><div class=heading>Viral Marketing<p>Grow your business faster through word-of-mouth.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/link-building-services/ class="d-flex card-hover flex-row"><img alt=link-building class=me-3 height=78.99 src=https://cryptomize.com/services/img/link-building.svg width=78.99 loading=lazy><div class=heading>Link Building<p>Reinforceing your authority by maximising your potential</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/website-traffic/ class="d-flex card-hover flex-row"><img alt=website-traffic class=me-3 height=78.99 src=https://cryptomize.com/services/img/website-traffic.svg width=78.99 loading=lazy><div class=heading>Website Traffic<p>Drive traffic to your website with the best optimized solutions.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/search-engine-optimization/ class="d-flex card-hover flex-row"><img alt=search-engine-optimization class=me-3 height=78.99 src=https://cryptomize.com/services/img/search-engine-optimization.svg width=78.99 loading=lazy><div class=heading>SEO<p>Shoot up your reach with premium optimization tactics</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/social-media-management/ class="d-flex card-hover flex-row"><img alt=social-media-management class=me-3 height=78.99 src=https://cryptomize.com/services/img/social-media-management.svg width=78.99 loading=lazy><div class=heading>Social Media Management<p>Thrive your brand by utilizing social media in the best way.</div></a></div></div></div></div><div class=col-12><div class="p-3 bg-dark pattern-overlay-1 w-100 pb-4"><a href=https://cryptomize.com/services/promotional-parlance/ ><div class="row justify-content-between d-md-flex mt-3"><div class="col-md-6 text-white display-7"><span class="text-primary-shadow text-white-stroke">PROMOTIONAL</span> PARLANCE</div><p class="d-flex col-md-6 flex-column justify-content-center text-white">CryptoMize deploys a strategic approach to promote your brand in a way that is cohesive with your company’s tone and drives concrete results.</div></a></div></div></div><div class=tab-pane id=tab-7-5><div class="row justify-content-between gx-lg-8 gx-xl-12 gy-8"><div class="col-lg-6 p-fit-left"><div class="row bg-white h-100 shadow-sm"><a href=https://cryptomize.com/services/consultancy/ class=px-0><div class="text-white bg-primary d-block display-8 mb-4 p-3 text-center"id=cryptomize-heading>CONSULTANCY</div></a><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/media-consultancy/ class="d-flex card-hover flex-row"><img alt=media-consultancy class=me-3 height=78.99 src=https://cryptomize.com/services/img/media-consultancy.svg width=78.99 loading=lazy><div class=heading>Media Consultancy<p>Achieve results with the use of PR facilties.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/marketing-consultancy/ class="d-flex card-hover flex-row"><img alt=marketing-consultancy class=me-3 height=78.99 src=https://cryptomize.com/services/img/marketing-consultancy.svg width=78.99 loading=lazy><div class=heading>Marketing Consultancy<p>Organize information for a better outreach</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/political-consultancy/ class="d-flex card-hover flex-row"><img alt=political-consultancy class=me-3 height=78.99 src=https://cryptomize.com/services/img/political-consultancy.svg width=78.99 loading=lazy><div class=heading>Political Consultancy<p>Explore the field that fuels the success of all political activities.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/it-consultancy/ class="d-flex card-hover flex-row"><img alt="IT Consultancy"class=me-3 height=78.99 src=https://cryptomize.com/services/img/it-consultancy.svg width=78.99 loading=lazy><div class=heading>IT Consultancy<p>Seek innovative options to implement diverse initiatives.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/privacy-consultancy/ class="d-flex card-hover flex-row"><img alt="Privacy Consultancy"class=me-3 height=78.99 src=https://cryptomize.com/services/img/privacy-consultancy.svg width=78.99 loading=lazy><div class=heading>Privacy Consultancy<p>Get your privacy policies formulated using our expertise.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/security-consultancy/ class="d-flex card-hover flex-row"><img alt=security-consultancy class=me-3 height=78.99 src=https://cryptomize.com/services/img/security-consultancy.svg width=78.99 loading=lazy><div class=heading>Security Consultancy<p>Deter security breaches to fullfill your security needs.</div></a></div></div></div><div class="col-lg-6 p-fit-right"><div class="row bg-white h-100 shadow-sm"><a href=https://cryptomize.com/services/forensics/ class=px-0><div class="text-white bg-primary d-block display-8 mb-4 p-3 text-center"id=cryptomize-heading>FORENSICS</div></a><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/mobile-forensics/ class="d-flex card-hover flex-row"><img alt=mobile-forensics class=me-3 height=78.99 src=https://cryptomize.com/services/img/mobile-forensics.svg width=78.99 loading=lazy><div class=heading>Mobile Forensics<p>Acqiure data from devices to spot the guilty</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/network-forensics/ class="d-flex card-hover flex-row"><img alt=network-forensics class=me-3 height=78.99 src=https://cryptomize.com/services/img/network-forensics.svg width=78.99 loading=lazy><div class=heading>Network Forensics<p>Generate evidence with our tailored operations</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/data-recovery/ class="d-flex card-hover flex-row"><img alt="Data Recovery"class=me-3 height=78.99 src=https://cryptomize.com/services/img/data-recovery.svg width=78.99 loading=lazy><div class=heading>Data Recovery<p>Preserve lost data for amassing evidence .</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/reverse-engineering/ class="d-flex card-hover flex-row"><img alt=reverse-engineering class=me-3 height=78.99 src=https://cryptomize.com/services/img/reverse-engineering.svg width=78.99 loading=lazy><div class=heading>Reverse Engineering<p>Reconstruct the incident scene to find solutions.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/cyber-forensics/ class="d-flex card-hover flex-row"><img alt="Cyber Forensics"class=me-3 height=78.99 src=https://cryptomize.com/services/img/cyber-forensics.svg width=78.99 loading=lazy><div class=heading>Cyber Forensics<p>Gather and examine digital evidence for criminal inquiry.</div></a></div><div class="col-md-6 col-lg-6 mb-4"><a href=https://cryptomize.com/services/cyber-crime-investigation/ class="d-flex card-hover flex-row"><img alt=cyber-crime-investigation class=me-3 height=78.99 src=https://cryptomize.com/services/img/cyber-crime-investigation.svg width=78.99 loading=lazy><div class=heading>Cyber Crime Investigation<p>Integrate the cyber knowledge to investigate crime.</div></a></div></div></div></div><div class=col-12><a href=https://cryptomize.com/services/policing-phronesis/ ><div class="p-3 bg-dark pattern-overlay-1 w-100 pb-4"><div class="row justify-content-between d-md-flex mt-3"><div class="col-md-6 text-white display-7"><span class="text-primary-shadow text-white-stroke">POLICING</span> PHRONESIS</div><p class="d-flex col-md-6 flex-column justify-content-center text-white">CryptoMize's Phronesis services provide accredited, cost-effective services to help you with analytical, investigative and technical expertise to help you evaluate evidence and provide expert testimony.</div></div></a></div></div></div></div></div><li class="nav-item dropdown"><a href=# class="nav-link dropdown-toggle"data-bs-toggle=dropdown aria-expanded=false aria-haspopup=true id=docMenu>Products<svg class="icon icon-arrow-down ms-2"style=stroke-width:2px><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-arrow-down></use></svg></a><ul class="dropdown-menu dropdown-menu-sm-end pb-0"aria-labelledby=docMenu><li class="mb-3 px-3"><div class=my-0><a href=https://cryptomize.com/products/ class=heading>CryptoSuite</a></div><span class="mb-0 d-md-block d-none small text-body">Our Awesome Products</span><li><a href=https://cryptomize.com/cryptobox/ class="dropdown-item ps-4"><div class=d-flex><svg class="me-3 display-8 icon mt-n1 text-primary"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-cryptobox></use></svg><div class=my-0>CryptoBox</div></div></a><li class=dropdown-divider><li><a href=https://cryptomize.com/cryptodrive/ class="dropdown-item ps-4"><div class=d-flex><svg class="me-3 display-8 icon mt-n1 text-primary"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-cryptodrive></use></svg><div class=my-0>CryptoDrive</div></div></a><li class=dropdown-divider><li><a href=https://cryptomize.com/cryptomail/ class="dropdown-item ps-4"><div class=d-flex><svg class="me-3 display-8 icon mt-n1 text-primary"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-cryptomail></use></svg><div class=my-0>CryptoMail</div></div></a><li class=dropdown-divider><li><a href=https://cryptomize.com/cryptorouter/ class="dropdown-item ps-4"><div class=d-flex><svg class="me-3 display-8 icon mt-n1 text-primary"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-cryptorouter></use></svg><div class=my-0>CryptoRouter</div></div></a></ul><li class="nav-item dropdown"><a href=# class="nav-link dropdown-toggle"data-bs-toggle=dropdown aria-expanded=false aria-haspopup=true id=docMenu>Careers<svg class="icon icon-arrow-down ms-2"style=stroke-width:2px><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-arrow-down></use></svg></a><ul class="dropdown-menu dropdown-menu-sm-end pb-0"aria-labelledby=docMenu><li class="mb-3 px-3"><div class=my-0><a href=https://cryptomize.com/careers/ class=heading>Careers at CryptoMize</a></div><span class="mb-0 d-md-block d-none small text-body">Join Us, We are Amazing!</span><li><a href=https://cryptomize.com/careers/internship/ class="dropdown-item ps-4"><div class=d-flex><svg class="me-3 display-8 icon mt-n1 text-primary"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-internship></use></svg><div class=my-0>Internship</div></div></a><li class=dropdown-divider><li><a href=https://cryptomize.com/careers/job-openings/ class="dropdown-item ps-4"><div class=d-flex><svg class="me-3 display-8 icon mt-n1 text-primary"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-job-openings></use></svg><div class=my-0>Job Openings</div></div></a></ul><li class="nav-item dropdown"><a href=# class="nav-link dropdown-toggle"data-bs-toggle=dropdown aria-expanded=false aria-haspopup=true id=docMenu>Clients<svg class="icon icon-arrow-down ms-2"style=stroke-width:2px><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-arrow-down></use></svg></a><ul class="dropdown-menu dropdown-menu-sm-end pb-0"aria-labelledby=docMenu><li class="mb-3 px-3"><div class=my-0><a href=https://cryptomize.com/clients/ class=heading>Our Clients</a></div><span class="mb-0 d-md-block d-none small text-body">Transform Your Ways With Us</span><li><a href=https://cryptomize.com/clients/celebrities/ class="dropdown-item ps-4"><div class=d-flex><svg class="me-3 display-8 icon mt-n1 text-primary"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-celebrities></use></svg><div class=my-0>Celebrities</div></div></a><li class=dropdown-divider><li><a href=https://cryptomize.com/clients/high-networth-individuals/ class="dropdown-item ps-4"><div class=d-flex><svg class="me-3 display-8 icon mt-n1 text-primary"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-hnis></use></svg><div class=my-0>HNIs</div></div></a><li class=dropdown-divider><li><a href=https://cryptomize.com/clients/multinational-corporations/ class="dropdown-item ps-4"><div class=d-flex><svg class="me-3 display-8 icon mt-n1 text-primary"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-mncs></use></svg><div class=my-0>MNCs</div></div></a><li class=dropdown-divider><li><a href=https://cryptomize.com/clients/politicians/ class="dropdown-item ps-4"><div class=d-flex><svg class="me-3 display-8 icon mt-n1 text-primary"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-politicians></use></svg><div class=my-0>Politicians</div></div></a><li class=dropdown-divider><li><a href=https://cryptomize.com/clients/kingdoms/ class="dropdown-item ps-4"><div class=d-flex><svg class="me-3 display-8 icon mt-n1 text-primary"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-kingdoms></use></svg><div class=my-0>Kingdoms</div></div></a><li class=dropdown-divider><li><a href=https://cryptomize.com/clients/governments/ class="dropdown-item ps-4"><div class=d-flex><svg class="me-3 display-8 icon mt-n1 text-primary"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-governments></use></svg><div class=my-0>Governments</div></div></a><li class=dropdown-divider><li><a href=https://cryptomize.com/clients/administration-offices/ class="dropdown-item ps-4"><div class=d-flex><svg class="me-3 display-8 icon mt-n1 text-primary"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-administration-offices></use></svg><div class=my-0>Administration Offices</div></div></a><li class=dropdown-divider><li><a href=https://cryptomize.com/clients/defence-forces/ class="dropdown-item ps-4"><div class=d-flex><svg class="me-3 display-8 icon mt-n1 text-primary"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-defence></use></svg><div class=my-0>Defence Forces</div></div></a><li class=dropdown-divider><li><a href=https://cryptomize.com/clients/law-enforcement-agencies/ class="dropdown-item ps-4"><div class=d-flex><svg class="me-3 display-8 icon mt-n1 text-primary"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-law></use></svg><div class=my-0>Law Enforcement Agencies</div></div></a></ul></ul></div><div class="align-items-center flex-nowrap nav"><button aria-controls=navbarCollapse aria-expanded=false aria-label="Toggle navigation"class="ms-auto navbar-toggler"data-bs-target=#navbarCollapse data-bs-toggle=collapse type=button><span class=navbar-toggler-icon></span></button><div class="nav-item d-none d-xl-block"><a href=https://cryptomize.com/contact-us/ class="text-white btn-primary btn btn-sm mb-0 mx-2">Contact Us</a></div></div></div></nav></header>
+<body>
+	<!-- **************** MAIN CONTENT START **************** -->
+	<main>
+
+
+		<section class="position-relative bg-dark p-0">
+			<!-- Social sites link left -->
+			<div class="position-absolute top-50 start-0 translate-middle z-index-9 d-none ms-4 d-xxl-block">
+				<div class="list-group-inline list-unstyled rotate-270">
+					<a href="https://www.facebook.com/cryptomize.inc/"
+						class="list-group-item text-white bg-transparent mt-4">Facebook</a>
+					<a href="https://twitter.com/CryptoMize"
+						class="list-group-item text-white bg-transparent mt-4">Twitter</a>
+					<a href="https://www.linkedin.com/company/cryptomize/"
+						class="list-group-item text-white bg-transparent mt-4">LinkedIn</a>
+				</div>
+			</div>
+
+			<!-- Scoll Down -->
+			<div class="scroll-down scroll-down-light m-5 d-none d-md-block">
+				<div class="scroll-line"></div>
+				<span class="scoll-text">Scroll Down</span>
+			</div>
+
+			<!-- Banner START -->
+			<div class="h-500 h-sm-700 h-xl-900">
+				<div class="h-100 bg-dark-overlay-4"
+					style="background-image:url('https://cryptomize.com/assets/img/hero-bg.jpg'); background-position: center center; background-size: cover;">
+					<div class="container h-100">
+						<div class="row d-flex h-100">
+							<div
+								class="col-md-8 justify-content-center align-self-center align-items-start hero-content">
+								<div class="slider-content text-start">
+
+									<div>
+										<div class="text-white display-9 mb-1 mb-md-4">
+											A Digital Conglomerate</div>
+										<h1 class="display-1 text-white-stroke text-primary-shadow d-block"
+											id="cryptomize-heading">CryptoMize</h1>
+									</div>
+									<div class="slider_text_desc py-4">
+										<p class="text-white lead">CryptoMize is a Digital Conglomerate	with presence in 3 Continents evolving since a decade, having served elite clients such as Governments, Politicians, MNCs, Celebrities and HNIs in 30+ Countries.</p>
+
+
+									</div>
+
+									<div class="pt-2">
+										<a href="https://cryptomize.com/about-us/" class="default-btn">
+											<span>About Us</span>
+										</a>
+									</div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- Slide 1 END -->
+			</div>
+		</section>
+
+		<!-- CallOut -->
+		<section class="zn_section" id="eluid35b44958">
+			<div class="zn_section_size container zn-section-height--auto zn-section-content_algn--top ">
+				<div class="row" style="margin-top: -90px;">
+					<div class="eluid6c6418ca col-md-12 col-sm-12 znColumnElement" id="eluid6c6418ca">
+						<div class="action_box style3" data-arrowpos="center">
+							<div class=" action_box-inner">
+								<div class="action_box-content">
+
+									<h2 class="text action_box-title text-white"><span class="display-9">CryptoMize - A
+											Digital Conglomerate
+											Extraordinaire </span>
+									</h2>
+									<p class="lead fs-4 text-white">Offering full spectrum of elite services
+										derived with preemptive analysis and strategic planning to our
+										clients</p>
+
+									<div class="ac-buttons action_box-buttons"><a
+											href="https://cryptomize.com/services/"
+											class="btn ac-btn action_box-button action_box-button-first btn-lined">Services</a><a
+											href="https://cryptomize.com/products/"
+											class="btn ac-btn action_box-button action_box-button-second btn-fullwhite">Products</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>   <!-- our services -->
+        <section class="zn_section--masked">
+            <div class="container">
+                <div class="row ">
+
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        <div class="services_box services_box--boxed h-100">
+                            <div class="services_box__inner ">
+                                <div class="services_box__icon text-center">
+
+                                    <span class="text-custom">
+                                        <svg class="display-5 mb-4 icon">
+                                            <use
+                                                xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-political">
+                                            </use>
+                                        </svg>
+                                    </span>
+
+                                </div>
+                                <div class="services_box__content">
+                                    <h2 class="services_box__title text-center" itemprop="headline"><a
+                                            href="https://cryptomize.com/services/political-catalysis/">
+                                            Political Catalysis</a>
+                                    </h2>
+                                    <div class="services_box__desc">
+
+                                        <p class="text-justify text-dark">Elite Political Catalysts: Empower global leaders with cutting-edge analysis, robust strategies, & digital prowess for triumphant campaigns & superior governance. Unleash your political dominance with Cryptomize.
+                                        </p>
+
+                                    </div>
+                                    <div class="services_box__list-wrapper"><span class="services_box__list-bg"></span>
+                                        <div class="row" style="padding-top:310px;">
+                                            <div class="col-lg-6">
+
+                                                <div class="services_box__list">
+
+                                                    <a href="https://cryptomize.com/services/political/">
+                                                        <h3 class="text-primary fs-5">Politics</h3>
+                                                    </a>
+                                                    <ul>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/political/demography-derivation/">Demography
+                                                                    Derivation</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/political/constituency-proliferation/">Constituency
+                                                                    Profileration</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/political/party-propulsion/">Party
+                                                                    Propulsion</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/political/candidate-supremacy/">Candidate
+                                                                    Supremacy</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/political/competition-management/">Competition
+                                                                    Management</a></span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/political/voter-enticement/">Voter
+                                                                    Enticement</a></span>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 pt-4 pt-lg-0">
+                                                <div class="services_box__list">
+
+
+                                                    <a href="https://cryptomize.com/services/intelligence/">
+                                                        <h3 class="text-primary fs-5">Intelligence</h3>
+                                                    </a>
+                                                    <ul>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/governance/">Governance
+                                                                    Support</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/osint/">Open
+                                                                    Source Intelligence</a>
+                                                            </span></li>
+
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/big-data-mining/">Big
+                                                                    Data Mining</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/strategic-intelligence/">Stretegic
+                                                                    Intelligence</a>
+                                                            </span></li>
+
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/operational-intelligence/">Operational
+                                                                    Intelligence</a></span>
+                                                        </li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/tactical-intelligence/">Tactical
+                                                                    Intelligence</a></span></li>
+
+                                                    </ul>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-4 col-md-6 mb-4" id="eluid548a1e4b">
+                        <!-- <div class="">
+                        <div class=""> -->
+                        <div
+                            class="services_box servicebox-sch--light h-100 element-scheme--light services_box--boxed sb--hasicon">
+                            <div class="services_box__inner">
+                                <div class="services_box__icon text-center">
+
+                                    <div class="services_box__icon-inner"><span
+                                            class="services_box__fonticon text-custom">
+                                            <svg class="display-5  mb-4 icon">
+                                                <use
+                                                    xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-privacy">
+                                                </use>
+                                            </svg>
+                                        </span></div>
+
+                                </div>
+                                <div class="services_box__content">
+
+                                    <h2 class="services_box__title element-scheme__hdg1  text-center"
+                                        itemprop="headline"><a
+                                            href="https://cryptomize.com/services/privacy-enforcement/">
+                                            Privacy Enforcement</a></h2>
+                                    <div class="services_box__desc">
+
+                                        <p class="text-justify text-dark">Secure, encrypt, anonymize activities & files, leveraging unrivaled Information Technology & Cyber Security prowess for topological privacy. Achieve ultimate confidentiality, discretion & secrecy with our robust solutions.
+
+                                        </p>
+
+                                    </div>
+                                    <div class="services_box__list-wrapper"><span class="services_box__list-bg"></span>
+                                        <div class="row" style="padding-top:310px;">
+                                            <div class="col-lg-6">
+
+                                                <div class="services_box__list">
+
+                                                    <a href="https://cryptomize.com/services/privacy/">
+                                                        <h3 class="text-primary fs-5">Privacy</h3>
+                                                    </a>
+                                                    <ul>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/encryption/">Encryption</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/anonymity/">Anonymity</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/data-privacy/">Data
+                                                                    Privacy</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/infrastructure-privacy/">Infrastructure
+                                                                    Privacy</a>
+                                                            </span></li>
+
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/information-privacy/">Information
+                                                                    Privacy</a></span>
+                                                        </li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/communication-privacy/">Communication
+                                                                    Privacy</a></span></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 pt-4 pt-lg-0">
+                                                <div class="services_box__list">
+
+                                                    <a href="https://cryptomize.com/services/security/">
+                                                        <h3 class="text-primary fs-5">Security</h3>
+                                                    </a>
+                                                    <ul>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/communication-security/">Communication
+                                                                    Security</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/data-security/">Data
+                                                                    Security</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/security-training/">Security
+                                                                    Training</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/website-security/">Website
+                                                                    Security</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/penetration-testing/">Penetration
+                                                                    Testing</a></span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/vulnerability-assessment/">Vulnerability
+                                                                    Assessment</a></span>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- </div>
+                    </div> -->
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        <div class="services_box services_box--boxed h-100">
+                            <div class="services_box__inner ">
+                                <div class="services_box__icon text-center">
+
+                                    <span class="text-custom">
+                                        <svg class="display-5 mb-4 icon">
+                                            <use
+                                                xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-perception">
+                                            </use>
+                                        </svg>
+                                    </span>
+
+                                </div>
+                                <div class="text-center">
+
+                                    <h2 class="services_box__title" itemprop="headline">
+                                        <a href="https://cryptomize.com/services/perception-perfection/">Perception
+                                            Perfection</a>
+                                    </h2>
+
+                                </div>
+                                <div class="services_box__content ">
+
+                                    <div class="services_box__desc">
+
+                                        <p class="text-justify text-dark">Reforge your image through tactical discovery, acute analysis, intelligence acumen, reputation & sentiment command. Conquer digital listening & skyrocket your brand with our high-impact Perception Perfection services.
+
+                                        </p>
+
+                                    </div>
+                                    <div class="services_box__list-wrapper"><span class="services_box__list-bg"></span>
+                                        <div class="row" style="padding-top:310px;">
+                                            <div class="col-lg-6">
+
+                                                <div class="services_box__list">
+
+                                                    <a href="https://cryptomize.com/services/reputation/">
+                                                        <h3 class="text-primary fs-5">Reputation</h3>
+                                                    </a>
+                                                    <ul>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/reputation-analysis/">Reputation
+                                                                    Analysis</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/damage-control/">Damage
+                                                                    Control</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/review-optimization/">Review
+                                                                    Optimization</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/threat-analysis/">Threat
+                                                                    Analysis</a>
+                                                            </span></li>
+
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/crisis-management/">Crisis
+                                                                    Management</a></span>
+                                                        </li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/reputation-monitoring/">Reputation
+                                                                    Monitoring</a></span></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 pt-4 pt-lg-0">
+
+                                                <div class="services_box__list">
+
+                                                    <a href="https://cryptomize.com/services/sentiment/">
+                                                        <h3 class="text-primary fs-5">Sentiment</h3>
+                                                    </a>
+                                                    <ul>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/digital-listening/">Digital
+                                                                    Listening</a></span>
+                                                        </li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/sentiment-analysis/">Sentiment
+                                                                    Analysis</a></span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/dialogue-control/">Dialogue
+                                                                    Control</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/review-management/">Review
+                                                                    Management</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/trend-management/">Trend
+                                                                    Management</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/search-management/">Search
+                                                                    Management</a>
+                                                            </span></li>
+
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        <div class="services_box services_box--boxed h-100">
+                            <div class="services_box__inner ">
+                                <div class="services_box__icon text-center">
+
+                                    <span class="text-custom">
+                                        <svg class="display-5 mb-4 icon">
+                                            <use
+                                                xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-promotion">
+                                            </use>
+                                        </svg>
+                                    </span>
+
+                                </div>
+                                <div class="text-center">
+
+                                    <h2 class="services_box__title" itemprop="headline">
+                                        <a href="https://cryptomize.com/services/promotional-parlance/">Promotional
+                                            Parlance</a>
+                                    </h2>
+
+                                </div>
+                                <div class="services_box__content">
+
+                                    <div class="services_box__desc">
+
+                                        <p class="text-justify text-dark">Forge a personalized, powerful marketing & outreach edge. Craft bespoke strategies that captivate audiences with unmatched appeal. Unleash the full force of Promotional Parlance to propel your cause to exceptional heights.
+                                        </p>
+                                    </div>
+
+                                    <div class="services_box__list-wrapper"><span class="services_box__list-bg"></span>
+                                        <div class="row" style="padding-top:310px;">
+                                            <div class="col-lg-6">
+
+                                                <div class="services_box__list">
+
+                                                    <a href="https://cryptomize.com/services/marketing/">
+                                                        <h3 class="text-primary fs-5">Marketing</h3>
+                                                    </a>
+                                                    <ul>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/buzz-marketing/">Buzz
+                                                                    Marketing</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/content-marketing/">Content
+                                                                    Marketing</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/local-business-marketing/">Local
+                                                                    Business Marketing</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/search-engine-marketing/">Search
+                                                                    Engine Marketing</a>
+                                                            </span></li>
+
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/social-media-marketing/">Social
+                                                                    Media Marketing</a></span>
+                                                        </li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/black-hat-marketing/">Black
+                                                                    Hat Marketing</a></span></li>
+
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 pt-4 pt-lg-0">
+                                                <div class="services_box__list">
+                                                    <a href="https://cryptomize.com/services/outreach/">
+                                                        <h3 class="text-primary fs-5"> Outreach</h3>
+                                                    </a>
+                                                    <ul>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/trend-analysis/">Trend
+                                                                    Analysis</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/viral-marketing/">Viral
+                                                                    Maketing</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/link-building-services/">Link
+                                                                    Building</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/website-traffic/">Website
+                                                                    Traffic</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/search-engine-optimization/">SEO</a></span>
+                                                        </li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/social-media-management/">Social
+                                                                    Media Management</a></span>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mb-4" id="eluid548a1e4b">
+                        <!-- <div class="">
+                        <div class=""> -->
+                        <div
+                            class="services_box servicebox-sch--light h-100 element-scheme--light services_box--boxed sb--hasicon">
+                            <div class="services_box__inner">
+                                <div class="services_box__icon text-center">
+
+                                    <div class="services_box__icon-inner"><span
+                                            class="services_box__fonticon text-custom">
+                                            <svg class="display-5  mb-4 icon">
+                                                <use
+                                                    xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-pr">
+                                                </use>
+                                            </svg>
+                                        </span></div>
+
+                                </div>
+                                <div class="text-center">
+                                    <h2 class="services_box__title element-scheme__hdg1  text-center"
+                                        itemprop="headline"><a href="https://cryptomize.com/services/public-relations/">
+                                            Public Relations</a></h2>
+                                </div>
+                                <div class="services_box__content ">
+
+
+                                    <div class="services_box__desc">
+
+                                        <p class="text-justify text-dark">
+                                            CryptoMize Media Conquest: Command PR domination, fortify brand sovereignty with unstoppable strategies. Unleash massive media outreach, connect globally with your audience & achieve unprecedented impact.
+                                        </p>
+
+                                    </div>
+                                    <div class="services_box__list-wrapper"><span class="services_box__list-bg"></span>
+                                        <div class="row" style="padding-top:310px;">
+                                            <div class="col-lg-6">
+
+                                                <div class="services_box__list">
+
+                                                    <a href="https://cryptomize.com/services/brand/">
+                                                        <h3 class="text-primary fs-5"> Brand</h3>
+                                                    </a>
+                                                    <ul>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/brand-analysis/">Brand
+                                                                    Analysis</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/brand-monitoring/">Brand
+                                                                    Monitoring</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/brand-protection/">Brand
+                                                                    Protection</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/brand-augmentation/">Brand
+                                                                    Augmentation</a>
+                                                            </span></li>
+
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/competitor-analysis/">Competitor
+                                                                    Analysis</a></span>
+                                                        </li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/competition-management/">Competition
+                                                                    Management</a></span>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 pt-4 pt-lg-0">
+                                                <div class="services_box__list">
+
+                                                    <a href="https://cryptomize.com/services/media/">
+                                                        <h3 class="text-primary fs-5">Media</h3>
+                                                    </a>
+
+                                                    <ul>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/content-creation/">Content
+                                                                    Creation</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/media-monitoring/">Media
+                                                                    Monitoring</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/local-visibility/">Local
+                                                                    Visibility</a></span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/mass-communication/">Mass
+                                                                    Communication</a></span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/influencer-marketing/">Influencer
+                                                                    Marketing</a></span>
+
+                                                        </li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/online-identity-management/">Identity
+                                                                    Management</a>
+                                                            </span></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- </div>
+                    </div> -->
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        <div class="services_box services_box--boxed h-100">
+                            <div class="services_box__inner ">
+                                <div class="services_box__icon text-center">
+
+                                    <span class="text-custom">
+                                        <svg class="display-5 mb-4 icon">
+                                            <use
+                                                xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-phorensis">
+                                            </use>
+                                        </svg>
+                                    </span>
+
+                                </div>
+                                <div class="services_box__content">
+                                    <h2 class="services_box__title text-center" itemprop="headline"><a
+                                            href="https://cryptomize.com/services/policing-phronesis/">
+                                            Policing Phronesis</a>
+                                    </h2>
+                                    <div class="services_box__desc">
+
+                                        <p class="text-justify text-dark">Our Forensics & Consultancy neutralizes organizational cyber threats. Expert guidance & protection for data, brand & reputation. Fortify your digital assets with Policing Phronesis. Command ultimate security with us.
+
+
+
+
+                                        </p>
+                                    </div>
+
+                                    <div class="services_box__list-wrapper"><span class="services_box__list-bg"></span>
+                                        <div class="row" style="padding-top:310px;">
+                                            <div class="col-lg-6">
+
+                                                <div class="services_box__list">
+
+                                                    <a href="https://cryptomize.com/services/consultancy/">
+                                                        <h3 class="text-primary fs-5">Consultancy</h3>
+                                                    </a>
+                                                    <ul>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/media-consultancy/">Media
+                                                                    Consultancy</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/marketing-consultancy/">Marketing
+                                                                    Consultancy</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/political-consultancy/">Political
+                                                                    Consultancy</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/it-consultancy/">IT
+                                                                    Consultancy</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/privacy-consultancy/">Privacy
+                                                                    Consultancy</a></span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/security-consultancy/">Security
+                                                                    Consultancy</a></span>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+
+
+
+                                            </div>
+                                            <div class="col-lg-6 pt-4 pt-lg-0">
+                                                <div class="services_box__list">
+
+                                                    <a href="https://cryptomize.com/services/forensics/">
+                                                        <h3 class="text-primary fs-5">Forensics</h3>
+                                                    </a>
+                                                    <ul>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/mobile-forensics/">Mobile
+                                                                    Forensics</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/network-forensics/">Network
+                                                                    Forensics</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/data-recovery/">Data
+                                                                    Recovery</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/reverse-engineering/">Reverse
+                                                                    Engineering</a>
+                                                            </span></li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/cyber-forensics/">Cyber
+                                                                    Forensics</a></span>
+                                                        </li>
+                                                        <li class="text-custom"><span class="services_box__list-text"><a
+                                                                    href="https://cryptomize.com/services/cyber-crime-investigation/">Cyber
+                                                                    Crime Investigation</a></span></li>
+
+                                                    </ul>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </section>
+
+
+
+
+     
+
+		<!-- Our Experience -->
+
+
+		<div class="row gutter-0"
+			style="background: url(https://cryptomize.com/assets/img/our-experience.jpg) center / cover no-repeat;">
+			<div class="col-md-6 col-sm-6">
+				<div class=" eluidee1cbb9c h-100">
+					<div class="row  gutter-0">
+						<div class="col-lg-4 order-lg-2">
+							<img src="https://cryptomize.com/assets/img/ico-results.svg" alt="OUR
+										EXPERIENCE" title="OUR
+											EXPERIENCE">
+						</div>
+						<div class="col-lg-8 d-flex flex-column justify-content-center order-lg-1">
+
+							<div class="kl-iconbox__title-wrapper">
+								<h2 class="kl-iconbox__title element-scheme__hdg1 text-white" itemprop="headline">OUR
+									EXPERIENCE</h2>
+							</div>
+							<div class="kl-iconbox__desc-wrapper">
+								<p class="kl-iconbox__desc text-justify text-white">Our team of experts bring over a decade of experience in serving elite clients. We've assembled the best team with unparalled subject-matter-expertise & developed digital arsenal that gives us an advantage over anyone else in solving the problems our clients present us with.
+
+								</p>
+							</div>
+						</div>
+
+
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-sm-6">
+				<div class="eluid0f284402 h-100">
+					<div class="row">
+						<div class="col-lg-4 order-lg-2">
+							<img src="https://cryptomize.com/assets/img/ico-world.svg" alt="OUR
+						EXPERTISE" title="OUR
+							EXPERTISE">
+						</div>
+						<div class="col-lg-8 d-flex flex-column justify-content-center order-lg-1">
+
+							<div class="kl-iconbox__el-wrapper kl-iconbox__title-wrapper">
+								<h2 class="kl-iconbox__title element-scheme__hdg1 text-white" itemprop="headline">OUR
+									EXPERTISE</h2>
+							</div>
+							<div class=" kl-iconbox__el-wrapper kl-iconbox__desc-wrapper">
+								<p class="kl-iconbox__desc text-justify text-white">We use our peculiar understanding and expertise in the sphere of Information Technology, Privacy Enforcement; Discovery, Monitoring, Research, Analysis; Intelligence Gathering; Perception Management, PR; Election Campaigning, Political Catalysis and Governance Support 
+								</p>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="kl-mask kl-bottommask  ">
+			<svg width="5000px" height="57px" class="svgmask " viewBox="0 0 5000 57" version="1.1"
+				xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				<defs>
+					<filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox"
+						id="filter-mask3">
+						<feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+						<feGaussianBlur stdDeviation="2" in="shadowOffsetInner1" result="shadowBlurInner1">
+						</feGaussianBlur>
+						<feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1"
+							result="shadowInnerInner1"></feComposite>
+						<feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" in="shadowInnerInner1"
+							type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+						<feMerge>
+							<feMergeNode in="SourceGraphic"></feMergeNode>
+							<feMergeNode in="shadowMatrixInner1"></feMergeNode>
+						</feMerge>
+					</filter>
+				</defs>
+				<path
+					d="M9.09383679e-13,57.0005249 L9.09383679e-13,34.0075249 L2418,34.0075249 L2434,34.0075249 C2434,34.0075249 2441.89,33.2585249 2448,31.0245249 C2454.11,28.7905249 2479,11.0005249 2479,11.0005249 L2492,2.00052487 C2492,2.00052487 2495.121,-0.0374751261 2500,0.000524873861 C2505.267,-0.0294751261 2508,2.00052487 2508,2.00052487 L2521,11.0005249 C2521,11.0005249 2545.89,28.7905249 2552,31.0245249 C2558.11,33.2585249 2566,34.0075249 2566,34.0075249 L2582,34.0075249 L5000,34.0075249 L5000,57.0005249 L2500,57.0005249 L1148,57.0005249 L9.09383679e-13,57.0005249 Z"
+					class="bmask-bgfill" filter="url(#filter-mask3)" fill="#f5f5f5"></path>
+			</svg>
+			<!-- <i class="glyphicon glyphicon-chevron-down"></i> -->
+		</div>
+		<!-- our products -->
+		<section class="categories-area position-relative bg-light">
+			<figure class="position-absolute end-0 top-0 m-4 d-none d-lg-block">
+				<img loading="lazy" width="180" height="145" src="https://cryptomize.com/assets/img/decorations/2.svg"
+					alt="decoration">
+			</figure>
+			<div class="container">
+				<div class="row justify-content-center mb-5">
+					<div class="col-lg-10">
+						<div class="text-center">
+							<a href="https://cryptomize.com/products/">
+								<h2 class="display-6 text-dark-stroke text-primary-shadow">CryptoSuite</h2>
+							</a>
+							<p class="lead">Securing, Encrypting, Anonymizing Your Activities, Conversations and Files
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="row text-center">
+					<div class="col-lg-3 col-md-6">
+						<a href="https://cryptomize.com/cryptobox/">
+							<div class="single-cat mb-50 text-center">
+								<h3 class="mb-4 display-9">CryptoBox</h3>
+								<div class="cat-icon">
+									<svg class="text-white display-7 icon">
+										<use
+											xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-cryptobox">
+										</use>
+									</svg>
+								</div>
+								<div class="cat-cap">
+									<p class="text-grey">CryptoBox is an Extremely Encrypted and Secure Communication
+										Device.</p>
+								</div>
+							</div>
+						</a>
+					</div>
+					<div class="col-lg-3 col-md-6">
+						<a href="https://cryptomize.com/cryptomail/">
+							<div class="single-cat mb-50 text-center">
+								<h3 class="mb-4 display-9">CryptoMail</h3>
+								<div class="cat-icon">
+									<svg class="text-white display-7 icon">
+										<use
+											xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-cryptomail">
+										</use>
+									</svg>
+								</div>
+								<div class="cat-cap">
+									<p class="text-grey">CryptoMail is the Next Generation Personal Untracable Email
+										Solution.</p>
+								</div>
+							</div>
+						</a>
+					</div>
+					<div class="col-lg-3 col-md-6">
+						<a href="https://cryptomize.com/cryptodrive/">
+							<div class="single-cat mb-50 text-center">
+								<h3 class="mb-4 display-9 ">CryptoDrive</h3>
+								<div class="cat-icon">
+									<svg class="text-white display-7 icon">
+										<use
+											xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-cryptodrive">
+										</use>
+									</svg>
+								</div>
+								<div class="cat-cap">
+									<p class="text-grey">CryptoDrive is an Encrypted and Secure Private Data Storage
+										Device.</p>
+								</div>
+							</div>
+						</a>
+					</div>
+					<div class="col-lg-3 col-md-6">
+						<a href="https://cryptomize.com/cryptorouter/">
+							<div class="single-cat mb-50 text-center">
+								<h3 class="mb-4 display-9">CryptoRouter</h3>
+								<div class="cat-icon">
+									<svg class="text-white display-7 icon">
+										<use
+											xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-cryptorouter">
+										</use>
+									</svg>
+								</div>
+								<div class="cat-cap">
+									<p class="text-grey">CryptoRouter Prevents Digital Creeps from spying on your
+										Activities.</p>
+								</div>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="shape-s1 d-none d-xxl-block">
+				<img loading="lazy" src="https://cryptomize.com/assets/img/shape-1.png" alt="decoration">
+			</div>
+		</section>
+
+
+
+
+		<section class="services-section position-relative" style="padding-bottom: 180px">
+			<div class="position-absolute bottom-0 start-0 w-100">
+				<svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+					viewBox="0 24 150 40" preserveAspectRatio="none" shape-rendering="auto">
+					<defs>
+						<path id="gentle-wave"
+							d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"></path>
+					</defs>
+					<g class="moving-waves">
+						<use xlink:href="#gentle-wave" x="48" y="-1" fill="rgba(255,255,255,0.40"></use>
+						<use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(255,255,255,0.35)"></use>
+						<use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(255,255,255,0.25)"></use>
+						<use xlink:href="#gentle-wave" x="48" y="8" fill="rgba(255,255,255,0.20)"></use>
+						<use xlink:href="#gentle-wave" x="48" y="13" fill="rgba(255,255,255,0.15)"></use>
+						<use xlink:href="#gentle-wave" x="48" y="16" fill="rgba(255,255,255,0.95"></use>
+					</g>
+				</svg>
+			</div>
+			<div class="auto-container">
+				<div class="row clearfix">
+					<!--Title Block-->
+					<div class="title-block col-xl-6 col-lg-12 col-md-12 col-sm-12 pb-3">
+						<div class="inner">
+							<div class="">
+								<a href="https://cryptomize.com/strategy/">
+									<h2 class="text-white">Our Process</h2>
+								</a>
+								<div class="lower-text text-justify">Whenever we initiate a campaign, our expertly designed 6-step process ensures a focused, efficient response. Confidently embrace our comprehensive approach to navigate complexities and achieve success.</div>
+							</div>
+						</div>
+					</div>
+					<!--Service Block-->
+					<div class="service-block col-xl-3 col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-box">
+							<div class="bottom-curve"></div>
+							<div class="icon-box"><span class="flaticon-responsive"></span></div>
+							<h3><a href="https://cryptomize.com/strategy/discovery/">Discovery</a></h3>
+						</div>
+					</div>
+					<!--Service Block-->
+					<div class="service-block col-xl-3 col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-box">
+							<div class="bottom-curve"></div>
+							<div class="icon-box"><span class="flaticon-computer"></span></div>
+							<h3><a href="https://cryptomize.com/strategy/research/">Research</a></h3>
+						</div>
+					</div>
+					<!--Service Block-->
+					<div class="service-block col-xl-3 col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-box">
+							<div class="bottom-curve"></div>
+							<div class="icon-box"><span class="flaticon-digital-marketing"></span></div>
+							<h3><a href="https://cryptomize.com/strategy/monitoring/">Monitoring</a></h3>
+						</div>
+					</div>
+					<!--Service Block-->
+					<div class="service-block col-xl-3 col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-box">
+							<div class="bottom-curve"></div>
+							<div class="icon-box"><span class="flaticon-development"></span></div>
+							<h3><a href="https://cryptomize.com/strategy/analysis/">Analysis</a></h3>
+						</div>
+					</div>
+					<!--Service Block-->
+					<div class="service-block col-xl-3 col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-box">
+							<div class="bottom-curve"></div>
+							<div class="icon-box"><span class="flaticon-app-development"></span></div>
+							<h3><a href="https://cryptomize.com/strategy/promotion/">Promotion</a></h3>
+						</div>
+					</div>
+					<!--Service Block-->
+					<div class="service-block col-xl-3 col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-box">
+							<div class="bottom-curve"></div>
+							<div class="icon-box"><span class="flaticon-ui"></span></div>
+							<h3><a href="https://cryptomize.com/strategy/demotion/">Demotion</a></h3>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Our Team -->
+		<section id="services" class="section-1 offers">
+			<div class="container">
+				<div class="row text-center justify-content-center">
+					<h2 class="display-6 text-dark-stroke text-primary-shadow">Our Clients</h2>
+
+					<div class="col-lg-10">
+						<p class="text-dark">Our clients remain central to our purpose, as we provide an extensive array of ultra premium services tailored to Governments, Politicians, MNCs, Celebrities, and HNIs worldwide. Experience unparalleled dedication and support. </p>
+					</div>
+				</div>
+				<div class="row justify-content-center text-center items mt-5">
+					<div class="col-12 col-md-6 item">
+						<a href="https://cryptomize.com/clients/celebrities/">
+							<div class="card featured">
+								<i>
+									<svg class=" icon mb-3 display-7">
+										<use
+											xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-celebrities">
+										</use>
+									</svg>
+								</i>
+								<h3 class="display-9">Celebrities</h3>
+								<p>Celebrities deserve the best services that exceed expectations. Our seasoned team offers exceptional PR, branding, perception, reputation management, outreach, and promotion services. We guarantee confidentiality and pristine public images.</p>
+
+							</div>
+						</a>
+					</div>
+					<div class="col-12 col-md-6 item">
+						<a href="https://cryptomize.com/clients/administration-offices/">
+							<div class="card">
+								<i>
+									<svg class=" icon mb-3 display-7">
+										<use
+											xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-administration-offices">
+										</use>
+									</svg>
+								</i>
+								<h3 class="display-9">Public Administration Offices</h3>
+								<p>Mastering information security, AI/ML & Operational intelligence, our exceptional agency wields Clairvoyance for unmatched impact. Unleash transformative change in PSU's, and collaboratively sculpt a greater future.</p>
+
+							</div>
+						</a>
+					</div>
+					<div class="col-12 col-md-6 item">
+						<a href="https://cryptomize.com/clients/high-networth-individuals/">
+							<div class="card">
+								<i>
+									<svg class=" icon mb-3 display-7">
+										<use
+											xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-hnis">
+										</use>
+									</svg>
+								</i>
+								<h3 class="display-9">HNIs</h3>
+								<p>Elevating HNI clients, we provide bespoke services in perception, reputation, promotion, media, PR & outreach. Conquer your domain & attain unrivaled success with our expert guidance. Let's dominate together.</p>
+
+							</div>
+						</a>
+					</div>
+					<div class="col-12 col-md-6 item">
+						<a href="https://cryptomize.com/clients/governments/">
+							<div class="card">
+								<i>
+									<svg class=" icon mb-3 display-7">
+										<use
+											xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-governments">
+										</use>
+									</svg>
+								</i>
+								<h3 class="display-9">Governments</h3>
+								<p>Surpass expectations with elite governance support, perception crafting, consultancy, privacy, security & strategic intel. Propel governments to excel, innovate, and fortify national prominence. Join forces, triumph.</p>
+
+							</div>
+						</a>
+					</div>
+					<div class="col-12 col-md-6 item">
+						<a href="https://cryptomize.com/clients/politicians/">
+							<div class="card">
+								<i>
+									<svg class=" icon mb-3 display-7">
+										<use
+											xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-politicians">
+										</use>
+									</svg>
+								</i>
+								<h3 class="display-9">Politicians</h3>
+								<p>Revolutionize politicians' trajectory through powerful political campaigning, masterful perception management & steadfast privacy enforcement. Secure electoral victories, shape public opinion & safeguard reputations.</p>
+
+							</div>
+						</a>
+					</div>
+					<div class="col-12 col-md-6 item">
+						<a href="https://cryptomize.com/clients/multinational-corporations/">
+							<div class="card featured">
+								<i>
+									<svg class=" icon mb-3 display-7">
+										<use
+											xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-mncs">
+										</use>
+									</svg>
+								</i>
+								<h3 class="display-9">MNCs</h3>
+								<p>Experience unmatched infosec, PR, marketing & branding excellence. Fortify your MNC brand, amplify reach, and triumph over global challenges with our cutting-edge AI/ML solutions. Soar to new heights together.</p>
+
+							</div>
+						</a>
+					</div>
+					<div class="col-12 col-md-6 item">
+						<a href="https://cryptomize.com/clients/defence-forces/">
+							<div class="card featured">
+								<i>
+									<svg class=" icon mb-3 display-7">
+										<use
+											xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-defence">
+										</use>
+									</svg>
+								</i>
+								<h3 class="display-9">Defence Forces</h3>
+								<p>Reinforce defense forces via privacy enforcement, operational intel, infosec, and cutting-edge technology. Bolster military power, secure national interests, and outmaneuver adversaries with superior solutions.
+
+								</p>
+							</div>
+						</a>
+					</div>
+					<div class="col-12 col-md-6 item">
+						<a href="https://cryptomize.com/clients/law-enforcement-agencies/">
+							<div class="card featured">
+								<i>
+									<svg class=" icon mb-3 display-7">
+										<use
+											xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-law">
+										</use>
+									</svg>
+								</i>
+								<h3 class="display-9">Law Enforcement Agencies</h3>
+								<p>Empower law enforcement agencies with privacy enforcement, strategic intelligence, CryptoSuite, and advanced tools like Clairvoyance. Forge indomitable forces and deliver justice with unrivaled precision. 
+								</p>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</section>
+
+
+		<section id="core-features" class="core-features universal-demo section style3 bg-light">
+			<div class="container">
+				<div class="row text-center justify-content-center">
+					<h2 class="display-6 text-dark-stroke text-primary-shadow">Our Team</h2>
+
+					<div class="col-lg-10">
+						<p class="text-dark">We have gathered a skilled and experienced team who are dedicated and
+							enthusiastic to get best quality results</p>
+					</div>
+				</div>
+				<div class="single-head">
+					<div class="row">
+						<div class="col-lg-3 col-md-6 col-sm-6">
+							<a href="https://cryptomize.com/careers/job-openings/content/">
+								<div class="single-feature wow fadeInUp text-center" data-wow-delay=".2s"
+									style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+									<div>
+										<svg class="display-5 icon text-primary">
+											<use
+												xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-content">
+											</use>
+										</svg>
+									</div>
+									<h3 class="display-9">Content Creators</h3>
+									<p class="text-justify text-dark">Content team: proficient wordsmiths, strategists, and social media experts; adept at molding perceptions and shaping political narratives, utilizing trends for persuasive writing, captivating and influencing target audiences.
+
+									</p>
+								</div>
+							</a>
+						</div>
+						<div class="col-lg-3 col-md-6 col-sm-6">
+							<a href="https://cryptomize.com/careers/job-openings/developer/">
+								<div class="single-feature wow fadeInUp text-center" data-wow-delay=".4s"
+									style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+									<div>
+										<svg class="display-5 icon text-primary">
+											<use
+												xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-devloper">
+											</use>
+										</svg>
+									</div>
+									<h3>Developers
+									</h3>
+									<p class="text-justify text-dark">Our development and design team: unparalleled experts, generating awe-inspiring, perception-transforming visuals. Crafting world-class designs and websites, leveraging global trends for maximum impact.
+									</p>
+								</div>
+							</a>
+						</div>
+						<div class="col-lg-3 col-md-6 col-sm-6">
+							<a href="https://cryptomize.com/careers/job-openings/marketing/">
+								<div class="single-feature wow fadeInUp text-center" data-wow-delay=".6s"
+									style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+									<div>
+										<svg class="display-5 icon text-primary">
+											<use
+												xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-marketing">
+											</use>
+										</svg>
+									</div>
+									<h3>Marketeers</h3>
+									<p class="text-justify text-dark">Our marketers: unparalleled professionals excelling in both digital & physical domains, fueling engagement & brand growth. Masterfully utilizing trends & data for robust, comprehensive campaigns, achieving enduring success.
+
+
+									</p>
+								</div>
+							</a>
+						</div>
+						<div class="col-lg-3 col-md-6 col-sm-6">
+							<a href="https://cryptomize.com/careers/job-openings/political/">
+								<div class="single-feature wow fadeInUp text-center" data-wow-delay=".8s"
+									style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
+									<div>
+										<svg class="display-5 icon text-primary">
+											<use
+												xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-political">
+											</use>
+										</svg>
+									</div>
+									<h3>Political Analysts
+									</h3>
+									<p class="text-justify text-dark">Elite political analysts, strategists, and consultants: unmatched experts in analysis, forecasting, and trend identification. Providing unbiased, data-driven insights to navigate complex politics and achieving triumphant results.
+
+
+									</p>
+								</div>
+							</a>
+						</div>
+						<div class="col-lg-3 col-md-6 col-sm-6">
+							<a href="https://cryptomize.com/careers/job-openings/research/">
+								<div class="single-feature wow fadeInUp text-center" data-wow-delay=".2s"
+									style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+									<div>
+										<svg class="display-5 icon text-primary">
+											<use
+												xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-political-analysis">
+											</use>
+										</svg>
+									</div>
+									<h3>Researchers
+									</h3>
+									<p class="text-justify text-dark">Our research team: Experts in delivering unparalleled analysis & insights for impactful campaigning, utilizing cutting-edge methods for informed decision-making. Committed to client success in achieving their campaign goals.
+									</p>
+								</div>
+							</a>
+						</div>
+						<div class="col-lg-3 col-md-6 col-sm-6">
+							<a href="https://cryptomize.com/careers/job-openings/security/">
+								<div class="single-feature wow fadeInUp text-center" data-wow-delay=".4s"
+									style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+									<div>
+										<svg class="display-5 icon text-primary">
+											<use
+												xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-research">
+											</use>
+										</svg>
+									</div>
+									<h3>Security Experts
+
+									</h3>
+									<p class="text-justify text-dark">Our formidable security team guarantees data confidentiality, integrity & availability using CryptoSuite. With state-of-the-art tech & customized solutions, we provide unparalleled protection against cyber threats.
+
+
+									</p>
+								</div>
+							</a>
+						</div>
+						<div class="col-lg-3 col-md-6 col-sm-6">
+							<a href="https://cryptomize.com/careers/internship/cyber-forensics-expert/">
+								<div class="single-feature wow fadeInUp text-center" data-wow-delay=".6s"
+									style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+									<div>
+										<svg class="display-5 icon text-primary">
+											<use
+												xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-security-advisor">
+											</use>
+										</svg>
+									</div>
+									<h3>Forensic Experts
+
+									</h3>
+									<p class="text-justify text-dark">Exceptional forensic experts offer advanced digital forensic services, providing irrefutable evidence to protect political clients from cyber threats. Our expert testimony ensures justice, preserving reputation with precision.
+									</p>
+								</div>
+							</a>
+						</div>
+						<div class="col-lg-3 col-md-6 col-sm-6">
+							<a href="https://cryptomize.com/careers/job-openings/legal/">
+								<div class="single-feature wow fadeInUp text-center" data-wow-delay=".8s"
+									style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
+									<div>
+										<svg class="display-5   icon text-primary">
+											<use
+												xlink:href="https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-legal">
+											</use>
+										</svg>
+									</div>
+									<h3>Legal Advisors
+									</h3>
+									<p class="text-justify text-dark">legal team offer customized counsel for compliance, contract review, content auditing and litigation support. Our team delivers practical solutions with integrity, ensuring clients' legal rights and interests are protected.
+
+									</p>
+								</div>
+							</a>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="py-0">
+			<div class="pt-0 position-relative">
+				<div class="row g-0 d-flex">
+					<!-- Our Work Block -->
+					<div class="col-sm-6">
+						<div class="text-center bg-primary-multiply position-relative overflow-hidden px-3 py-6 h-100">
+							<h2 class="mb-3 display-6 text-white-stroke">About Us</h2>
+							<a class="btn btn-line text-white mb-0" href="https://cryptomize.com/about-us/">Know
+								More</a>
+							<img width="1440" height="560" loading="lazy"
+								class="bg-primary-multiply position-absolute top-50 start-50 translate-middle z-index-n9"
+								src="https://cryptomize.com/assets/img/callout-bg.jpg" alt="about-us" title="About Us">
+						</div>
+					</div>
+					<!-- Project Block -->
+					<div class="col-sm-6">
+						<div class="text-center bg-dark px-3 py-6 h-100">
+							<h2 class="mb-3 display-6 text-white">Have a Project?</h2>
+							<a class="btn btn-line text-white mb-0" href="https://cryptomize.com/contact-us/">Contact
+								Us</a>
+						</div>
+					</div>
+				</div><!-- row END -->
+			</div>
+		</section>
+		<!-- Action box START -->
+
+
+		<!-- why us -->
+		<section class="position-relative bg-light">
+			<!-- Shape Decoration START -->
+			<figure class="position-absolute end-0 top-0 m-4 d-none d-lg-block">
+				<img loading="lazy" width="180" height="188" src="https://cryptomize.com/assets/img/decorations/1.svg"
+					alt="Why Us?" title="Why Us?">
+			</figure>
+			<figure class="position-absolute start-0 bottom-0 mb-6 ms-5 d-none d-lg-block">
+				<img loading="lazy" width="180" height="145" src="https://cryptomize.com/assets/img/decorations/2.svg"
+					alt="Why Us?" title="Why Us?">
+			</figure>
+			<!-- Shape Decoration END -->
+			<div class="container">
+				<div class="row text-center mb-5">
+					<h2 class="display-6 text-dark-stroke text-primary-shadow">Why Us?</h2>
+					<p>Why are we so amazing?</p>
+				</div>
+				<div class="row text-justify">
+					<!-- Service item -->
+					<div class="col-md-6 col-lg-4 mb-30 text-center ">
+						<div class="bg-white p-5 line-draw-animation h-100">
+							<div class="line-draw-inner">
+								<img width="78.99" height="78.99" loading="lazy" title="WHO ARE WE"
+									src="https://cryptomize.com/assets/img/cryptomize.png" alt="WHO ARE WE">
+								<h3 class="my-3 display-9">WHO ARE WE</h3>
+								<p class="text-justify">CryptoMize is a Digital Conglomerate with presence in 3 Continents evolving since a decade, having served elite clients such as Governments, Politicians, MNCs, Celebrities and HNIs in 30+ Countries. Our headquarters reside in New Delhi, a vibrant capital of India where we continue to innovate and excel.
+
+
+</p>
+							</div>
+						</div>
+					</div>
+					<!-- Service item -->
+					<div class="col-md-6 col-lg-4 mb-30 text-center ">
+						<div class="bg-white p-5 line-draw-animation h-100">
+							<div class="line-draw-inner">
+								<img loading="lazy" width="78.99" height="78.99" title="WHO WE SERVE"
+									src="https://cryptomize.com/assets/img/why-us/who-we-serve.svg" alt="WHO WE SERVE">
+								<h3 class="my-3 display-9">WHO WE SERVE</h3>
+								<p class="text-justify">We provide an elite set of premium customized services to a
+									selective top-tier clientele such as Governments, Presidential and Prime Minister
+									Offices, Politicians and Major Political Parties, Large Multinational Corporations,
+									Celebrities and High Net-worth Individuals.</p>
+							</div>
+						</div>
+					</div>
+					<!-- Service item -->
+					<div class="col-md-6 col-lg-4 mb-30 text-center ">
+						<div class="bg-white p-5 line-draw-animation h-100">
+							<div class="line-draw-inner">
+								<img loading="lazy" width="78.99" height="78.99" title="WE ARE SUPER PREMIUM"
+									src="https://cryptomize.com/assets/img/why-us/we-are-super-premium.svg"
+									alt="WE ARE SUPER PREMIUM">
+								<h3 class="my-3 display-9">WE ARE SUPER PREMIUM</h3>
+								<p class="text-justify">Our services are ultra-premium and are only available to the elite and a selective set of individuals. It's all because we value quality above quantity, thus we only serve a handful of clients at a time, guaranteeing that we always exceed our clients' expectations, allowing us to produce the best results on time.
+
+</p>
+							</div>
+						</div>
+					</div>
+					<!-- Service item -->
+					<div class="col-md-6 col-lg-4 mb-30 text-center ">
+						<div class="bg-white p-5 line-draw-animation h-100">
+							<div class="line-draw-inner">
+								<img loading="lazy" width="78.99" height="78.99" title="OUR POLICIES"
+									src="https://cryptomize.com/assets/img/why-us/our-policies.svg" alt="OUR POLICIES">
+								<h3 class="my-3 display-9">OUR POLICIES</h3>
+								<p class="text-justify">We maintain absolute non disclosure, secrecy, privacy, security and confidentiality and always sign binding agreements ensuring the same among all parties. Unlike others, we do as we preach, being an Information Security Company we ensure that no confidential information ever goes out where it is not meant to.
+</p>
+							</div>
+						</div>
+					</div>
+					<!-- Service item -->
+					<div class="col-md-6 col-lg-4 mb-30 text-center ">
+						<div class="bg-white p-5 line-draw-animation h-100">
+							<div class="line-draw-inner">
+								<img loading="lazy" width="78.99" height="78.99" title="WHATS SO DIFFERENT"
+									src="https://cryptomize.com/assets/img/why-us/whats-so-different.svg"
+									alt="WHATS SO DIFFERENT">
+
+								<h3 class="my-3 display-9">WHATS SO DIFFERENT</h3>
+								<p class="text-justify">Well imagine Usain Bolt being asked to race with kids, Sachin Tendulkar being asked to play gully cricket, Lamborghini being asked to race a cycle, CryptoMize expertly supporting election victories, crafting flawless perceptions, sceuring communication & eradicating false, negative online mentions. It’s all the same.
+
+								</p>
+							</div>
+						</div>
+					</div>
+					<!-- Service item -->
+					<div class="col-md-6 col-lg-4 mb-30 text-center ">
+						<div class="bg-white p-5 line-draw-animation h-100">
+							<div class="line-draw-inner">
+								<img loading="lazy" width="78.99" height="78.99" title="OUR SECRET RECIPIE"
+									src="https://cryptomize.com/assets/img/why-us/our-secret-recipie.svg"
+									alt="OUR SECRET RECIPIE">
+								<h3 class="my-3 display-9">OUR SECRET RECIPE</h3>
+								<p class="text-justify">Artificial Intelligence & Machine Learning Tools, Assets & Resources which are so powerful that they can only run on robust Data centers, Mainframes & on Supercomputers, which took years in development, learning & improvement. These are the Secret Recipe we use to deliver the best outcome to our clients.
+
+</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- what makes us different -->
+		<section class="solution-area">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6 pt-5">
+						<div class="solution-content">
+							<div class="solution-title">
+
+								<h2 style="font-size: 35px;" class="mb-2 display-7">What Makes Us Different?</h2>
+								<p class="text-dark">CryptoMize offers a full spectrum of elite services derived with
+									preemptive analysis
+									and strategic planning to our clients. We work efficiently with our proficient and
+									proactive team by utilising extraordinary tools.
+
+								</p>
+							</div>
+							<div class="row">
+								<div class="col-lg-12">
+									<div class="single-solution overly-one">
+										<div class="overly-two">
+											<h3>
+												<a href="#">
+													Collaboration with Dignitaries
+												</a>
+											</h3>
+											<p class="text-dark">We forge partnerships with prominent, influential figures worldwide. Embracing a transcendent, visionary mindset affords unique advantages, as our omnipresence enables us to masterfully command and control information on the internet. Experience the power of our far-reaching expertise.</p>
+											<span>01</span>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-12">
+									<div class="single-solution overly-one">
+										<div class="overly-two">
+											<h3>
+												<a href="#">
+													Powerful Team
+												</a>
+											</h3>
+											<p class="text-dark">CryptoMize unites a formidable team of subject matter experts on an empowering platform. Driven by innovation & unwavering commitment to technological advancement, we continuously strive for excellence, serving those who entrust us with their projects. Experience the synergy of passion & expertise.
+											</p>
+											<span>02</span>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-12">
+									<div class="single-solution overly-one">
+										<div class="overly-two">
+											<h3>
+												<a href="#">
+													Triple-Proof Approach
+
+												</a>
+											</h3>
+											<p class="text-dark">Our robust triple-proof approach encompasses comprehensive research, dynamic strategy development, and ironclad information security, ensuring our clients attain their ultimate objectives with unwavering confidence. Experience the power of a meticulously crafted methodology.
+											</p>
+											<span>03</span>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-6 my-auto ">
+
+						<img src="https://cryptomize.com/clients/administration-offices/img/diffrent.svg" loading="lazy"
+							title="What Makes Us Different?" alt="What Makes Us Different?">
+
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Counter START -->
+		<section class="bg-primary rounded overflow-hidden pattern-overlay-7 lazy-background pt-6 pb-2">
+			<div class="container">
+				<div class="row">
+					<!-- Card item START -->
+					<div class="col-12">
+						<div class="row">
+							<!-- Count item -->
+							<div class="col-md-3 col-6 mb-5">
+								<div class="text-center ">
+									<h2 class="purecounter display-6 mb-0 text-white d-inline"
+										data-purecounter-start="0" data-purecounter-end="3000">0</h2>
+									<span class="display-6 mb-0 text-white">+</span>
+									<h3 class="text-white">Coffees</h3>
+								</div>
+							</div>
+							<!-- Count item -->
+							<div class="col-md-3 col-6 mb-5">
+								<div class="text-center">
+									<h2 class="purecounter display-6 mb-0 text-white d-inline"
+										data-purecounter-start="0" data-purecounter-end="300">0</h2>
+									<span class="display-6 mb-0 text-white">+</span>
+									<h3 class="text-white">Clients</h3>
+								</div>
+							</div>
+							<!-- Count item -->
+							<div class="col-md-3 col-6 mb-5">
+								<div class="text-center position-relative">
+									<h2 class="purecounter display-6 mb-0 text-white d-inline"
+										data-purecounter-start="0" data-purecounter-delay="100"
+										data-purecounter-end="30">0</h2>
+									<span class="display-6 mb-0 text-white">+</span>
+									<h3 class="text-white">Countries
+									</h3>
+								</div>
+							</div>
+							<!-- Count item -->
+							<div class="col-md-3 col-6 mb-5">
+								<div class="text-center position-relative">
+									<h2 class="purecounter display-6 mb-0 text-white d-inline"
+										data-purecounter-start="0" data-purecounter-delay="300"
+										data-purecounter-duration="10" data-purecounter-end="3">0</h2>
+									<span class="display-6 mb-0 text-white">+</span>
+									<h3 class=" text-white">Continents
+									</h3>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div> <!-- Row end -->
+			</div>
+		</section>
+
+		<!-- Our Principles -->
+		<section>
+			<div class="container">
+				<div class="row justify-content-center">
+					<!-- Title -->
+					<div class="col-md-12 col-xl-12 text-center mb-4">
+
+						<h2 class="display-6 text-dark-stroke text-primary-shadow">Our Principles</h2>
+						<p class="lead text-dark">These are some of the principles that we strongly believe in, preach
+							and
+							actually follow as well.</p>
+					</div>
+
+					<div class="col-md-12 col-xl-12 mt-5 mt-md-0">
+						<div class="row text-center">
+							<!-- Item -->
+							<div class="col-lg-3  col-sm-6 mb-4">
+								<img loading="lazy" width="75.38" height="75.38" title="Commitments"
+									src="https://cryptomize.com/assets/img/principles/commitments.svg" class="w-25"
+									alt="Commitments">
+								<h3 class="my-3 display-9">Commitments</h3>
+								<p class="text-dark">We clearly commit what we can do, by when can we do it and how we would do it, and
+            then we do it on or before time</p>
+							</div>
+							<!-- Item -->
+							<div class="col-lg-3  col-sm-6 mb-4">
+								<img loading="lazy" width="75.38" height="75.38" title="Confidentiality"
+									src="https://cryptomize.com/assets/img/principles/confidentiality.svg" class="w-25"
+									alt="Confidentiality">
+								<h3 class="my-3 display-9">Confidentiality</h3>
+								<p class="text-dark">We are extremely paranoid about protecting the confidentiality of
+									what we do, for
+									whom and how we do it.</p>
+							</div>
+							<!-- Item -->
+							<div class="col-lg-3  col-sm-6 mb-4">
+								<img loading="lazy" width="75.38" height="75.38" title="Comfortability"
+									src="https://cryptomize.com/assets/img/principles/comfortability.svg" class="w-25"
+									alt="Technology">
+								<h3 class="my-3 display-9">Comfortability</h3>
+								<p class="text-dark">We ensure comfortability of you and your team with ours, which can
+									only come from
+									complete transparency.</p>
+							</div>
+							<!-- Item -->
+							<div class="col-lg-3  col-sm-6 mb-4">
+								<img loading="lazy" width="75.38" height="75.38" title="Capability"
+									src="https://cryptomize.com/assets/img/principles/capability.svg" class="w-25"
+									alt="Analytics">
+								<h3 class="my-3 display-9">Capability</h3>
+								<p class="text-dark">We keep improving our already awesome capabilities by investing all
+									resources at our
+									disposal.</p>
+							</div>
+						</div>
+					</div>
+				</div> <!-- Row END -->
+			</div>
+		</section>
+
+
+
+		<!-- We are hiring -->
+		<section class="bg-primary p-lg-0 h-400px pattern-overlay-2 lazy-background">
+			<div class="row justify-content-center">
+				<div class="d-none d-lg-block col-lg-3 h-400px">
+					<img width="380" height="445" loading="lazy" src="https://cryptomize.com/assets/img/hiring.jpg"
+						alt="We Are Hiring!" title="We Are Hiring!" class="h-100">
+				</div>
+				<div class="col-10 col-lg-9 d-flex flex-column justify-content-center">
+					<div class="text-center">
+						<a href="https://cryptomize.com/careers/" class="display-5 text-white-stroke ff-heading">We Are
+							Hiring!</a>
+					</div>
+					<h2 class="text-white text-center display-8 mb-5">Apply for Internships and Job Openings at
+						CryptoMize
+					</h2>
+					<div class="row justify-content-center">
+						<div class="col-12 col-lg-10 d-flex justify-content-around">
+							<div class="text-white">
+								<p>Are you looking for an Internship?</p>
+								<div class="mx-3 btn-dark p-2 text-center">
+									<a class="btn btn-line btn-dark"
+										href="https://cryptomize.com/careers/internship/">Internships</a>
+								</div>
+							</div>
+							<div class="text-white">
+								<p>Are you looking for a Job?</p>
+								<div class="mx-3 btn-dark p-2 text-center">
+									<a class="btn btn-line btn-dark"
+										href="https://cryptomize.com/careers/job-openings/">Jobs</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+	</main>
+	<!-- **************** MAIN CONTENT END **************** -->
+
+	<!-- Footer START -->
+<footer class="position-relative bg-dark pt-6"><div class=container><div class=row><h2 class="text-white display-8 mb-3">Crypto<span class=text-primary>Mize</span> - A Digital Conglomerate Extraordinaire</h2><p class="col-lg-11 col-sm-12 mb-4 text-justify">CryptoMize is a Digital Conglomerate with presence in 3 Continents evolving for a decade, having served elite clients such as Governments, Politicians, Family Offices, Kingdoms, Monarchies, MNCs, Celebrities and HNIs in over 30 Countries. Over the years, we have garnered & trained a team of Industry Experts that has now been equipped with extremely powerful arsenal of our Proprietary Tools, Assets and Resources that have been years in development, implementation, learning and improvement. Our custom-tailored services, backed by preemptive analysis, actionable intelligence, strategic planning and unparalled experience of handling country level mission-critical projects have contributed significantly to numerous triumphant achievements worldwide.<div class="col-lg-1 d-lg-block d-none text-end"><img alt=cryptomize height=83.47 loading=lazy src=https://cryptomize.com/assets/img/crypto-footer.png width=80.49></div></div><div class="row mt-3"><div class="col-md-6 col-xl-4 mb-5"><div class="bg-dark bg-dark-overlay-4 overflow-hidden px-4 rounded h-100 px-lg-5 py-5 py-lg-5"><h3 class="text-white mb-1 pt-2"style=margin-top:-40px>Contact <span class=text-primary>Us</span></h3><h3 class="text-white mb-1 pt-2"style=margin-top:-25px;margin-bottom:50px></h3><div class="row mb-3"style=margin-top:50px><div class="text-center col-3 text-succes"><img alt=contact height=42.36 loading=lazy src=https://cryptomize.com/assets/img/footer/hr.svg width=42.36></div><div class="col-9 content"><a href=mailto:hr@cryptomize.in class="text-white m-0 title">hr@cryptomize.in</a><p class="m-0 sub-title">For Recruitment Related Queries</div></div><div class="row mb-3"><div class="text-center col-3 text-info"><img alt=call height=42.36 loading=lazy src=https://cryptomize.com/assets/img/footer/call.svg width=42.36></div><div class="col-9 content"><div class="text-white m-0 title">(+91) 9999 455 667</div><p class="m-0 sub-title">Exclusively Dedicated for Clients</div></div><div class="row mb-3"><div class="text-center col-3 text-warning"><img alt=email height=42.36 loading=lazy src=https://cryptomize.com/assets/img/footer/email.svg width=42.36></div><div class="col-9 content"><a href=mailto:contact@cryptomize.in class="text-white m-0 title">contact@cryptomize.in</a><p class="m-0 sub-title">Products and Services Enquiry</div></div></div></div><div class="col-md-6 col-xl-4 mb-5"><div class="row bg-dark bg-dark-overlay-4 h-100 overflow-hidden px-4 px-lg-5 py-5 py-lg-6 rounded"><h3 class="text-white mb-1 pt-2"style=margin-top:-65px>Important <span class=text-primary>Links</span></h3><h3 class="text-white mb-1 pt-2"style=margin-top:-25px;margin-bottom:50px></h3><div class="flex-column align-items-center col-6 d-flex"><ul class="flex-column nav text-primary-hover"><li class=nav-item><a href=https://cryptomize.com/about-us/ class="nav-link pt-0"><svg class="text-primary fw-bolder icon me-1"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-angle-right-thick></use></svg>About</a><li class=nav-item><a href=https://lithvik.com/ class=nav-link><svg class="text-primary fw-bolder icon me-1"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-angle-right-thick></use></svg>Lithvik</a><li class=nav-item><a href=https://politics.cm/ class=nav-link><svg class="text-primary fw-bolder icon me-1"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-angle-right-thick></use></svg>Politics</a><li class=nav-item><a href=https://cryptomize.com/clients/ class=nav-link><svg class="text-primary fw-bolder icon me-1"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-angle-right-thick></use></svg>Clients</a></ul></div><div class="flex-column align-items-center col-6 d-flex"><ul class="flex-column nav text-primary-hover"><li class=nav-item><a href=https://cryptomize.com/cryptomail/ class="nav-link pt-0"><svg class="text-primary fw-bolder icon me-1"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-angle-right-thick></use></svg>CryptoMail</a><li class=nav-item><a href=https://cryptomize.com/cryptodrive/ class=nav-link><svg class="text-primary fw-bolder icon me-1"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-angle-right-thick></use></svg>CryptoDrive</a><li class=nav-item><a href=https://cryptomize.com/cryptobox/ class=nav-link><svg class="text-primary fw-bolder icon me-1"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-angle-right-thick></use></svg>CryptoBox</a><li class=nav-item><a href=https://cryptomize.com/cryptorouter/ class=nav-link><svg class="text-primary fw-bolder icon me-1"><use xlink:href=https://cryptomize.com/assets/icons/home/symbol-defs.svg#icon-angle-right-thick></use></svg>CryptoRouter</a></ul></div></div></div><div class="col-md-12 col-xl-4 mb-5"><div class="bg-dark bg-dark-overlay-4 overflow-hidden px-4 rounded h-100 py-2"><form action=https://careers.cryptomize.com/contact-us/ class="contact-form form-line rounded"enctype=multipart/form-data id=gform_1 method=post><h3 class="text-white mb-1 pt-2"style=margin-bottom:50px>Get In <span class=text-primary>Touch</span></h3><div class=row><div class=col-12><div class="alert alert-success contact-msg"style=display:none role=alert>Your message was sent successfully.</div></div></div><div class=row><div class=col-md-12><div class="mb-3 position-relative"><input name=input_1 class="text-white form-control"id=input_1_1 aria-required=true aria-invalid=false style=background-color:#0f0f11 placeholder=Name> <span class=focus-border></span></div></div><div class=col-md-6><div class="mb-3 position-relative"><input name=input_3 class="text-white form-control"type=email id=input_1_3 aria-required=true aria-invalid=false placeholder=E-mail style=background-color:#0f0f11> <span class=focus-border></span></div></div><div class=col-md-6><div class="mb-3 position-relative"><input name=input_9 class="text-white form-control"type=tel id=input_1_9 aria-required=true aria-invalid=false placeholder=Phone style=background-color:#0f0f11> <span class=focus-border></span></div></div><div class=col-md-12><div class="mb-3 position-relative"><textarea aria-invalid=false aria-required=true class="text-white form-control"cols=40 id=input_1_10 name=input_10 placeholder=Message rows=3 style=background-color:#0f0f11></textarea> <span class=focus-border></span></div></div><div class="col-md-12 text-start"><button class="btn btn-line btn-primary"id=gform_submit_button_1 onclick='if(window.gf_submitting_1)return!1;jQuery("#gform_1")[0].checkValidity&&!jQuery("#gform_1")[0].checkValidity()||(window.gf_submitting_1=!0)'onkeypress='if(13==event.keyCode){if(window.gf_submitting_1)return!1;jQuery("#gform_1")[0].checkValidity&&!jQuery("#gform_1")[0].checkValidity()||(window.gf_submitting_1=!0),jQuery("#gform_1").trigger("submit",[!0])}'type=submit value=Submit>SUBMIT</button> <input name=is_submit_1 class=gform_hidden type=hidden value=1> <input name=gform_submit class=gform_hidden type=hidden value=1> <input name=gform_unique_id class=gform_hidden type=hidden> <input name=state_1 class=gform_hidden type=hidden value="WyJbXSIsImZiZDgyYjI0ZjBhYTdiYjU4MDI2ZmQ0MGIxNzEyNWExIl0="> <input name=gform_target_page_number_1 class=gform_hidden type=hidden value=0 id=gform_target_page_number_1> <input name=gform_source_page_number_1 class=gform_hidden type=hidden value=1 id=gform_source_page_number_1> <input name=gform_field_values type=hidden></div></div></form></div></div></div></div><div class="position-relative bg-dark bg-dark-overlay-4 col-md-12 overflow-hidden px-4 px-lg-5 py-4 rounded z-index-9"><div class="row justify-content-center"><div class="text-center col-lg-5"><a href="https://www.linkedin.com/in/CryptoMize"><img title="LinkedIn" src="https://cryptomize.com/assets/social/linkedin.svg" alt="Lithvik Sharma - LinkedIn" width="40">  </a> &nbsp;  <a href="https://www.instagram.com/CryptoMize"><img title="Instagram" src="https://cryptomize.com/assets/social/instagram.svg" alt="Lithvik Sharma - Instagram" width="40">  </a> &nbsp;  <a href="https://www.facebook.com/Lithvik.Sharma"><img title="Facebook" src="https://cryptomize.com/assets/social/facebook.svg" alt="Lithvik Sharma - Facebook" width="40">  </a> &nbsp;  <a href="https://twitter.com/CryptoMize"><img title="Twiiter" src="https://cryptomize.com/assets/social/twitter.svg" alt="Lithvik Sharma - Twitter" width="40">  </a> &nbsp;  <a href="https://www.youtube.com/@LithvikSharma"><img title="Youtube" src="https://cryptomize.com/assets/social/youtube.svg" alt="Lithvik Sharma - Youtube" width="40">  </a> &nbsp;  <a href="https://www.reddit.com/user/CryptoMize"><img title="Reddit" src="https://cryptomize.com/assets/social/reddit.svg" alt="Lithvik Sharma - Reddit" width="40">  </a> &nbsp;</span></strong></div></div></div></footer>	<!-- Back to top -->	<!-- Back to top -->	<!-- Back to top -->	<!-- Back to top -->
+	<div class="back-top">
+		<div class="scroll-line"></div>
+		<span class="scoll-text">Go Up</span>
+	</div>
+
+	<!-- JS libraries, plugins and custom scripts -->
+
+	<!-- Bootstrap JS -->
+	<script src="https://cryptomize.com/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js" defer></script>
+
+	<!-- Vendors -->
+	<script src="https://cryptomize.com/assets/vendor/purecounterjs/dist/purecounter_vanilla.js" defer></script>
+
+	<!-- Template Functions -->
+	<script src="https://cryptomize.com/assets/js/functions.js" defer></script>
+
+	
+
+	<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	   "@type": "organization",
+	  "address": {
+		"@type": "PostalAddress",
+		"addressLocality": "NewDelhi",
+		"addressRegion": "Delhi",
+		"postalCode": "110074",
+		"streetAddress": "CDR Building Chhatarpur Delhi"
+	  },
+	  "description": "Contact CryptoMize, A Digital Conglomerate that has served Governments, Politicians, MNCs, Celebrities & HNIs in 30+ Countries over a Decade",
+	  "name": "CryptoMize",
+	  "founder": "LithvikSharma",
+	  "foundingLocation":"NewDelhi",
+	  "foundingDate": "10-10-10",
+	  "telephone": "+91-9999455667",
+	  "email": "contact@cryptomize.in",
+       "image": "https://cryptomize.com/assets/img/logo-black.png",
+	  "url": "https://cryptomize.com"
+
+	}			
+	</script>
+
+</body>
+
+</html>

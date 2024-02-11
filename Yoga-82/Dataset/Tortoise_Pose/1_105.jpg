@@ -1,0 +1,1487 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<meta name='robots' content='max-image-preview:large' />
+    <!-- Start VWO Common Smartcode -->
+    <script data-cfasync="false" type='text/javascript'>
+        var _vwo_clicks = 10;
+    </script>
+    <!-- End VWO Common Smartcode -->
+        <!-- Start VWO Async Smartcode -->
+    <script data-cfasync="false" type='text/javascript'>
+    // Fix: wp-rocket (application/ld+json)
+    window._vwo_code = window._vwo_code || (function(){
+    var account_id= 415537,
+    settings_tolerance= 2000,
+    library_tolerance= 2500,
+    use_existing_jquery= false,
+    is_spa=1,
+    hide_element='body',
+    /* DO NOT EDIT BELOW THIS LINE */
+    f=false,d=document,code={use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){
+    window.settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b=hide_element?hide_element+'{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}':'',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&f='+(+is_spa)+'&r='+Math.random());return settings_timer; }};window._vwo_settings_timer = code.init(); return code; }());
+    </script>
+    <!-- End VWO Async Smartcode -->
+    
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO Premium plugin v15.8.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>PortalYogi - Studio Jogi Online | Praktykuj jogę w domu</title>
+	<meta name="description" content="PortalYogi to największe w Polsce‎ Studio jogi online. Praktyka jogi w domu. Ponad 600 sesji jogi, medytacji i pilatesu. Dołącz i sprawdź!" />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://portalyogi.pl/" />
+	<meta property="og:locale" content="pl_PL" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="PortalYogi - Studio Jogi Online | Praktykuj jogę w domu" />
+	<meta property="og:description" content="Praktykuj jogę gdzie chcesz i kiedy chcesz - w stylu na który akurat masz ochotę. Ciesz się 24-godzinnym dostępem do ponad 600 sesji i wyzwań z najlepszymi polskimi nauczycielami." />
+	<meta property="og:url" content="https://portalyogi.pl/" />
+	<meta property="og:site_name" content="PortalYogi" />
+	<meta property="article:publisher" content="https://www.facebook.com/portalyogipl/" />
+	<meta property="article:modified_time" content="2024-01-03T08:33:59+00:00" />
+	<meta property="og:image" content="https://portalyogi.pl/wp-content/uploads/2022/11/IMG_7301-1-scaled.jpg" />
+	<meta property="og:image:width" content="2048" />
+	<meta property="og:image:height" content="1366" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Szacowany czas czytania">
+	<meta name="twitter:data1" content="1 minuta">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://portalyogi.pl/#website","url":"https://portalyogi.pl/","name":"PortalYogi","description":"PortalYogi | Studio Jogi Online | Praktykuj jog\u0119 w domu","potentialAction":[{"@type":"SearchAction","target":"https://portalyogi.pl/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"pl-PL"},{"@type":"ImageObject","@id":"https://portalyogi.pl/#primaryimage","inLanguage":"pl-PL","url":"https://portalyogi.pl/wp-content/uploads/2022/11/IMG_7301-1-scaled.jpg","width":2048,"height":1366,"caption":"PortalYogi studio joga medytacja pilates. Do\u0142\u0105cz"},{"@type":["WebPage","CollectionPage"],"@id":"https://portalyogi.pl/#webpage","url":"https://portalyogi.pl/","name":"PortalYogi - Studio Jogi Online | Praktykuj jog\u0119 w domu","isPartOf":{"@id":"https://portalyogi.pl/#website"},"primaryImageOfPage":{"@id":"https://portalyogi.pl/#primaryimage"},"datePublished":"2018-09-26T10:04:17+00:00","dateModified":"2024-01-03T08:33:59+00:00","description":"PortalYogi to najwi\u0119ksze w Polsce\u200e Studio jogi online. Praktyka jogi w domu. Ponad 600 sesji jogi, medytacji i pilatesu. Do\u0142\u0105cz i sprawd\u017a!","breadcrumb":{"@id":"https://portalyogi.pl/#breadcrumb"},"inLanguage":"pl-PL","potentialAction":[{"@type":"ReadAction","target":["https://portalyogi.pl/"]}]},{"@type":"BreadcrumbList","@id":"https://portalyogi.pl/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://portalyogi.pl/","url":"https://portalyogi.pl/","name":"Strona g\u0142\u00f3wna"}}]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//widgets.getsitecontrol.com' />
+<link rel='dns-prefetch' href='//a.omappapi.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='stylesheet' id='mec-select2-style-css' href='https://portalyogi.pl/wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.min.css?ver=5.22.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-font-icons-css' href='https://portalyogi.pl/wp-content/plugins/modern-events-calendar-lite/assets/css/iconfonts.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-frontend-style-css' href='https://portalyogi.pl/wp-content/plugins/modern-events-calendar-lite/assets/css/frontend.min.css?ver=5.22.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-tooltip-style-css' href='https://portalyogi.pl/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltip.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-tooltip-shadow-style-css' href='https://portalyogi.pl/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltipster-sideTip-shadow.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='featherlight-css' href='https://portalyogi.pl/wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlight.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-google-fonts-css' href='//fonts.googleapis.com/css?family=Montserrat%3A400%2C700%7CRoboto%3A100%2C300%2C400%2C700&#038;ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-lity-style-css' href='https://portalyogi.pl/wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://portalyogi.pl/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='activecampaign-form-block-css' href='https://portalyogi.pl/wp-content/plugins/activecampaign-subscription-forms/activecampaign-form-block/build/style-index.css?ver=1678009618' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://portalyogi.pl/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='cookie-law-info-css' href='https://portalyogi.pl/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.0.8' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css' href='https://portalyogi.pl/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.0.8' type='text/css' media='all' />
+<link rel='stylesheet' id='default-css' href='https://portalyogi.pl/wp-content/themes/portal-yogi-2022/scss/style.css?v=3.0.6&#038;ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gc-custom-css-css' href='https://portalyogi.pl/wp-content/themes/portal-yogi-2022/scss/custom-styles-gc.css?v=3.1.42&#038;ver=6.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://portalyogi.pl/wp-includes/js/jquery/jquery.js' id='jquery-js'></script>
+<script type='text/javascript' id='mec-frontend-script-js-extra'>
+/* <![CDATA[ */
+var mecdata = {"day":"dzie\u0144","days":"dni","hour":"godzina","hours":"godzin","minute":"minuta","minutes":"minut","second":"sekunda","seconds":"sekund","elementor_edit_mode":"no","recapcha_key":"","ajax_url":"https:\/\/portalyogi.pl\/wp-admin\/admin-ajax.php","fes_nonce":"752b2ccdbb","current_year":"2024","current_month":"01","datepicker_format":"yy-mm-dd&Y-m-d"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://portalyogi.pl/wp-content/plugins/modern-events-calendar-lite/assets/js/frontend.js?ver=5.22.1' id='mec-frontend-script-js'></script>
+<script type='text/javascript' src='https://portalyogi.pl/wp-content/plugins/modern-events-calendar-lite/assets/js/events.js?ver=5.22.1' id='mec-events-script-js'></script>
+<script type='text/javascript' id='cookie-law-info-js-extra'>
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#04a5ba","button_1_button_hover":"#038495","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#dedfe0","button_3_button_hover":"#b2b2b3","button_3_link_colour":"#333333","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#dedfe0","button_4_button_hover":"#b2b2b3","button_4_link_colour":"#333333","button_4_as_button":"1","button_7_button_colour":"#04a5ba","button_7_button_hover":"#038495","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https:\/\/portalyogi.pl\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://portalyogi.pl/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.0.8' id='cookie-law-info-js'></script>
+<link rel="https://api.w.org/" href="https://portalyogi.pl/wp-json/" /><link rel="alternate" type="application/json" href="https://portalyogi.pl/wp-json/wp/v2/pages/199" /><link rel='shortlink' href='https://portalyogi.pl/' />
+<link rel="alternate" type="application/json+oembed" href="https://portalyogi.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fportalyogi.pl%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://portalyogi.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fportalyogi.pl%2F&#038;format=xml" />
+<script type="text/plain" data-cli-class="cli-blocker-script"  data-cli-script-type="advertisement" data-cli-block="true"  data-cli-element-position="head">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PLMV8W');
+</script>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to manual -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var dataLayer_content = {"pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"thefatcat"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TKB4KRH');
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel="apple-touch-icon" sizes="180x180" href="/wp-content/uploads/fbrfg/apple-touch-icon.png?v=4">
+<link rel="icon" type="image/png" sizes="32x32" href="/wp-content/uploads/fbrfg/favicon-32x32.png?v=4">
+<link rel="icon" type="image/png" sizes="16x16" href="/wp-content/uploads/fbrfg/favicon-16x16.png?v=4">
+<link rel="manifest" href="/wp-content/uploads/fbrfg/site.webmanifest?v=4">
+<link rel="mask-icon" href="/wp-content/uploads/fbrfg/safari-pinned-tab.svg?v=4" color="#5bbad5">
+<link rel="shortcut icon" href="/wp-content/uploads/fbrfg/favicon.ico?v=4">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-config" content="/wp-content/uploads/fbrfg/browserconfig.xml?v=4">
+<meta name="theme-color" content="#ffffff"><link rel="icon" href="https://portalyogi.pl/wp-content/uploads/2016/09/cropped-logo-2-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://portalyogi.pl/wp-content/uploads/2016/09/cropped-logo-2-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://portalyogi.pl/wp-content/uploads/2016/09/cropped-logo-2-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://portalyogi.pl/wp-content/uploads/2016/09/cropped-logo-2-270x270.jpg" />
+    <meta name="google-site-verification" content="DvvxdjJwa6a-KoTpa7oNI-Ll_lbX_WouxqQi-YUNZiY" />
+
+<!-- Hotjar Tracking Code for https://www.portalyogi.pl/ -->
+    <script>
+(function(h,o,t,j,a,r){
+    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:2965058,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+
+<script>
+window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+</script></head>
+<body class="home page-template page-template-template-hero-header page-template-template-hero-header-php page page-id-199">
+
+<!-- GTM Container placement set to manual -->
+<!-- Google Tag Manager (noscript) -->
+				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKB4KRH" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><div id="fb-root"></div>
+<script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id))
+                return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.1';
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+</script>
+<script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
+<header class="page-header page-header--white">
+  <div class="container position-relative">
+    <form class="search-input is-hidden" action="https://portalyogi.pl">
+      <svg class="search-input__icon" fill="none" height="25" viewBox="0 0 24 25" width="24" xmlns="http://www.w3.org/2000/svg">
+        <path d="m20.7071 19.7929c.3905.3905.3905 1.0237 0 1.4142s-1.0237.3905-1.4142 0zm-15.7071-9.2929c0 2.7614 2.23858 5 5 5v2c-3.86599 0-7-3.134-7-7zm10 0c0-2.76142-2.2386-5-5-5v-2c3.866 0 7 3.13401 7 7zm-5-5c-2.76142 0-5 2.23858-5 5h-2c0-3.86599 3.13401-7 7-7zm4.9497 8.5355 5.7574 5.7574-1.4142 1.4142-5.7574-5.7574zm-4.9497 1.4645c1.381 0 2.6296-.5585 3.5355-1.4645l1.4142 1.4142c-1.2656 1.2657-3.017 2.0503-4.9497 2.0503zm3.5355-1.4645c.906-.9059 1.4645-2.1545 1.4645-3.5355h2c0 1.9327-.7846 3.6841-2.0503 4.9497z"
+              fill="#fff"/>
+      </svg>
+      <input type="text" class="search-input__input" name="s" id="s"/>
+      <button class="search-input__submit " class="submit">Szukaj</button>
+    </form>
+    <button class="search-input-close is-hidden"></button>
+    <div class="row justify-content-between align-items-center">
+      <div class="col col-auto hidden-lg hidden-xl no-padding-right">
+        <div class="page-header__right-side">
+                          <button class="hamburger hamburger--squeeze menu-opener" type="button">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+              </button>
+                    </div>
+      </div>
+      <div class="col col-auto md-no-padding-right">
+        <div class="page-header__left-side">
+          <a class="page-logo" href="https://portalyogi.pl">
+              <svg version="1.1" id="Warstwa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve"  width="66" height="66">
+<g>
+  <path class="st7" d="M500,25c64.14,0,126.34,12.56,184.88,37.32c56.56,23.92,107.36,58.18,150.99,101.81
+		c43.63,43.63,77.88,94.43,101.81,150.99C962.44,373.66,975,435.86,975,500s-12.56,126.34-37.32,184.88
+		c-23.92,56.56-58.18,107.36-101.81,150.99c-43.63,43.63-94.43,77.88-150.99,101.81C626.34,962.44,564.14,975,500,975
+		s-126.34-12.56-184.88-37.32c-56.56-23.92-107.36-58.18-150.99-101.81c-43.63-43.63-77.88-94.43-101.81-150.99
+		C37.56,626.34,25,564.14,25,500s12.56-126.34,37.32-184.88c23.92-56.56,58.18-107.36,101.81-150.99
+		c43.63-43.63,94.43-77.88,150.99-101.81C373.66,37.56,435.86,25,500,25 M500,0C223.86,0,0,223.86,0,500s223.86,500,500,500
+		s500-223.86,500-500S776.14,0,500,0L500,0z"/>
+</g>
+  <g>
+    <g>
+      <path class="st7" d="M146.32,404.36v-17.49h48.84c5.83,0,10.45-1.57,13.86-4.7c3.41-3.14,5.12-7.51,5.12-13.12
+			c0-5.83-1.71-10.28-5.12-13.37c-3.41-3.08-8.03-4.62-13.86-4.62h-46.2v87.94h-21.95V332.25h66.17c5.94,0,11.52,0.72,16.75,2.15
+			c5.22,1.43,9.79,3.63,13.7,6.6c3.9,2.97,6.96,6.76,9.16,11.38c2.2,4.62,3.3,10.18,3.3,16.67c0,6.38-1.1,11.83-3.3,16.33
+			c-2.2,4.51-5.25,8.17-9.16,10.97c-3.91,2.8-8.47,4.84-13.7,6.1c-5.23,1.27-10.81,1.9-16.75,1.9H146.32z"/>
+      <path class="st7" d="M316.94,441.15c-14.19,0-26.32-2.23-36.38-6.68c-10.07-4.46-17.77-10.81-23.1-19.06
+			c-5.34-8.25-8-18.15-8-29.7c0-11.66,2.67-21.62,8-29.87c5.33-8.25,13.04-14.6,23.1-19.06c10.06-4.46,22.19-6.68,36.38-6.68
+			c14.3,0,26.45,2.23,36.46,6.68c10.01,4.45,17.68,10.81,23.02,19.06c5.33,8.25,8,18.21,8,29.87c0,11.55-2.67,21.45-8,29.7
+			c-5.34,8.25-13.01,14.6-23.02,19.06C343.39,438.92,331.23,441.15,316.94,441.15z M316.94,422.18c8.8,0,16.53-1.32,23.18-3.96
+			c6.65-2.64,11.88-6.65,15.68-12.04c3.79-5.39,5.69-12.21,5.69-20.46s-1.9-15.07-5.69-20.46c-3.79-5.39-9.02-9.43-15.68-12.13
+			c-6.66-2.69-14.38-4.04-23.18-4.04c-8.69,0-16.45,1.35-23.27,4.04c-6.82,2.7-12.16,6.74-16,12.13
+			c-3.85,5.39-5.78,12.21-5.78,20.46s1.92,15.07,5.78,20.46c3.85,5.39,9.18,9.4,16,12.04C300.49,420.86,308.24,422.18,316.94,422.18
+			z"/>
+      <path class="st7" d="M405.87,439.01V332.25h72.43c8.25,0,15.43,1.13,21.53,3.38c6.1,2.26,10.86,5.77,14.27,10.56
+			c3.41,4.79,5.11,10.92,5.11,18.4c0,5.06-0.88,9.35-2.64,12.87c-1.76,3.52-4.21,6.38-7.34,8.58c-3.13,2.2-6.74,3.88-10.81,5.03
+			c-4.07,1.16-8.41,1.9-13.03,2.23l-2.31-1.32c7.7,0.11,14.03,0.74,18.98,1.9c4.95,1.15,8.66,3.25,11.14,6.27
+			c2.48,3.03,3.71,7.51,3.71,13.45v25.41h-21.95v-23.92c0-4.07-0.72-7.23-2.14-9.49c-1.43-2.25-3.99-3.82-7.67-4.7
+			c-3.69-0.88-8.99-1.32-15.92-1.32h-41.42v39.44H405.87z M427.81,382.41h50.49c6.16,0,10.86-1.48,14.11-4.45
+			c3.24-2.97,4.87-6.98,4.87-12.05c0-4.84-1.62-8.52-4.87-11.05c-3.25-2.53-7.95-3.79-14.11-3.79h-50.49V382.41z"/>
+      <path class="st7" d="M532.75,332.25h112.53v18.31H532.75V332.25z M578.13,348.26h21.95v90.75h-21.95V348.26z"/>
+      <path class="st7" d="M639.21,439.01l50.16-106.75h23.76l50.66,106.75h-23.92l-43.89-96.19h10.56l-43.56,96.19H639.21z
+			 M665.77,415.74v-18.31h70.62v18.31H665.77z"/>
+      <path class="st7" d="M804.34,332.25v88.44h70.95v18.31H782.4V332.25H804.34z"/>
+    </g>
+    <g>
+      <path class="st7" d="M317.06,489.05l-77.82,121.38v55.9h-36.72v-55.9l-77.82-121.38h42.2l65.49,106.04h-21.92l64.39-106.04H317.06
+			z"/>
+      <path class="st7" d="M429.12,669.89c-23.56,0-43.7-3.7-60.42-11.1s-29.5-17.95-38.36-31.65c-8.86-13.7-13.29-30.14-13.29-49.32
+			c0-19.36,4.43-35.89,13.29-49.59c8.86-13.7,21.65-24.25,38.36-31.65s36.85-11.1,60.42-11.1c23.74,0,43.93,3.7,60.55,11.1
+			c16.62,7.4,29.36,17.95,38.22,31.65c8.86,13.7,13.29,30.23,13.29,49.59c0,19.18-4.43,35.62-13.29,49.32
+			c-8.86,13.7-21.6,24.25-38.22,31.65C473.05,666.2,452.87,669.89,429.12,669.89z M429.12,638.38c14.61,0,27.44-2.19,38.5-6.58
+			c11.05-4.38,19.73-11.05,26.03-20c6.3-8.95,9.45-20.28,9.45-33.98s-3.15-25.02-9.45-33.98c-6.3-8.95-14.98-15.66-26.03-20.14
+			c-11.05-4.47-23.88-6.71-38.5-6.71c-14.43,0-27.31,2.24-38.63,6.71c-11.33,4.48-20.19,11.19-26.58,20.14
+			c-6.4,8.95-9.59,20.28-9.59,33.98s3.19,25.03,9.59,33.98c6.39,8.95,15.25,15.62,26.58,20
+			C401.81,636.19,414.69,638.38,429.12,638.38z"/>
+      <path class="st7" d="M682.3,669.89c-16.44,0-31.28-1.92-44.53-5.75c-13.25-3.84-24.66-9.59-34.25-17.26s-16.95-17.17-22.06-28.5
+			c-5.12-11.32-7.67-24.39-7.67-39.18c0-14.98,2.69-28.27,8.08-39.87c5.39-11.6,13.06-21.41,23.02-29.46
+			c9.95-8.04,21.83-14.11,35.62-18.22c13.79-4.11,29.09-6.17,45.89-6.17c19.91,0,37.08,2.79,51.51,8.36
+			c14.43,5.57,25.8,13.38,34.11,23.43c8.31,10.05,13.02,22.01,14.11,35.89h-35.07c-2.38-7.3-6.26-13.65-11.64-19.04
+			c-5.39-5.39-12.47-9.59-21.24-12.6S698.83,517,686.41,517c-15.89,0-29.46,2.56-40.69,7.67c-11.23,5.12-19.78,12.33-25.62,21.65
+			c-5.85,9.32-8.77,20.28-8.77,32.88c0,12.24,2.56,22.79,7.67,31.65c5.11,8.86,13.01,15.67,23.7,20.41
+			c10.69,4.75,24.34,7.12,40.96,7.12c12.78,0,24.06-1.69,33.84-5.07c9.77-3.38,17.95-7.95,24.52-13.7
+			c6.58-5.75,11.23-12.19,13.97-19.32l14.25-5.21c-2.38,23.56-11.28,41.92-26.72,55.07C728.1,663.32,707.69,669.89,682.3,669.89z
+			 M760.94,666.33c0-5.66,0.36-12.19,1.1-19.59c0.73-7.4,1.64-14.89,2.74-22.47c1.1-7.58,2.1-14.56,3.01-20.96h-81.1v-23.29h105.76
+			v86.31H760.94z"/>
+      <path class="st7" d="M838.85,489.05h36.44v177.28h-36.44V489.05z"/>
+    </g>
+  </g>
+</svg>
+          </a>
+          <nav class="page-header__nav hide-for-search hidden-md hidden-sm hidden-xs">
+                            <div class="menu-menu-glowne-container"><ul id="menu-menu-glowne" class="desktop-menu"><li id="menu-item-33824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33824"><a href="https://portalyogi.pl/nasze-zajecia/">Zajęcia</a></li>
+<li id="menu-item-41261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41261"><a href="https://portalyogi.pl/nauczyciele/">Nauczyciele</a></li>
+<li id="menu-item-33175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33175"><a href="https://portalyogi.pl/wyzwania/">Wyzwania</a></li>
+<li id="menu-item-39834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39834"><a href="https://portalyogi.pl/plan-praktyki/">Plan Praktyki</a></li>
+<li id="menu-item-33176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33176"><a href="https://portalyogi.pl/kalendarz-wydarzen/">Events</a></li>
+<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="https://www.portalyogi.pl/blog/">Blog</a></li>
+<li id="menu-item-40362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40362"><a href="https://portalyogi.pl/newsletter/">Newsletter</a></li>
+</ul></div>                      </nav>
+        </div>
+      </div>
+      <div class="col col-auto hidden-md hidden-sm hidden-xs no-padding-left">
+        <div class="page-header__right-side hide-for-search">
+                      <button class="page-header__search open-search">
+            <svg fill="none" height="25" viewBox="0 0 24 25" width="24" xmlns="http://www.w3.org/2000/svg">
+              <path d="m20.7071 19.7929c.3905.3905.3905 1.0237 0 1.4142s-1.0237.3905-1.4142 0zm-15.7071-9.2929c0 2.7614 2.23858 5 5 5v2c-3.86599 0-7-3.134-7-7zm10 0c0-2.76142-2.2386-5-5-5v-2c3.866 0 7 3.13401 7 7zm-5-5c-2.76142 0-5 2.23858-5 5h-2c0-3.86599 3.13401-7 7-7zm4.9497 8.5355 5.7574 5.7574-1.4142 1.4142-5.7574-5.7574zm-4.9497 1.4645c1.381 0 2.6296-.5585 3.5355-1.4645l1.4142 1.4142c-1.2656 1.2657-3.017 2.0503-4.9497 2.0503zm3.5355-1.4645c.906-.9059 1.4645-2.1545 1.4645-3.5355h2c0 1.9327-.7846 3.6841-2.0503 4.9497z"
+                    fill="#fff"/>
+            </svg>
+          </button>
+          <a class="button button--small button--outlined margin-right-10" href="https://nowy.portalyogi.pl/login">
+            Zaloguj się
+          </a>
+          <a class="button button--small" href="https://portalyogi.pl/dolacz-do-studia-portalyogi/">
+            Dołącz do nas
+          </a>
+                  </div>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="mobile-menu" style="display: none;">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-sm-8 col-md-6">
+        <div class="mobile-menu__inner">
+          <div class="mobile-menu__top">
+            <form class="search-input search-input-mobile" action="https://portalyogi.pl" style="display: none;">
+              <svg class="search-input__icon" fill="none" height="25" viewBox="0 0 24 25" width="24" xmlns="http://www.w3.org/2000/svg">
+                <path d="m20.7071 19.7929c.3905.3905.3905 1.0237 0 1.4142s-1.0237.3905-1.4142 0zm-15.7071-9.2929c0 2.7614 2.23858 5 5 5v2c-3.86599 0-7-3.134-7-7zm10 0c0-2.76142-2.2386-5-5-5v-2c3.866 0 7 3.13401 7 7zm-5-5c-2.76142 0-5 2.23858-5 5h-2c0-3.86599 3.13401-7 7-7zm4.9497 8.5355 5.7574 5.7574-1.4142 1.4142-5.7574-5.7574zm-4.9497 1.4645c1.381 0 2.6296-.5585 3.5355-1.4645l1.4142 1.4142c-1.2656 1.2657-3.017 2.0503-4.9497 2.0503zm3.5355-1.4645c.906-.9059 1.4645-2.1545 1.4645-3.5355h2c0 1.9327-.7846 3.6841-2.0503 4.9497z"
+                      fill="#fff"/>
+              </svg>
+              <input type="text" class="search-input__input" name="s" id="s"/>
+              <button class="search-input__submit " class="submit">Szukaj</button>
+            </form>
+            <div class="hide-for-mobile-search">
+                <div class="menu-menu-glowne-container"><ul id="menu-menu-glowne-1" class="mobile-menu-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33824"><a href="https://portalyogi.pl/nasze-zajecia/">Zajęcia</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41261"><a href="https://portalyogi.pl/nauczyciele/">Nauczyciele</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33175"><a href="https://portalyogi.pl/wyzwania/">Wyzwania</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39834"><a href="https://portalyogi.pl/plan-praktyki/">Plan Praktyki</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33176"><a href="https://portalyogi.pl/kalendarz-wydarzen/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="https://www.portalyogi.pl/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40362"><a href="https://portalyogi.pl/newsletter/">Newsletter</a></li>
+</ul></div>              <button class="page-header__search open-mobile-search no-margin-right">
+                <svg fill="none" height="25" viewBox="0 0 24 25" width="24" xmlns="http://www.w3.org/2000/svg">
+                  <path d="m20.7071 19.7929c.3905.3905.3905 1.0237 0 1.4142s-1.0237.3905-1.4142 0zm-15.7071-9.2929c0 2.7614 2.23858 5 5 5v2c-3.86599 0-7-3.134-7-7zm10 0c0-2.76142-2.2386-5-5-5v-2c3.866 0 7 3.13401 7 7zm-5-5c-2.76142 0-5 2.23858-5 5h-2c0-3.86599 3.13401-7 7-7zm4.9497 8.5355 5.7574 5.7574-1.4142 1.4142-5.7574-5.7574zm-4.9497 1.4645c1.381 0 2.6296-.5585 3.5355-1.4645l1.4142 1.4142c-1.2656 1.2657-3.017 2.0503-4.9497 2.0503zm3.5355-1.4645c.906-.9059 1.4645-2.1545 1.4645-3.5355h2c0 1.9327-.7846 3.6841-2.0503 4.9497z"
+                        fill="#fff"/>
+                </svg>
+              </button>
+            </div>
+          </div>
+          <div class="mobile-menu__bottom">
+            <div class="hide-for-mobile-search">
+              <a class="button button--small width-100 margin-bottom-20" href="https://portalyogi.pl/dolacz-do-studia-portalyogi/">
+                Dołącz do studia
+              </a>
+              <a class="button button--small button--outlined width-100" href="https://nowy.portalyogi.pl/login">
+                Zaloguj się
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="page-wrapper">
+<section class="hero-header sub-section background-brand watch-for-animate">
+  <div class="hero-header__background">
+              <div class="hero-header__background-circle">
+            <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/circle-on-green.png"  srcset="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/circle-on-green.png 1x, https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/circle-on-green@2x.png 2x" alt="color circle"loading="lazy" />        </div>
+        </div>
+
+  <div class="hero-header__content">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-12 col-lg-6">
+          <div class="hero-header__content">
+              <div class="text-content"><div class="module-header">
+  <h1 class="h1"><p><em>Największe Studio</em><br />
+<strong>jogi, medytacji</strong><br />
+<em>i pilatesu online</em></p>
+</h1>
+</div>
+<div class="module-text">
+
+<span class="full"></span><p><strong>Dołącz teraz. Anuluj kiedy chcesz.</strong></p>
+<p>Praktykuj, ucz się i&nbsp;doświadczaj w&nbsp;domu lub w&nbsp;podróży. Największe studio online w&nbsp;Polsce w&nbsp;Twoim komputerze lub telefonie. Znajdziesz u nas najlepszych nauczycieli w&nbsp;jednym miejscu. Korzystaj kiedy chcesz i&nbsp;gdzie ci wygodnie! Jesteśmy dla Ciebie 24/7.</p>
+</div>
+
+      <div class="module-button">
+        <a class="button button--brand button--normal" href="https://portalyogi.pl/dolacz-do-studia-portalyogi/" >Dołącz do Studia</a>
+      </div>
+	</div>          </div>
+        </div>
+        <div class="col-12 col-lg-6">
+          <div class="hero-header__image">
+              <img src="https://portalyogi.pl/wp-content/uploads/2022/06/IMG_7302-scaled-e1656242840897.jpg"  alt="PortalYogi studio joga medytacja pilates" loading="lazy" class="hero-header__img" />          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section>
+		<div class="sub-section padding-top-small padding-bottom-small margin-top-none margin-bottom-none background-brand-light" >
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-12 col-lg-6">
+        <div class="text-content"><div class="module-header">
+  <h2 class="h3"><p>Ćwicz jak Ci wygodnie</p>
+</h2>
+</div>
+<div class="module-text">
+
+<span class="full"></span><p>Dołącz do wyzwań i&nbsp;ciesz się gotowym programem ćwiczeń lub samodzielnie wybieraj to, na co masz ochotę!</p>
+</div>
+</div>      </div>
+      <div class="col-12 col-lg-6">
+        <div class="row">
+                                    <div class="col-12 col-md-4">
+                  <div class="icon-with-text" data-alt="false">
+                    <div class="icon-with-text__icon">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2022/05/feature-filmy.svg"  alt="" loading="lazy" class="icon-with-text__icon-img" />                    </div>
+                    <div class="icon-with-text__content">
+                          <span class="icon-with-text__label">
+				          600+              </span>
+                      <p class="icon-with-text__description">
+                        sesji jogi i medytacji                      </p>
+                    </div>
+                  </div>
+                </div>
+                              <div class="col-12 col-md-4">
+                  <div class="icon-with-text" data-alt="false">
+                    <div class="icon-with-text__icon">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2022/05/feature-wyzwania.svg"  alt="" loading="lazy" class="icon-with-text__icon-img" />                    </div>
+                    <div class="icon-with-text__content">
+                          <span class="icon-with-text__label">
+				          50              </span>
+                      <p class="icon-with-text__description">
+                        wyzwań i planów praktyki                      </p>
+                    </div>
+                  </div>
+                </div>
+                              <div class="col-12 col-md-4">
+                  <div class="icon-with-text" data-alt="false">
+                    <div class="icon-with-text__icon">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2022/05/feature-nauczyciele.svg"  alt="" loading="lazy" class="icon-with-text__icon-img" />                    </div>
+                    <div class="icon-with-text__content">
+                          <span class="icon-with-text__label">
+				          50              </span>
+                      <p class="icon-with-text__description">
+                        najlepszych nauczycieli                      </p>
+                    </div>
+                  </div>
+                </div>
+                                </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<section>
+		<div class="sub-section padding-top-normal padding-bottom-normal margin-top-none margin-bottom-none background-blue overflow-hidden" >
+  <div class="page-section__decor-wave">
+	  <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/decor-wave.png"  alt="decor"loading="lazy" />  </div>
+  <div class="page-section__content promo-offer">
+    <div class="container">
+      <div class="row align-items-center justify-content-center">
+        <div class="col-12 text-align-center">
+			<div class="text-content"><div class="module-header">
+  <h2 class="h2"><p><em>Poznaj nasze Studio i ćwicz kiedy chcesz.<br />
+</em><strong><span style="color: #ff9e55;">Już od 25zł miesięcznie</span></strong></p>
+</h2>
+</div>
+<div class="module-text">
+
+<span class="full"></span><p><strong>Zacznij teraz. </strong>Anuluj w&nbsp;dowolnym momencie.<br />
+*cena przy wyborze subskrypcji 12msc</p>
+</div>
+
+      <div class="module-button">
+        <a class="button button--brand button--normal" href="https://portalyogi.pl/dolacz-do-studia-portalyogi/" >Poznaj plany subskrybcyjne</a>
+      </div>
+	</div>        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<section>
+		
+<div class="sub-section padding-top-small padding-bottom-large margin-top-none margin-bottom-none background-white" >
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col-12 col-md-auto order-sm-1">
+	      <div class="text-content"><div class="module-header">
+  <h2 class="h3"><p>Ponad 600 zajęć dostępnych w Studio PortalYogi</p>
+</h2>
+</div>
+</div>      </div>
+
+      <div class="col-12 col-md-auto order-3 order-md-2 mobile-centered-button">
+	      
+      <div class="module-button">
+        <a class="button button--brand button--normal button--alternative" href="https://portalyogi.pl/nasze-zajecia/" >Poznaj zajęcia</a>
+      </div>
+	      </div>
+
+                    <div class="col-12 order-2 order-md-3">
+                <div class="row">
+                                                <div class="col-12 col-md-6 col-lg-4">
+                                <div class="classes-video">
+                                    <h3 class="classes-video__label">
+                                        Joga                                    </h3>
+                                    <a class="classes-video__content" href="https://youtu.be/fA5FmwfqnHk" data-lity-box>
+                                        <img src="https://portalyogi.pl/wp-content/uploads/2022/05/b0f3af3f8fd27fac9decd85d11f35831.png"  alt="" loading="lazy" class="classes-video__background" />                                        <div class="classes-video__icon">
+                                            <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/icon-play.svg"  alt="Play"loading="lazy" />                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="col-12 col-md-6 col-lg-4">
+                                <div class="classes-video">
+                                    <h3 class="classes-video__label">
+                                        Pilates                                    </h3>
+                                    <a class="classes-video__content" href="https://youtu.be/NSzdOQvRM-E" data-lity-box>
+                                        <img src="https://portalyogi.pl/wp-content/uploads/2022/05/61073ee30dc31875f1a7400e4992e43e.png"  alt="" loading="lazy" class="classes-video__background" />                                        <div class="classes-video__icon">
+                                            <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/icon-play.svg"  alt="Play"loading="lazy" />                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="col-12 col-md-6 col-lg-4">
+                                <div class="classes-video">
+                                    <h3 class="classes-video__label">
+                                        Medytacja                                    </h3>
+                                    <a class="classes-video__content" href="https://youtu.be/DF36M0xS1eA" data-lity-box>
+                                        <img src="https://portalyogi.pl/wp-content/uploads/2022/05/d630a758f947affa7b6ef727b5f06add.png"  alt="" loading="lazy" class="classes-video__background" />                                        <div class="classes-video__icon">
+                                            <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/icon-play.svg"  alt="Play"loading="lazy" />                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                                        </div>
+            </div>
+        
+
+
+    </div>
+  </div>
+</div>
+
+<script>
+    window.addEventListener("load", (event) => {
+        jQuery(".classes-slider").slick({
+                lazyLoad: "ondemand",
+                arrows: true,
+                dots: false,
+                infinite: true,
+                speed: 200,
+                slidesToShow: 3,
+                slidesToScroll: 1,
+                responsive: [
+                    {
+                        breakpoint: 1024,
+                        settings: {
+                            slidesToShow: 3,
+                            slidesToScroll: 1,
+                            infinite: true,
+                            dots: true
+                        }
+                    },
+                    {
+                        breakpoint: 991,
+                        settings: {
+                            slidesToShow: 1,
+                            centerMode: true,
+                            centerPadding: "40px",
+                            slidesToScroll: 1,
+                            infinite: false
+                        }
+                    }]
+
+            }
+        );
+
+        jQuery(".classes-slider__arrow-left").click(function() {
+            jQuery(this).closest(".container").find(".classes-slider").slick("slickPrev");
+        });
+
+        jQuery(".classes-slider__arrow-right").click(function() {
+            jQuery(this).closest(".container").find(".classes-slider").slick("slickNext");
+        });
+    });
+
+
+</script>
+</section>
+<section>
+		<div class="sub-section padding-top-normal padding-bottom-normal margin-top-none margin-bottom-none background-brand" >
+  
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-12 col-md-6 order-2 order-sm-1">
+        <div class="challenges-parallax__background">
+          <div class="challenges-parallax__circle">
+            <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/circle-on-green.png"  srcset="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/circle-on-green.png 1x, https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/circle-on-green@2x.png 2x" alt="color circle"loading="lazy" />          </div>
+          <div class="challenges-parallax__cardmain">
+            <div class="challenges-parallax__cardmain__inner">
+            <img class="challenges-parallax-card__image" loading="lazy" src="https://portalyogi.pl/wp-content/uploads/2019/10/Zmien-swoje-zycie-z-joga_baner-na-strone_v2_v2-500x262.png" alt="Home"/>
+            <div class="challenges-parallax-card__name">
+              Zmień swoje życie z Jogą            </div>
+            <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/cardmain.png"  srcset="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/cardmain.png 1x, https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/cardmain@2x.png 2x" alt="mock"loading="lazy" />            </div>
+          </div>
+          <div class="challenges-parallax__card1">
+            <div class="challenges-parallax__card-animation">
+              <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/card1.png"  srcset="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/card1.png 1x, https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/card1@2x.png 2x" alt="mock"loading="lazy" />            </div>
+          </div>
+          <div class="challenges-parallax__card2">
+            <div class="challenges-parallax__card-animation">
+              <div class="challenges-parallax__days">
+                7 tygodni              </div>
+              <div class="challenges-parallax__level">
+                <ul class="challenge-level">
+                  <li class="challenge-level__point challenge-level__point--active"></li>
+                  <li class="challenge-level__point "></li>
+                  <li class="challenge-level__point "></li>
+                  <li class="challenge-level__point "></li>
+                  <li class="challenge-level__point "></li>
+                </ul>
+              </div>
+              <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/card2.png"  srcset="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/card2.png 1x, https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/card2@2x.png 2x" alt="mock"loading="lazy" />            </div>
+          </div>
+          <div class="challenges-parallax__card3">
+            <div class="challenges-parallax__card-animation">
+
+              <div class="single-challenge-card__teacher">
+                                                <div class="single-challenge-card__teacher__name">
+                  Portal Yogi                </div>
+              </div>
+
+              <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/card3.png"  srcset="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/card3.png 1x, https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/card3@2x.png 2x" alt="mock"loading="lazy" />            </div>
+          </div>
+        </div>
+
+      </div>
+      <div class="col-12 col-md-6 col-lg-5 order-1 order-sm-2">
+        <div class="text-content"><div class="module-header">
+  <h2 class="h3"><p><strong>Wyzwania</strong><br />
+<em>sposób na motywację i regularność</em></p>
+</h2>
+</div>
+<div class="module-text">
+
+<span class="full"></span><p>Poznaj specjalnie opracowane programy ćwiczeń, w&nbsp;których nasi nauczyciele prowadzą Cię przez praktykę dzień po dniu, krok po kroku.</p>
+<p>Chcesz otrzymać wyzwanie pasujące idealnie do Ciebi? <strong>Zrób nasz jogowy QUIZ</strong></p>
+</div>
+
+      <div class="module-button">
+        <a class="button button--brand button--normal button--alternative" href="https://portalyogi.pl/wyzwania/" >Zobacz wyzwania</a>
+      </div>
+	
+      <div class="module-button">
+        <a class="button button--brand button--normal button--alternative" href="https://portalyogi.pl/quiz/"  target="_blank">Zrób QUIZ</a>
+      </div>
+	</div>      </div>
+    </div>
+  </div>
+</div>
+</section>
+<section>
+		<div class="sub-section padding-top-normal padding-bottom-normal margin-top-none margin-bottom-none background-white">
+    <div class="container">
+    <div class="row justify-content-between">
+
+      <div class="col-12 col-md-auto order-sm-1">
+        <div class="text-content"><div class="module-header">
+  <h2 class="h3"><p>Poznaj naszych nauczycieli</p>
+</h2>
+</div>
+</div>      </div>
+
+            <div class="col-12 col-md-auto order-3 order-md-2 mobile-centered-button">
+        
+      <div class="module-button">
+        <a class="button button--brand button--normal button--alternative" href="https://portalyogi.pl/nauczyciele/" >Poznaj wszyskich</a>
+      </div>
+	      </div>
+            <div class="col-12 order-2 order-md-3">
+        <div class="card-slider">
+          
+              <a href="https://portalyogi.pl/nauczyciele/basia-lipska-larsen/" class="content-module-teachers__item">
+                                <div class="content-module-teachers__avatar">
+                  <img src="https://portalyogi.pl/wp-content/uploads/2018/10/Basia-Lipska-500x329.jpg" alt="avatar"/>
+                </div>
+                <div class="content-module-teachers__content">
+                  <h3 class="content-module-teachers__name">
+                    Basia Lipska-Larsen                  </h3>
+
+                  <div class="content-module-teachers__description">
+                     Ashtanga Joga                  </div>
+                </div>
+              </a>
+
+            
+              <a href="https://portalyogi.pl/nauczyciele/gerard-szymanski/" class="content-module-teachers__item">
+                                <div class="content-module-teachers__avatar">
+                  <img src="https://portalyogi.pl/wp-content/uploads/2020/08/Gerard-Szymański.png" alt="avatar"/>
+                </div>
+                <div class="content-module-teachers__content">
+                  <h3 class="content-module-teachers__name">
+                    Gerard Szymański                  </h3>
+
+                  <div class="content-module-teachers__description">
+                    Iyengar Yoga                  </div>
+                </div>
+              </a>
+
+            
+              <a href="https://portalyogi.pl/nauczyciele/kacper-matuszewski/" class="content-module-teachers__item">
+                                <div class="content-module-teachers__avatar">
+                  <img src="https://portalyogi.pl/wp-content/uploads/2020/04/IMG_7754-scaled-e1667398118920-500x500.jpg" alt="avatar"/>
+                </div>
+                <div class="content-module-teachers__content">
+                  <h3 class="content-module-teachers__name">
+                    Kacper Matuszewski                  </h3>
+
+                  <div class="content-module-teachers__description">
+                    Community Manager | Hatha Joga, Medytacja                  </div>
+                </div>
+              </a>
+
+            
+              <a href="https://portalyogi.pl/nauczyciele/magdalena-baldys/" class="content-module-teachers__item">
+                                <div class="content-module-teachers__avatar">
+                  <img src="https://portalyogi.pl/wp-content/uploads/2018/10/IMG_6812-1-–-ze-zmianami-500x625.png" alt="avatar"/>
+                </div>
+                <div class="content-module-teachers__content">
+                  <h3 class="content-module-teachers__name">
+                    Magdalena Bałdys                  </h3>
+
+                  <div class="content-module-teachers__description">
+                    Yoga specialist, Hatha Joga, Yin Joga                  </div>
+                </div>
+              </a>
+
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<section>
+		<div class="sub-section padding-top-none padding-bottom-none margin-top-none margin-bottom-none background-white" >
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-12 col-md-6 col-lg-5">
+        <ul class="watch-on-any-device__tags">
+          <li>TV</li>
+          <li>TABLET</li>
+          <li>SMARTFON</li>
+          <li>LAPTOP</li>
+        </ul>
+		  <div class="text-content"><div class="module-header">
+  <h2 class="h3"><p>Oglądaj na dowolnym urządzeniu</p>
+</h2>
+</div>
+</div>              </div>
+      <div class="col-12 col-md-6 col-lg-7">
+        <div class="watch-on-any-device__background">
+          <div class="watch-on-any-device__circle">
+			  <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/color-circle-on-white.png"  srcset="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/color-circle-on-white.png 1x, https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/color-circle-on-white@2x.png 2x" alt="color circle"loading="lazy" />          </div>
+          <div class="watch-on-any-device__mock">
+			  <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/mock.png"  srcset="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/mock.png 1x, https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/mock@2x.png 2x" alt="mock"loading="lazy" />          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<section>
+		
+<div class="sub-section padding-top-small padding-bottom-large margin-top-none margin-bottom-none background-brand-light" >
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col-12 col-md-auto order-sm-1">
+	      <div class="text-content"><div class="module-header">
+  <h2 class="h3"><p>Dlaczego joga? </p>
+</h2>
+</div>
+<div class="module-text">
+
+<span class="full"></span><p>Joga to praktyka dla każdego z&nbsp;nas, ma ogromne korzyści dla zdrowia psychicznego i&nbsp;fizycznego.<br />
+Przyczynia się do lepszego samopoczucia, redukuje stres, poprawia koncentrację i&nbsp;zwiększa zadowolenia z&nbsp;życia.</p>
+</div>
+</div>      </div>
+
+      <div class="col-12 col-md-auto order-3 order-md-2 mobile-centered-button">
+	            </div>
+
+                    <div class="col-12 order-2 order-md-3">
+                <div class="row">
+                                                <div class="col-12 col-md-6 col-lg-4">
+                                <div class="classes-video">
+                                    <h3 class="classes-video__label">
+                                                                            </h3>
+                                    <a class="classes-video__content" href="https://www.youtube.com/watch?v=w31dIFpiud0" data-lity-box>
+                                        <img src="https://portalyogi.pl/wp-content/uploads/2023/08/okladka-Youtube-Maciej.png"  alt="" loading="lazy" class="classes-video__background" />                                        <div class="classes-video__icon">
+                                            <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/icon-play.svg"  alt="Play"loading="lazy" />                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="col-12 col-md-6 col-lg-4">
+                                <div class="classes-video">
+                                    <h3 class="classes-video__label">
+                                                                            </h3>
+                                    <a class="classes-video__content" href="https://youtu.be/Xt9759xLkYM" data-lity-box>
+                                        <img src="https://portalyogi.pl/wp-content/uploads/2023/08/okladka-Youtube-Kasia.png"  alt="" loading="lazy" class="classes-video__background" />                                        <div class="classes-video__icon">
+                                            <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/icon-play.svg"  alt="Play"loading="lazy" />                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="col-12 col-md-6 col-lg-4">
+                                <div class="classes-video">
+                                    <h3 class="classes-video__label">
+                                                                            </h3>
+                                    <a class="classes-video__content" href="https://www.youtube.com/watch?v=NjBckNeRTLI" data-lity-box>
+                                        <img src="https://portalyogi.pl/wp-content/uploads/2023/08/okladka-Youtube-Iwona.png"  alt="" loading="lazy" class="classes-video__background" />                                        <div class="classes-video__icon">
+                                            <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/icon-play.svg"  alt="Play"loading="lazy" />                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                                        </div>
+            </div>
+        
+
+
+    </div>
+  </div>
+</div>
+
+<script>
+    window.addEventListener("load", (event) => {
+        jQuery(".classes-slider").slick({
+                lazyLoad: "ondemand",
+                arrows: true,
+                dots: false,
+                infinite: true,
+                speed: 200,
+                slidesToShow: 3,
+                slidesToScroll: 1,
+                responsive: [
+                    {
+                        breakpoint: 1024,
+                        settings: {
+                            slidesToShow: 3,
+                            slidesToScroll: 1,
+                            infinite: true,
+                            dots: true
+                        }
+                    },
+                    {
+                        breakpoint: 991,
+                        settings: {
+                            slidesToShow: 1,
+                            centerMode: true,
+                            centerPadding: "40px",
+                            slidesToScroll: 1,
+                            infinite: false
+                        }
+                    }]
+
+            }
+        );
+
+        jQuery(".classes-slider__arrow-left").click(function() {
+            jQuery(this).closest(".container").find(".classes-slider").slick("slickPrev");
+        });
+
+        jQuery(".classes-slider__arrow-right").click(function() {
+            jQuery(this).closest(".container").find(".classes-slider").slick("slickNext");
+        });
+    });
+
+
+</script>
+</section>
+<section>
+		<div class="sub-section padding-top-normal padding-bottom-normal margin-top-none margin-bottom-none background-white" >
+  <div class="container">
+    <div class="row justify-content-between">
+              <div class="col-12">
+          <div class="text-content"><div class="module-header">
+  <h2 class="h2"><p>Największe studio jogi online</p>
+</h2>
+</div>
+</div>        </div>
+      
+      <div class="col-12">
+        <div class="row justify-content-between align-items-end">
+          <div class="col-12  col-lg-6">
+              <div class="counter-wrapper">
+                  <span class="counter">
+                <span class="counter-number">6</span><span class="counter-number">0</span><span class="counter-number">0</span><span class="counter-number">0</span><span class="counter-number">0</span>                </span>
+                  <span class="counter-label">użytkowników</span>
+              </div>
+
+            <h3 class="h3 h3-small-mobile"> Poznaj opinie osób, które już spróbowały</h3>
+          </div>
+          <div class="col-12 col-md-auto hidden-sm hidden-xs">
+            <div class="card-slider__arrows">
+              <button class="card-slider__arrow card-slider__arrow-left">
+                <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/icon-arrow-left.svg"  alt="prev"loading="lazy" />              </button>
+              <button class="card-slider__arrow card-slider__arrow-right">
+                <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/icon-arrow-right.svg"  alt="next"loading="lazy" />              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12">
+
+        <div class="card-slider">
+          
+              <div class="content-module-opinion__item">
+                <div class="content-module-opinion__text">
+                  Gorąco polecam. Najwspanialsze jest to, że możesz wykonać praktykę o każdej porze dnia. Mam wsparcie na grupie i codziennie mogę zrobić dla siebie coś dobrego ❤️🙏 Zawsze trafiacie w punkt z wyzwaniami, w moje potrzeby 🙂 Jestem mega wdzięczna, że Was mam. Dziękuję 🙏
+                </div>
+                <div class="content-module-opinion__item-footer">
+                                    <div class="content-module-opinion__avatar">
+                    <span class="image-fixed-ar image-fixed-ar--circle shadow-4">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2019/04/Apolonia-Laskowska_opinie.jpeg" class="image-fixed-ar__image" loading="lazy" alt="avatar"/>
+                    </span>
+                  </div>
+                  <div class="content-module-opinion__name">
+                    <strong>Apolonia Laskowska</strong>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="content-module-opinion__item">
+                <div class="content-module-opinion__text">
+                  To pierwszy raz kiedy zalogowałam się na taką platformę w dodatku płatną i nie żałuję ani jednej wydanej złotówki. Materiały są zawsze dobrze przygotowane pod kątem wizualnym i dźwiękowym. Z pewnością zostanę z Państwem na kolejne miesiące.                </div>
+                <div class="content-module-opinion__item-footer">
+                                    <div class="content-module-opinion__avatar">
+                    <span class="image-fixed-ar image-fixed-ar--circle shadow-4">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2019/04/Aleksandra-Bąkowska-500x500.jpeg" class="image-fixed-ar__image" loading="lazy" alt="avatar"/>
+                    </span>
+                  </div>
+                  <div class="content-module-opinion__name">
+                    <strong>Aleksandra Bąkowska</strong>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="content-module-opinion__item">
+                <div class="content-module-opinion__text">
+                  Wróciłam, po przerwie, bo byłam zadowolona korzystając z waszego studia i nadal jestem. Mnóstwo sesji różnego rodzaju co bardzo mi odpowiada. Nikt mi niczego nie narzuca sama wybieram w zależności od nastroju w danym dniu. Nic nie trzeba kombinować i szukać. Wchodzisz i masz. Naprawdę całość na 6 z plusem, nie ma drugiego takiego portalu. Brawo, trzymajcie tak dalej :-)
+                </div>
+                <div class="content-module-opinion__item-footer">
+                                    <div class="content-module-opinion__avatar">
+                    <span class="image-fixed-ar image-fixed-ar--circle shadow-4">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2019/04/Katarzyna-Juraszczyk-500x667.jpg" class="image-fixed-ar__image" loading="lazy" alt="avatar"/>
+                    </span>
+                  </div>
+                  <div class="content-module-opinion__name">
+                    <strong>Katarzyna Juraszczyk</strong>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="content-module-opinion__item">
+                <div class="content-module-opinion__text">
+                  Dzisiaj was znalazłam i od razu wykupiłam subskrypcje na rok (świetna cena!)  Jakiś czas nie ćwiczyłam bo często podróżuje i w Polsce nie mam dobrego studio kolo domu, długo szukałam czegoś co pomoże mi ćwiczyć samej gdziekolwiek jestem, a sama w domu nie moglam się zmotywować. Ciesze się, że was znalazłam, dziękuję! 🧘‍♀️🙌💚                </div>
+                <div class="content-module-opinion__item-footer">
+                                    <div class="content-module-opinion__avatar">
+                    <span class="image-fixed-ar image-fixed-ar--circle shadow-4">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2019/04/Agnes-pixelabilities.jpeg" class="image-fixed-ar__image" loading="lazy" alt="avatar"/>
+                    </span>
+                  </div>
+                  <div class="content-module-opinion__name">
+                    <strong>Agnes</strong>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="content-module-opinion__item">
+                <div class="content-module-opinion__text">
+                  Dostęp do portalu mam z dosłownie każdego miejsca na ziemi, więc systematyczność mojej praktyki poprawiła się. Bardziej skupiłam się na prawidłowym oddechu. Moja postawa ulega poprawie, bardziej jej pilnuję. Medytacje z Kacprem - oczyszczające i otwierające duchowe oko na piękny świat. Poprawienie jakości poranków - joga rozbudza lepiej niż filiżanka kawy ❤                </div>
+                <div class="content-module-opinion__item-footer">
+                                    <div class="content-module-opinion__avatar">
+                    <span class="image-fixed-ar image-fixed-ar--circle shadow-4">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2022/11/Agnieszka-Szeląg-500x543.jpg" class="image-fixed-ar__image" loading="lazy" alt="avatar"/>
+                    </span>
+                  </div>
+                  <div class="content-module-opinion__name">
+                    <strong>Agnieszka Szeląg</strong>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="content-module-opinion__item">
+                <div class="content-module-opinion__text">
+                  Praktyka jogi dała mi, i wciąż daje, spokojną energię, siłę i elastyczność ciała, które pozwalają mi aktywnie spędzać czas z moją dwulatką. Dała mi wgląd w siebie, samopoznanie i narzędzia do zaopiekowania się własnymi emocjami. Moja córa już zaczęła mnie naśladować i wiem, że jej także joga może dać nieskończenie dużo możliwości.                 </div>
+                <div class="content-module-opinion__item-footer">
+                                    <div class="content-module-opinion__avatar">
+                    <span class="image-fixed-ar image-fixed-ar--circle shadow-4">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2022/11/Aleksandra-Nowak-500x616.jpg" class="image-fixed-ar__image" loading="lazy" alt="avatar"/>
+                    </span>
+                  </div>
+                  <div class="content-module-opinion__name">
+                    <strong>Aleksandra Nowak</strong>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="content-module-opinion__item">
+                <div class="content-module-opinion__text">
+                  Portal Yogi=lepsze, bardziej świadome życie, czyli: dystans do rzeczywistości, pogłębienie oddechu=pogłębienie relacji z innymi, odróżnianie rzeczy ważnych od mniej ważnych, elastyczność, rozciągnięcie ciała💪👍 Jest w jodze moc!👍 I❤️joga!🙂🙏                </div>
+                <div class="content-module-opinion__item-footer">
+                                    <div class="content-module-opinion__avatar">
+                    <span class="image-fixed-ar image-fixed-ar--circle shadow-4">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2022/11/Bernadeta-Odrzywolska.png" class="image-fixed-ar__image" loading="lazy" alt="avatar"/>
+                    </span>
+                  </div>
+                  <div class="content-module-opinion__name">
+                    <strong>Bernadeta Odrzywolska</strong>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="content-module-opinion__item">
+                <div class="content-module-opinion__text">
+                  Praktyka w Portalu Yogi dała mi wiele: chęć stawania na matę, ciekawe e-maile o jodze i nie tylko, motywację od super Pań i Pana, więcej cierpliwości, skupiania w asanach, przyjemność dobrego odżywiania, pogłębienia się w medytacji, miłość do swojego ciała i akceptację oraz czas dla siebie. Dziękuję!                </div>
+                <div class="content-module-opinion__item-footer">
+                                    <div class="content-module-opinion__avatar">
+                    <span class="image-fixed-ar image-fixed-ar--circle shadow-4">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2022/11/Jola-Ankiewicz2-500x827.jpg" class="image-fixed-ar__image" loading="lazy" alt="avatar"/>
+                    </span>
+                  </div>
+                  <div class="content-module-opinion__name">
+                    <strong>Jola Ankiewicz</strong>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="content-module-opinion__item">
+                <div class="content-module-opinion__text">
+                  Jestem zachwycona przygotowywanym przez portal planem praktyki na każdy miesiąc. Zbiór filmików jest tak ogromny, że wygodniej jest skorzystać z Waszych propozycji na dany dzień. A dodatkowo działa to niezwykle motywująco i dzięki temu praktykuję częściej 😀 A więc wygoda, systematyczność, motywacja, relaks, zdrowe plecy i przyjemność.                </div>
+                <div class="content-module-opinion__item-footer">
+                                    <div class="content-module-opinion__avatar">
+                    <span class="image-fixed-ar image-fixed-ar--circle shadow-4">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2022/11/Joanna-1-500x500.jpg" class="image-fixed-ar__image" loading="lazy" alt="avatar"/>
+                    </span>
+                  </div>
+                  <div class="content-module-opinion__name">
+                    <strong>Joanna</strong>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="content-module-opinion__item">
+                <div class="content-module-opinion__text">
+                  Przede wszystkim dzięki Wam wypracowałam nawyk codziennej praktyki. Wcześniej miałam duży problem z systematycznością. Dzięki Wam odkryłam, że najlepiej praktykuje mi się o poranku. Wyzwania z jogą na poranki to była cudowna przygoda 😊 Ponad to dzięki systematycznej praktyce poprawiłam stan zdrowia, wyciszyłam się. Znikły stany przygnębienia i smutku. Każdemu polecam taką jogową terapię 😊                </div>
+                <div class="content-module-opinion__item-footer">
+                                    <div class="content-module-opinion__avatar">
+                    <span class="image-fixed-ar image-fixed-ar--circle shadow-4">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2022/11/Luiza-Pitera-1-500x562.jpg" class="image-fixed-ar__image" loading="lazy" alt="avatar"/>
+                    </span>
+                  </div>
+                  <div class="content-module-opinion__name">
+                    <strong>Luiza Pitera</strong>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="content-module-opinion__item">
+                <div class="content-module-opinion__text">
+                  Odkryłam PortalYogi i co mi dał? <br/>
+1. Jogę o każdej porze dnia <br/>
+2. Regularność praktyk <br/>
+3. Różnorodność w wyborze <br/>
+4. Oszczędność czasu na dojazdy i pieniędzy <br/>
+5. Nowość w wyzwaniach <br/>
+6. Przestrzeń w ciele i umyśle <br/>
+Cieszę się, że dołączyłam :)                </div>
+                <div class="content-module-opinion__item-footer">
+                                    <div class="content-module-opinion__avatar">
+                    <span class="image-fixed-ar image-fixed-ar--circle shadow-4">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2022/11/Martyna-Adamczyk-500x889.jpg" class="image-fixed-ar__image" loading="lazy" alt="avatar"/>
+                    </span>
+                  </div>
+                  <div class="content-module-opinion__name">
+                    <strong>Martyna Adamczyk</strong>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="content-module-opinion__item">
+                <div class="content-module-opinion__text">
+                  Praktyka jogi z Wami umożliwiła mi wyciszenie się i uspokojenie po trudnym dniu. Nauczyła samodyscypliny i trwania w postanowieniach. Pozwoliła zwiększyć elastyczność i sprawność mojego ciała. Pozwoliła na praktykę w dowolnym miejscu na świecie (żaden wyjazd nie jest problemem😁). Ból kręgosłupa i głowy zmalał i dzięki Wam, znam metody radzenia sobie z nim.
+Dziękuje za te 6 lat ❤️                </div>
+                <div class="content-module-opinion__item-footer">
+                                    <div class="content-module-opinion__avatar">
+                    <span class="image-fixed-ar image-fixed-ar--circle shadow-4">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2022/11/Michalina-Mendyka-Martynelis-500x641.jpg" class="image-fixed-ar__image" loading="lazy" alt="avatar"/>
+                    </span>
+                  </div>
+                  <div class="content-module-opinion__name">
+                    <strong>Michalina Mendyka-Martynelis</strong>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="content-module-opinion__item">
+                <div class="content-module-opinion__text">
+                  Praktyka z PortalYogi dała mi wolność praktyki we własnej przestrzeni, we własnym tempie, według własnych potrzeb i we własnym czasie. Naukę odpowiedzialności za własną praktykę. Medytację. Odkrycie nowych stylów jogi, jak Kundalini czy Vinyasa, i ponowne spotkanie ze starymi znajomymi, jak Iyengar. Dużo spokoju i spotkanie ze sobą - kiedy bardzo tego potrzebowałam.                 </div>
+                <div class="content-module-opinion__item-footer">
+                                    <div class="content-module-opinion__avatar">
+                    <span class="image-fixed-ar image-fixed-ar--circle shadow-4">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2022/11/Weronika-Szemińska-500x333.jpg" class="image-fixed-ar__image" loading="lazy" alt="avatar"/>
+                    </span>
+                  </div>
+                  <div class="content-module-opinion__name">
+                    <strong>Weronika Szemińska</strong>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="content-module-opinion__item">
+                <div class="content-module-opinion__text">
+                  Pierwszy raz przeżyłam taką energię. </br> Trudno nawet opisać co czuje... </br> Błogi spokój, odprężenie... 🧘‍♀️  </br> </br> Namaste 🙏                </div>
+                <div class="content-module-opinion__item-footer">
+                                    <div class="content-module-opinion__avatar">
+                    <span class="image-fixed-ar image-fixed-ar--circle shadow-4">
+                      <img src="https://portalyogi.pl/wp-content/uploads/2019/04/Kasia-Asztemborska-500x374.jpg" class="image-fixed-ar__image" loading="lazy" alt="avatar"/>
+                    </span>
+                  </div>
+                  <div class="content-module-opinion__name">
+                    <strong>Kasia Asztemborska</strong>
+                  </div>
+                </div>
+              </div>
+
+            
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+</div>
+</section>
+<section>
+		<div class="sub-section padding-top-normal padding-bottom-normal margin-top-none margin-bottom-none background-brand-light" >
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col-12 col-lg-5">
+          <div class="text-content"><div class="module-header">
+  <h2 class="h3"><p>PortalYogi powstał,<br />
+by pomóc Ci o siebie zadbać</p>
+</h2>
+</div>
+<div class="module-text">
+
+<span class="full"></span><p>U nas nie musisz się z&nbsp;nikim porównywać, możesz zacząć od krótkich praktyk. Dobierz długość sesji, od 5 do 90 minut, pod względem swoich preferencji oraz dostępnego czasu.</p>
+</div>
+
+      <div class="module-button">
+        <a class="button button--brand button--normal" href="https://portalyogi.pl/dolacz-do-studia-portalyogi-old/" >Dołącz do studia</a>
+      </div>
+	</div>      </div>
+      <div class="col-12 col-lg-6">
+        <div class="row">
+                                  <div class="col-12 col-md-6">
+                        <div class="icon-with-text icon-with-text--align-left">
+                          <div class="icon-with-text__icon">
+                              <img src="https://portalyogi.pl/wp-content/uploads/2022/05/feature-wyzwanie.svg"  alt="" loading="lazy" class="icon-with-text__icon-img" />                          </div>
+                          <div class="icon-with-text__content">
+                            <p class="icon-with-text__description">
+                              <strong>
+                                  Korzystaj z gotowych planów praktyki w ramach wyzwań                              </strong>
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                                          <div class="col-12 col-md-6">
+                        <div class="icon-with-text icon-with-text--align-left">
+                          <div class="icon-with-text__icon">
+                              <img src="https://portalyogi.pl/wp-content/uploads/2022/05/feature-rownowaga.svg"  alt="" loading="lazy" class="icon-with-text__icon-img" />                          </div>
+                          <div class="icon-with-text__content">
+                            <p class="icon-with-text__description">
+                              <strong>
+                                  Odzyskaj rónowagę życiową i zapanuj nad stresem                              </strong>
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                                          <div class="col-12 col-md-6">
+                        <div class="icon-with-text icon-with-text--align-left">
+                          <div class="icon-with-text__icon">
+                              <img src="https://portalyogi.pl/wp-content/uploads/2022/05/feature-zdrowe-nawyki.svg"  alt="" loading="lazy" class="icon-with-text__icon-img" />                          </div>
+                          <div class="icon-with-text__content">
+                            <p class="icon-with-text__description">
+                              <strong>
+                                  Pozbądź się bólu i napięć w ciele oraz zbuduj zdrowe nawyki                              </strong>
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                                          <div class="col-12 col-md-6">
+                        <div class="icon-with-text icon-with-text--align-left">
+                          <div class="icon-with-text__icon">
+                              <img src="https://portalyogi.pl/wp-content/uploads/2022/05/feature-elastycznosc.svg"  alt="" loading="lazy" class="icon-with-text__icon-img" />                          </div>
+                          <div class="icon-with-text__content">
+                            <p class="icon-with-text__description">
+                              <strong>
+                                  Wzmocnij swoje ciało i elastyczność, polepsz kondycję                              </strong>
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                            </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<section>
+		<div class="sub-section padding-top-normal padding-bottom-normal margin-top-none margin-bottom-none parallax-image" >
+
+	  <img src="https://portalyogi.pl/wp-content/uploads/2023/08/DSC0412-kopia-1-scaled.jpg"  alt="Portal yogi online" class="parallax-image__background" />
+</div>
+</section>
+<section>
+		<div class="sub-section padding-top-large padding-bottom-large margin-top-none margin-bottom-none text-in-color-circle" >
+  <div class="text-in-color-circle__background watch-for-animate text-in-color-circle__background--center">
+                <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/color-circle-on-white.png"  srcset="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/color-circle-on-white.png 1x, https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/color-circle-on-white@2x.png 2x" alt="color circle"loading="lazy" />        </div>
+  <div class="text-in-color-circle__content">
+    <div class="container">
+      <div class="row justify-content-center text-align-center">
+        <div class="col-12 col-lg-6">
+            <div class="text-content"><div class="module-header">
+  <h2 class="h2"><p><strong>Dołącz</strong> <em>do naszej społeczności</em></p>
+</h2>
+</div>
+<div class="module-text">
+
+<span class="full"></span><p>Uzyskaj dostęp do setek zajęć i&nbsp;wyzwań. Otrzymaj porady i&nbsp;wsparcie od naszych nauczycieli za najlepszą cenę na rynku</p>
+</div>
+
+<div class="module-list ">
+  <ul class="module-list__list" data-large="false">
+	                  <li class="module-list__item">15 000 użytkowników</li>
+			                  <li class="module-list__item">najwyższa jakość treści</li>
+			    </ul>
+</div>
+
+      <div class="module-button">
+        <a class="button button--brand button--normal" href="https://portalyogi.pl/dolacz-do-studia-portalyogi/" >Dołącz do studia</a>
+      </div>
+	</div>        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+  <section class="page-section page-section--newsletter background-blue color-white">
+    <div class="page-section__decor-wave">
+		<img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/decor-wave.png"  alt="decor"loading="lazy" />    </div>
+    <div class="page-section__content">
+      <div class="container">
+
+		  		  		              <div class="row">
+              <div class="col-12">
+                <div class="content-module footer-newsletter sm-text-align-center">
+                  <div class="row">
+                    <div class="col-12 col-md-6 col-lg-7 sm-margin-bottom-30">
+                      <h2 class="footer-newsletter__header h3">
+						  <small>Zapisz się na jogowy newsletter  i&nbsp;otrzymaj</small> <strong>specjalną zniżkę!</strong>                      </h2>
+                      <div class="footer-newsletter__text">
+                        <p>Dołącz do naszej jogowej społeczności. Otrzymasz od nas zniżkę na pierwszy miesiąc do Studia, darmowe materiały pomocne w praktyce jogi, cotygodniową inspirację oraz ekskluzywny dostęp do jogowych wydarzeń oraz promocji.</p>
+                      </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-5">
+                      <div class="active-campaign-form">
+						  <div class="_form_22"></div>
+<script src="https://portalyogi66020.activehosted.com/f/embed.php?id=22" type="text/javascript" charset="utf-8"></script>                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+		        </div>
+    </div>
+  </section>
+<footer class="page-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="page-footer__inner-wrapper">
+          <div class="row justify-content-between">
+            <div class="col-12 col-lg-auto">
+              <div class="page-footer__left-content">
+                <h2 class="page-footer__site-name">PortalYogi P.S.A.</h2>
+                <ul class="page-footer__socials">
+                  <li class="page-footer__socials__item">
+                    <a class="page-footer__socials__link" href="https://www.facebook.com/portalyogipl" target="_blank">
+                      <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/social-fb-icon.svg"  alt="Facebook"loading="lazy" />                    </a></li>
+                  <li class="page-footer__socials__item">
+                    <a class="page-footer__socials__link" href="https://www.instagram.com/portalyogi_pl/" target="_blank">
+                      <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/social-instagram-icon.svg"  alt="Instagram"loading="lazy" />                    </a>
+                  </li>
+
+                  <li class="page-footer__socials__item">
+                    <a class="page-footer__socials__link" href="https://www.youtube.com/user/PortalYogi" target="_blank">
+                      <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/social-yt-icon.svg"  alt="Facebook"loading="lazy" />                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-12 col-lg-auto">
+              <div class="page-footer__right-content">
+                <div class="menu-menu-w-stopce-gorne-container"><ul id="menu-menu-w-stopce-gorne" class="footer-menu-top"><li id="menu-item-37231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37231"><a href="https://portalyogi.pl/voucher/">Voucher</a></li>
+<li id="menu-item-33974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33974"><a href="https://portalyogi.pl/nasze-zajecia/">Nasze zajęcia</a></li>
+<li id="menu-item-33158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33158"><a href="https://portalyogi.pl/nauczyciele/">Nauczyciele</a></li>
+<li id="menu-item-33159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33159"><a href="https://portalyogi.pl/wyzwania/">Wyzwania</a></li>
+<li id="menu-item-33160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33160"><a href="https://portalyogi.pl/kalendarz-wydarzen/">Wydarzenia</a></li>
+<li id="menu-item-33975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33975"><a href="https://portalyogi.pl/blog">Blog</a></li>
+<li id="menu-item-33976" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33976"><a href="https://www.portalyogi.pl/blog/category/podcasts/">Podcast</a></li>
+<li id="menu-item-39275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39275"><a href="https://portalyogi.pl/newsletter/">Newsletter</a></li>
+<li id="menu-item-33163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33163"><a href="https://portalyogi.pl/faq/">FAQ</a></li>
+</ul></div>                <ul class="page-footer__contact">
+                  <li class="page-footer__contact__item">
+            <span class="page-footer__contact__icon">
+              <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/icon-location.svg"  alt="Adres"loading="lazy" />            </span>
+                    ul. Zabłocińska 7/10, <br class="page-footer__contact-hidden-br"/>01-697 Warszawa
+                  </li>
+                  <li class="page-footer__contact__item">
+            <span class="page-footer__contact__icon">
+              <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/icon-time.svg"  alt="Godziny otwarcia"loading="lazy" />            </span>
+                    pon - pt: <br class="page-footer__contact-hidden-br"/>9.00 - 17.00
+                  </li>
+                  <li class="page-footer__contact__item">
+            <span class="page-footer__contact__icon">
+              <img src="https://portalyogi.pl/wp-content/themes/portal-yogi-2022/assets/imgs/icon-sms.svg"  alt="E-mail"loading="lazy" />            </span>
+                    <a href="/cdn-cgi/l/email-protection#f0809f9d9f93b0809f8284919c899f9799de809c"><span class="__cf_email__" data-cfemail="1f6f7072707c5f6f706d6b7e7366707876316f73">[email&#160;protected]</span></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12">
+              <hr/>
+            </div>
+          </div>
+          <div class="row justify-content-between">
+            <div class="col-12 col-md-auto sm-order-2">
+              <span class="page-footer__copyright">© 2024 All Rights Reserved</span>
+            </div>
+            <div class="col-12 col-md-auto sm-order-1">
+              <div class="menu-menu-w-stopce-dolne-container"><ul id="menu-menu-w-stopce-dolne" class="footer-menu-bottom"><li id="menu-item-33167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-33167"><a href="https://portalyogi.pl/polityka-prywatnosci/">Polityka prywatności</a></li>
+<li id="menu-item-35490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35490"><a href="https://portalyogi.pl/regulamin/">Regulamin</a></li>
+</ul></div>            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">Nasz serwis wykorzystuje pliki cookies. Pliki cookies pozwalają na pełne korzystanie z możliwości strony oraz umożliwiają zbieranie danych statystycznych, które pomagają nam w optymalizacji serwisu oraz dostosowaniu treści do Twoich potrzeb. Zaakceptuj pliki cookie żebyś mógł w pełni skorzystać z serwisu.</div><div class="cli-bar-btn_container"><a role='button' class="medium cli-plugin-button cli-plugin-main-button cli_settings_button" style="margin:0px 5px 0px 0px">Ustawienia</a><a id="wt-cli-accept-all-btn" role='button' data-cli_action="accept_all" class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button">Zaakceptuj wszystkie</a></div></div></span></div><div id="cookie-law-info-again" style="display:none" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+		  <button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+			<span class="wt-cli-sr-only">Close</span>
+		  </button>
+		  <div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Polityka prywatności</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">Wybierz pliki cookies na jakie się zgadzasz. Aby dowiedzieć się więcej przeczytaj naszą Politykę prywatności.</div>
+				</div>
+				<a class="cli-privacy-readmore" aria-label="Show more" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+								Wymagane							</a>
+															<div class="wt-cli-necessary-checkbox">
+									<input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
+									<label class="form-check-label" for="wt-cli-checkbox-necessary">Wymagane</label>
+								</div>
+								<span class="cli-necessary-caption">Always Enabled</span>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="necessary">
+								<div class="wt-cli-cookie-description">
+									Bez tych plików serwis nie jest w stanie działać.								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab">
+								Funkcjonalne							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-functional" class="cli-user-preference-checkbox"  data-id="checkbox-functional" checked='checked' />
+									<label for="wt-cli-checkbox-functional" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Funkcjonalne</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="functional">
+								<div class="wt-cli-cookie-description">
+									Funkcjonalne pliki cookie pozwalają na analizę sposobu w jaki korzystasz ze strony. Wykorzystujemy je w celu optymalizacji i poprawy strony. Ich wybór jest rekomendowany. Bez funkcjonalnych plików cookies niektóre funkcjonalności na stronie nie będą działać poprawnie.								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab">
+								Marketingowe							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-advertisement" class="cli-user-preference-checkbox"  data-id="checkbox-advertisement" checked='checked' />
+									<label for="wt-cli-checkbox-advertisement" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Marketingowe</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="advertisement">
+								<div class="wt-cli-cookie-description">
+									Wykorzystujemy je do prezentowania ofert dostosowanych do Twoich zainteresowań.								</div>
+							</div>
+						</div>
+					</div>
+										</div>
+	</div>
+</div>
+		  </div>
+		  <div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all--><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: 24zł PROMO - POP-UP blog - Copy - Copy -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,77102,'or5bmhhdlybmailiovfn');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: CZAKRY ebook + wyzwanie - all pages -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,77102,'fajz7rcczykj1fazvj1b');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: Newsletter zapis EXIT INTENT - pop-up BLOG -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,77102,'wkmngn1itagsrkhz7wjt');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: NIE WYŁĄCZAĆ!!! Zapis na newsletter Form -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,77102,'xqe14ps5ev6vjertegr0');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: Ebook Morning Form -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,77102,'nenn9u0eym0x4jrjavp9');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: Ebook Dieta Jogina -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,77102,'twibm5wilv9fkt7famv5');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: Ebook Moon Form -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,77102,'j8jps0erastpsoym3r74');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: Ebook Basia -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,77102,'f4axfqlqbyyu5rh6o23b');</script>
+<!-- / OptinMonster -->		<script type="text/javascript">
+		var or5bmhhdlybmailiovfn_shortcode = true;var fajz7rcczykj1fazvj1b_shortcode = true;var wkmngn1itagsrkhz7wjt_shortcode = true;var xqe14ps5ev6vjertegr0_shortcode = true;var nenn9u0eym0x4jrjavp9_shortcode = true;var twibm5wilv9fkt7famv5_shortcode = true;var j8jps0erastpsoym3r74_shortcode = true;var f4axfqlqbyyu5rh6o23b_shortcode = true;		</script>
+		<script type='text/javascript' src='https://portalyogi.pl/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://portalyogi.pl/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Zamknij","currentText":"Dzisiaj","monthNames":["stycze\u0144","luty","marzec","kwiecie\u0144","maj","czerwiec","lipiec","sierpie\u0144","wrzesie\u0144","pa\u017adziernik","listopad","grudzie\u0144"],"monthNamesShort":["sty","lut","mar","kw.","maj","cze","lip","sie","wrz","pa\u017a","lis","gru"],"nextText":"Nast\u0119pny","prevText":"Poprzedni","dayNames":["niedziela","poniedzia\u0142ek","wtorek","\u015broda","czwartek","pi\u0105tek","sobota"],"dayNamesShort":["niedz.","pon.","wt.","\u015br.","czw.","pt.","sob."],"dayNamesMin":["N","P","W","\u015a","C","P","S"],"dateFormat":"d MM yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://portalyogi.pl/wp-content/plugins/modern-events-calendar-lite/assets/js/jquery.typewatch.js?ver=5.22.1' id='mec-typekit-script-js'></script>
+<script type='text/javascript' src='https://portalyogi.pl/wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlight.js?ver=5.22.1' id='featherlight-js'></script>
+<script type='text/javascript' src='https://portalyogi.pl/wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.full.min.js?ver=5.22.1' id='mec-select2-script-js'></script>
+<script type='text/javascript' src='https://portalyogi.pl/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltip.js?ver=5.22.1' id='mec-tooltip-script-js'></script>
+<script type='text/javascript' src='https://portalyogi.pl/wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min.js?ver=5.22.1' id='mec-lity-script-js'></script>
+<script type='text/javascript' src='https://portalyogi.pl/wp-content/plugins/modern-events-calendar-lite/assets/packages/colorbrightness/colorbrightness.min.js?ver=5.22.1' id='mec-colorbrightness-script-js'></script>
+<script type='text/javascript' src='https://portalyogi.pl/wp-content/plugins/modern-events-calendar-lite/assets/packages/owl-carousel/owl.carousel.min.js?ver=5.22.1' id='mec-owl-carousel-script-js'></script>
+<script type='text/javascript' id='site_tracking-js-extra'>
+/* <![CDATA[ */
+var php_data = {"ac_settings":{"tracking_actid":649801235,"site_tracking_default":1,"site_tracking":1},"user_email":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://portalyogi.pl/wp-content/plugins/activecampaign-subscription-forms/site_tracking.js?ver=6.1.1' id='site_tracking-js'></script>
+<script type='text/javascript' data-cfasync="false" async src='//widgets.getsitecontrol.com/178153/script.js?ver=3.0.0' id='gsc_widget_script-js'></script>
+<script type='text/javascript' src='https://portalyogi.pl/wp-content/themes/portal-yogi-2022/libs/unveil/jquery.unveil.js?ver=2.2.1' id='unveil-js'></script>
+<script type='text/javascript' src='https://portalyogi.pl/wp-content/themes/portal-yogi-2022/libs/lity/lity.min.js?ver=2.2.2' id='lity-js'></script>
+<script type='text/javascript' src='https://portalyogi.pl/wp-content/themes/portal-yogi-2022/js/slick.min.js?ver=2.2.2' id='slick-js'></script>
+<script type='text/javascript' src='https://portalyogi.pl/wp-content/themes/portal-yogi-2022/js/main.js?ver=3.1.1' id='main-js'></script>
+<script>(function(d){var s=d.createElement("script");s.type="text/javascript";s.src="https://a.omappapi.com/app/js/api.min.js";s.async=true;s.id="omapi-script";d.getElementsByTagName("head")[0].appendChild(s);})(document);</script><script type='text/javascript' src='https://portalyogi.pl/wp-content/plugins/optinmonster/assets/dist/js/helper.min.js?ver=2.12.2' id='optinmonster-wp-helper-js'></script>
+		<script type="text/javascript">var omapi_localized = {
+			ajax: 'https://portalyogi.pl/wp-admin/admin-ajax.php?optin-monster-ajax-route=1',
+			nonce: 'c3a01c34e2',
+			slugs:
+			{"or5bmhhdlybmailiovfn":{"slug":"or5bmhhdlybmailiovfn","mailpoet":false},"fajz7rcczykj1fazvj1b":{"slug":"fajz7rcczykj1fazvj1b","mailpoet":false},"wkmngn1itagsrkhz7wjt":{"slug":"wkmngn1itagsrkhz7wjt","mailpoet":false},"xqe14ps5ev6vjertegr0":{"slug":"xqe14ps5ev6vjertegr0","mailpoet":false},"nenn9u0eym0x4jrjavp9":{"slug":"nenn9u0eym0x4jrjavp9","mailpoet":false},"twibm5wilv9fkt7famv5":{"slug":"twibm5wilv9fkt7famv5","mailpoet":false},"j8jps0erastpsoym3r74":{"slug":"j8jps0erastpsoym3r74","mailpoet":false},"f4axfqlqbyyu5rh6o23b":{"slug":"f4axfqlqbyyu5rh6o23b","mailpoet":false}}		};</script>
+				<script type="text/javascript">var omapi_data = {"object_id":199,"object_key":"page","object_type":"post","term_ids":[],"wp_json":"https:\/\/portalyogi.pl\/wp-json","wc_active":false,"edd_active":false,"nonce":"d30f54571e"};</script>
+		<script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.5.1/dist/simpleParallax.min.js"></script>
+
+</body>
+</html>
