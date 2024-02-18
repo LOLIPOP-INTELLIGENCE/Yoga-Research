@@ -7,7 +7,8 @@ data_path = 'yoga_poses_5/yoga_test_data.csv'
 data = pd.read_csv(data_path)
 
 # Assuming we're visualizing the first row for demonstration
-row = data.iloc[190]
+print(data)
+row = data.iloc[0]
 
 print(row)
 
