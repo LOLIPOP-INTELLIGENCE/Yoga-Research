@@ -29,6 +29,8 @@ movenet = Movenet('movenet_thunder')
 
 # the input image to improve pose estimation accuracy.
 def detect(input_tensor, inference_count=3):
+  print(input_tensor.shape)
+  input_tensor = input_tensor[:, :, :3]
   image_height, image_width, channel = input_tensor.shape
  
   movenet.detect(input_tensor.numpy(), reset_crop_region=True)
@@ -39,9 +41,11 @@ def detect(input_tensor, inference_count=3):
 
   return person
 
-image_path = 'test_classify.jpeg'
+image_path = 'test.png'
 image = tf.io.read_file(image_path)
 image = tf.io.decode_jpeg(image)
+print(image.shape)
+print(type(image))
 person = detect(image)
 
 print(person)
