@@ -16,10 +16,11 @@ from tensorflow import keras
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
+# Works only with tensorflow 2.15.0
 model = load_model('yoga_poses_5/weights.best.hdf5')
 
 cap = cv2.VideoCapture(0)
-classes = ['chair', 'cobra', 'dog', 'tree', 'warrior']
+classes = ['chair', 'tree', 'dog', 'cobra', 'warrior']
 
 
 pose_sample_rpi_path = os.path.join(os.getcwd(), 'examples/lite/examples/pose_estimation/raspberry_pi')
@@ -73,7 +74,7 @@ while True:
         confidence = np.max(prediction) * 100
 
         # Display the classification result on the frame
-        cv2.putText(frame, f'{predicted_class} ({confidence:.2f}%)', (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2, cv2.LINE_AA)
+        cv2.putText(frame, f'{predicted_class} ({confidence:.2f}%)', (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 1.5, (0, 0, 255), 2, cv2.LINE_AA)
 
     else:
         print('Incorrect number of keypoints detected')
