@@ -42,6 +42,7 @@ def detect(input_tensor, inference_count=3):
 img_path = 'CorrectPoses/warrior.png'
 image = tf.io.read_file(img_path)
 image = tf.io.decode_jpeg(image)
+print(image.shape)
 person = detect(image)
 
 # print(person)
@@ -50,6 +51,8 @@ print(person.keypoints)
 pose_landmarks = np.array([[keypoint.coordinate.x, keypoint.coordinate.y, keypoint.score]for keypoint in person.keypoints],dtype=np.float32)
 
 coordinates = pose_landmarks.flatten().astype(str).tolist()
+
+print(coordinates)
 
 
 with open('yoga_image.csv', 'w', newline='') as file:
